@@ -1,7 +1,7 @@
 ---
 title: Constitución política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 3 de mayo de 2014
+date: Texto actualizado a 21 de julio de 2015
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -797,6 +797,12 @@ La ley orgánica constitucional señalada en el inciso primero, regulará la tra
 La Cámara de Diputados y el Senado no podrán entrar en sesión ni adoptar acuerdos sin la concurrencia de la tercera parte de sus miembros en ejercicio.
 
 Cada una de las Cámaras establecerá en su propio reglamento la clausura del debate por simple mayoría.
+
+#### Artículo 56 bis.-
+
+Durante el mes de julio de cada año, el Presidente del Senado y el Presidente de la Cámara de Diputados darán cuenta pública al país, en sesión del Congreso Pleno, de las actividades realizadas por las Corporaciones que presiden.
+
+El Reglamento de cada Cámara determinará el contenido de dicha cuenta y regulará la forma de cumplir esta obligación.
 
 ### Normas comunes para los diputados y senadores
 
