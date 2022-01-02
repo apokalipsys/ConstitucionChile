@@ -1,3 +1,4 @@
+2009.06.12: Ley 20354: Reforma constitucional que modifica la fecha de elección de Presidente de la República @20354
 2009.05.30: Ley 20352: Reforma Constitucional que autoriza al Estado de Chile para reconocer el Estatuto de Roma, que crea la Corte Penal Internacional @20352
 2009.05.14: Ley 20346: Reforma constitucional en materia de asociacionismo municipal @20346
 2009.04.04: Ley 20337: Reforma Constitucional que modifica los artículos 15 y 18 de la Carta Fundamental, con el objeto de consagrar el sufragio como un derecho de los ciudadanos y de su inscripción automática en los Registros Electorales @20337
@@ -175,5 +176,11 @@ references:
     title: Ley 20352
     URL: https://www.bcn.cl/leychile/navegar?idNorma=1002776
     issued: 2009-05-30
+    language: es-CL
+  - id: 20354
+    type: webpage
+    title: Ley 20354
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=1003292
+    issued: 2009-06-12
     language: es-CL
 ---
