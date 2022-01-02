@@ -1,7 +1,7 @@
 ---
 title: Constitución política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 24 de marzo de 2020
+date: Texto actualizado a 26 de marzo de 2020
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -2046,3 +2046,11 @@ Si de la aplicación de esta regla no se lograre el equilibrio de género, se re
 En ningún caso procederá reasignación alguna respecto de los ciudadanos independientes que resulten electos fuera de lista. Sin embargo, éstos se considerarán con el objeto de establecer el cumplimiento de la paridad o diferencia mínima entre sexos a que alude el numeral 1.
 
 En el caso de que la ciudadanía elija la opción de Convención Mixta Constitucional en el plebiscito nacional del domingo 26 de abril del año 2020, serán aplicables las normas de la presente disposición transitoria para la elección de todos los ciudadanos electos por la ciudadanía para dicha Convención Mixta Constitucional.
+
+#### TRIGÉSIMA SEGUNDA.-
+
+Por el plazo de un año a contar de la publicación de la presente reforma, la Cámara de Diputados y el Senado podrán funcionar por medios telemáticos una vez declarada una cuarentena sanitaria o un estado de excepción constitucional por calamidad pública que signifique grave riesgo para la salud o vida de los habitantes del país o de una o más regiones, que les impida sesionar, total o parcialmente, y mientras este impedimento subsista.
+
+Para ello se requerirá el acuerdo de los Comités que representen a los dos tercios de los integrantes de la respectiva cámara. Ellas podrán sesionar, votar proyectos de ley y de reforma constitucional y ejercer sus facultades exclusivas.
+
+El procedimiento telemático deberá asegurar que el voto de los parlamentarios sea personal, fundado e indelegable.
