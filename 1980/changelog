@@ -1,3 +1,4 @@
+2015.07.21: Ley 20854: Establece la obligación de las autoridades del Congreso Nacional a rendir una cuenta pública anual @20854
 2014.05.03: Ley 20748: Reforma constitucional que regula el ejercicio del sufragio de los ciudadanos que se encuentran fuera del país @20748
 2014.02.15: Ley 20725: Reforma constitucional en materia de integración de la Cámara de Diputados @20725
 2013.12.11: Ley 20710: Reforma constitucional que establece la obligatoriedad del segundo nivel de transición y crea un sistema de financiamiento gratuito desde el nivel medio menor @20710
@@ -252,5 +253,11 @@ references:
     title: Ley 20748
     URL: https://www.bcn.cl/leychile/navegar?idNorma=1061853
     issued: 2014-05-03
+    language: es-CL
+  - id: 20854
+    type: webpage
+    title: Ley 20854
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=1079688
+    issued: 2015-07-21
     language: es-CL
 ---
