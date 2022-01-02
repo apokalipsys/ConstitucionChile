@@ -1,3 +1,4 @@
+2009.10.28: Ley 20390: Reforma constitucional en materia de gobierno y administración regional @20390
 2009.06.12: Ley 20354: Reforma constitucional que modifica la fecha de elección de Presidente de la República @20354
 2009.05.30: Ley 20352: Reforma Constitucional que autoriza al Estado de Chile para reconocer el Estatuto de Roma, que crea la Corte Penal Internacional @20352
 2009.05.14: Ley 20346: Reforma constitucional en materia de asociacionismo municipal @20346
@@ -182,5 +183,11 @@ references:
     title: Ley 20354
     URL: https://www.bcn.cl/leychile/navegar?idNorma=1003292
     issued: 2009-06-12
+    language: es-CL
+  - id: 20390
+    type: webpage
+    title: Ley 20390
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=1007453
+    issued: 2009-10-28
     language: es-CL
 ---
