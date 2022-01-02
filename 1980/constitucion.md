@@ -1,7 +1,7 @@
 ---
 title: Constitución política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 22 de septiembre de 2005
+date: Texto actualizado a 16 de febrero de 2007
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -258,7 +258,7 @@ La Constitución asegura a todas las personas:
 
     Los padres tienen el derecho preferente y el deber de educar a sus hijos. Corresponderá al Estado otorgar especial protección al ejercicio de este derecho.
 
-    El Estado promoverá la educación parvularia.
+    Para el Estado es obligatorio promover la educación parvularia y garantizar el acceso gratuito y el financiamiento fiscal al segundo nivel de transición, sin que éste constituya requisito para el ingreso a la educación básica.
 
     La educación básica y la educación media son obligatorias, debiendo el Estado financiar un sistema gratuito con tal objeto, destinado a asegurar el acceso a ellas de toda la población. En el caso de la educación media este sistema, en conformidad a la ley, se extenderá hasta cumplir los 21 años de edad.
 
@@ -1647,3 +1647,7 @@ No obstante, la modificación al Artículo 16 N° 2 de esta Constitución, tambi
 #### VIGESIMA.-
 
 En tanto no se creen los tribunales especiales a que alude el párrafo cuarto del número 16° del Artículo 19, las reclamaciones motivadas por la conducta ética de los profesionales que no pertenezcan a colegios profesionales, serán conocidas por los tribunales ordinarios.
+
+#### VIGESIMOPRIMERA.-
+
+La reforma introducida al numeral 10º del artículo 19 en relación al segundo nivel de transición de la educación parvularia, entrará en vigencia gradualmente, en la forma que disponga la ley.
