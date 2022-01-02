@@ -1,3 +1,4 @@
+2009.04.04: Ley 20337: Reforma Constitucional que modifica los artículos 15 y 18 de la Carta Fundamental, con el objeto de consagrar el sufragio como un derecho de los ciudadanos y de su inscripción automática en los Registros Electorales @20337
 2008.01.10: Ley 20245: Reforma constitucional que regula la entrada en vigencia de las leyes procesales que indica @20245
 2007.07.30: Ley 20193: Reforma constitucional que establece los territorios especiales de Isla de Pascua y Archipiélago Juan Fernández @20193
 2007.02.16: Ley 20162: Reforma Constitucional que establece la obligatoriedad de la educación parvularia en su segundo nivel de transición @20162
@@ -154,5 +155,11 @@ references:
     title: Ley 20245
     URL: https://www.bcn.cl/leychile/navegar?idNorma=268255
     issued: 2008-01-10
+    language: es-CL
+  - id: 20337
+    type: webpage
+    title: Ley 20337
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=1000965
+    issued: 2009-04-04
     language: es-CL
 ---
