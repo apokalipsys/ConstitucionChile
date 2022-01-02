@@ -1,3 +1,4 @@
+2020.07.08: Ley 21238: Reforma Constitucional para limitar la reelección de las autoridades que indica @21238
 2020.05.30: Ley 21237: Reforma constitucional que permite al Congreso Pleno funcionar por medios telemáticos y establece una nueva fecha para la cuenta a que se refiere el artículo 24 de la Constitución para el año 2020 @21237
 2020.05.28: Ley 21233: Modifica la Constitución Política de La República en materia de determinación de remuneraciones de autoridades y funcionarios que indica @21233
 2020.03.26: Ley 21221: Reforma constitucional que establece un nuevo itinerario electoral para el plebiscito constituyente y otros eventos electorales que indica @21221
@@ -336,5 +337,11 @@ references:
     title: Ley 21237
     URL: https://www.bcn.cl/leychile/navegar?idNorma=1146001
     issued: 2020-05-30
+    language: es-CL
+  - id: 21238
+    type: webpage
+    title: Ley 21238
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=1147301
+    issued: 2020-07-08
     language: es-CL
 ---
