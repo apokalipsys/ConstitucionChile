@@ -1,7 +1,7 @@
 ---
 title: Constitución política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 4 de marzo de 1994
+date: Texto actualizado a 20 de febrero de 1996
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -1660,3 +1660,13 @@ Las elecciones populares que se originen en esta reforma constitucional se efect
 #### TRIGÉSIMACUARTA.-
 
 No obstante lo dispuesto en el inciso segundo del artículo 54, para las elecciones de diputados y senadores que corresponda realizar en 1993, no podrán ser candidatos los ciudadanos que resulten elegidos alcaldes, miembros de los consejos regionales o concejales en las elecciones que se celebren en 1992.
+
+#### TRIGESIMAQUINTA.-
+
+Las elecciones destinadas a renovar los actuales concejos municipales se realizarán el día 27 de octubre de 1996. En todo caso, los concejos se instalarán el día 6 de diciembre del mismo año.
+
+El Secretario Municipal cumplirá las funciones de aquellos concejos que no se constituyan el día señalado, hasta la instalación de éstos.
+
+El período de los alcaldes y concejales en ejercicio se extenderá hasta el día 6 de diciembre de 1996.
+
+El período de los consejeros regionales en ejercicio expirará el 19 de febrero de 1997, aplicándose en lo demás la ley correspondiente.
