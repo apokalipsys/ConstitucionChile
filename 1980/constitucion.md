@@ -1,7 +1,7 @@
 ---
 title: Constitución política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 16 de junio de 1999
+date: Texto actualizado a 2 de octubre de 1999
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -249,6 +249,8 @@ La Constitución asegura a todas las personas:
     La educación tiene por objeto el pleno desarrollo de la persona en las distintas etapas de su vida.
 
     Los padres tienen el derecho preferente y el deber de educar a sus hijos. Corresponderá al Estado otorgar especial protección al ejercicio de este derecho.
+
+    El Estado promoverá la educación parvularia.
 
     La educación básica es obligatoria, debiendo el Estado financiar un sistema gratuito con tal objeto, destinado a asegurar el acceso a ella de toda la población.
 
