@@ -1,7 +1,7 @@
 ---
 title: Constitución política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 16 de febrero de 2007
+date: Texto actualizado a 30 de julio de 2007
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -1502,6 +1502,12 @@ La ley determinará la forma de resolver las cuestiones de competencia que pudie
 
 Asimismo, establecerá el modo de dirimir las discrepancias que se produzcan entre el intendente y el consejo regional, así como entre el alcalde y el concejo.
 
+### Disposiciones Especiales
+
+#### Artículo 126 bis.-
+
+Son territorios especiales los correspondientes a Isla de Pascua y al Archipiélago Juan Fernández. El Gobierno y Administración de estos territorios se regirá por los estatutos especiales que establezcan las leyes orgánicas constitucionales respectivas.
+
 
 ## Capítulo XV: Reforma De La Constitución
 
@@ -1651,3 +1657,7 @@ En tanto no se creen los tribunales especiales a que alude el párrafo cuarto de
 #### VIGESIMOPRIMERA.-
 
 La reforma introducida al numeral 10º del artículo 19 en relación al segundo nivel de transición de la educación parvularia, entrará en vigencia gradualmente, en la forma que disponga la ley.
+
+#### VIGESIMOSEGUNDA.-
+
+Mientras no entren en vigencia los estatutos especiales a que se refiere el artículo 126 bis, los territorios especiales de Isla de Pascua y Archipiélago Juan Fernández continuarán rigiéndose por las normas comunes en materia de división político-administrativa y de gobierno y administración interior del Estado.
