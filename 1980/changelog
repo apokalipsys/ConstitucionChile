@@ -1,3 +1,4 @@
+2001.08.25: Ley 19742: Reforma constitucional que elimina la censura cinematográfica sustituyéndola por un sistema de calificación y que consagra el derecho a la libre creación artística @19742
 2000.04.29: Ley 19671: Reforma constitucional que modifica el artículo 117 de la Carta fundamental, en lo relativo a oportunidad en que han de reunirse las dos Cámaras para aprobar una reforma constitucional @19671
 2000.04.28: Ley 19672: Reforma constitucional que modifica el artículo 30 de la Carta fundamental, con el fin de establecer el estatuto de los ex presidentes de la República @19672
 1999.11.95: Ley 19643: Introduce modificaciones a los artículos 26, 27 y 84 de la Constitución política de la República, sobre calificación de la elección de presidente de la República y Tribunal calificador de elecciones @19643
@@ -106,4 +107,10 @@ references:
     URL: https://www.bcn.cl/leychile/navegar?idNorma=167310
     issued: 2000-04-29
     language:es-CL 
+  - id: 19742
+    type: webpage
+    title: Ley 19742
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=188827
+    issued: 2001-08-25
+    language:es-CL
 ---
