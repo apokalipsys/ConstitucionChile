@@ -1,3 +1,4 @@
+2020.08.27: Ley 21257: Reforma Constitucional que faculta al Servicio Electoral a dictar las normas e instrucciones necesarias para el desarrollo del plebiscito nacional dispuesto en el Artículo 130 de la Constitución y otros procesos electorales en los términos que indican @21257
 2020.08.26: Ley 21261: Reforma constitucional que regula el financiamiento y la propaganda de las campañas para el plebiscito constituyente @21261
 2020.08.20: Ley 21253: Reforma Constitucional que faculta al Banco Central para comprar y vender, en el mercado secundario abierto, instrumentos de deuda emitidos por el Fisco, en situaciones excepcionales que indica @21253
 2020.07.30: Ley 21248: Reforma constitucional que permite el retiro excepcional de los fondos acumulados de capitalización individual en las condiciones que indica @21248
@@ -364,5 +365,11 @@ references:
     title: Ley 21261
     URL: https://www.bcn.cl/leychile/navegar?idNorma=1148743
     issued: 2020-08-26
+    language: es-CL
+  - id: 21257
+    type: webpage
+    title: Ley 21257
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=1148744
+    issued: 2020-08-27
     language: es-CL
 ---
