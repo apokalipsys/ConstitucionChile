@@ -1,3 +1,4 @@
+2021.03.17: Ley 21317: Amplía a dos días el plazo para celebrar las próximas elecciones municipales, de gobernadores regionales y de convencionales constituyentes, fija reglas especiales para su desarrollo, y señala inscripción de candidaturas en los términos que indica @21317
 2021.03.06: Ley 21315: Sobre propaganda electoral de los candidatos a convencionales constituyentes @21315
 2020.12.23: Ley 21298: Modifica la Carta Fundamental para reservar escaños a representantes de los pueblos indígenas en la Convención Constitucional y para resguardar y promover la participación de las personas con discapacidad en la elección de Convencionales Constituyentes @21298
 2020.12.10: Ley 21296: Modifica la Carta Fundamental para facilitar la suscripción de patrocinios y la declaración e inscripción de listas de candidaturas independientes, con miras a la elección de los integrantes del órgano constituyente a que se refiere su disposición vigésimo novena transitoria @21296
@@ -392,5 +393,11 @@ references:
     title: Ley 21315
     URL: https://www.bcn.cl/leychile/navegar?idNorma=1156683
     issued: 2021-03-06
+    language: es-CL
+  - id: 21317
+    type: webpage
+    title: Ley 21317
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=1157063
+    issued: 2021-03-17
     language: es-CL
 ---
