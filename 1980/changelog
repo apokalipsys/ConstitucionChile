@@ -1,3 +1,4 @@
+2005.09.22: Decreto 100: Fija el texto refundido, coordinado y sistematizado de la Constitución Política de la República de Chile @D100
 2005.08.26: Ley 20050: Reforma constitucional que introduce diversas modificaciones a la Constitución política de la República @20050
 2003.05.22: Ley 19876: Reforma constitucional que establece la obligatoriedad y gratuidad de la Educación Media @19876
 2001.08.25: Ley 19742: Reforma constitucional que elimina la censura cinematográfica sustituyéndola por un sistema de calificación y que consagra el derecho a la libre creación artística @19742
@@ -127,4 +128,10 @@ references:
     URL: https://www.bcn.cl/leychile/navegar?idNorma=241331
     issued: 2005-08-26
     language:es-CL
+  - id: D100
+    type: webpage
+    title: Decreto 100 22-SEP-2005
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=242302
+    issued: 2005-09-22
+    language: es-CL
 ---
