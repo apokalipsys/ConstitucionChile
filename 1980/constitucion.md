@@ -1,7 +1,7 @@
 ---
 title: Constitución política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 20 de febrero de 1996
+date: Texto actualizado a 16 de septiembre de 1997
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -182,7 +182,7 @@ La Constitución asegura a todas las personas:
 
     Nadie puede ser juzgado por comisiones especiales, sino por el tribunal que le señale la ley y que se halle establecido con anterioridad por ésta.
 
-    Toda sentencia de un órgano que ejerza jurisdicción debe fundarse en un proceso previo legalmente tramitado. Corresponderá al legislador establecer siempre las garantías de un racional y justo procedimiento.
+    Toda sentencia de un órgano que ejerza jurisdicción debe fundarse en un proceso previo legalmente tramitado. Corresponderá al legislador establecer siempre las garantías de un procedimiento y una investigación racionales y justos.
 
     La ley no podrá presumir de derecho la responsabilidad penal. Ningún delito se castigará con otra pena que la que señale una ley promulgada con anterioridad a su perpetración, a menos que una nueva ley favorezca al afectado.
 
@@ -492,7 +492,7 @@ Son atribuciones especiales del Presidente de la República:
 11. Nombrar al Contralor General de la República con acuerdo del Senado;
 12. Nombrar y remover a los funcionarios que la ley denomina como de su exclusiva confianza y proveer los demás empleos civiles en conformidad a la ley. La remoción de los los demás funcionarios se hará de acuerdo a las disposiciones que ésta determine;
 13. Conceder jubilaciones, retiros, montepíos y pensiones de gracia, con arreglo a las leyes;
-14. Nombrar a los magistrados de los tribunales superiores de justicia y a los jueces letrados, a proposición de la Corte Suprema y de las Cortes de Apelaciones, respectivamente, y a los miembros del Tribunal Constitucional que le corresponda designar, todo ello conforme a lo prescrito en esta Constitución;
+14. Nombrar a los magistrados de los tribunales superiores de justicia y a los jueces letrados, a proposición de la Corte Suprema y de las Cortes de Apelaciones, respectivamente, al miembro del Tribunal Constitucional que le corresponde designar, y al Fiscal Nacional, a proposición de la Corte Suprema y con acuerdo del Senado, todo ello conforme a lo prescrito en esta Constitución;
 15. Velar por la conducta ministerial de los jueces y demás empleados del Poder Judicial y requerir, con tal objeto, a la Corte Suprema para que, si procede, declare su mal comportamiento o al ministerio público, para que reclame medidas disciplinarias del tribunal competente, o para que, si hubiere mérito bastante, entable la correspondiente acusación;
 16. Otorgar indultos particulares en los casos y formas que determine la ley. El indulto será improcedente en tanto no se haya dictado sentencia ejecutoriada en el respectivo proceso. Los funcionarios acusados por la Cámara de Diputados y condenados por el Senado, sólo pueden ser ser indultados por el Congreso;
 17. Conducir las relaciones políticas con las potencias extranjeras y organismos internacionales, y llevar a cabo las negociaciones; concluir, firmar y ratificar los tratados que estime convenientes para los intereses del país, los que deberán ser sometidos a la aprobación del Congreso conforme a lo prescrito en el artículo 50 Nº. 1º.. Las discusiones y deliberaciones sobre éstos objetos serán secretos si el Presidente de la República así lo exigiere;
@@ -694,8 +694,8 @@ Son atribuciones exclusivas del Senado:
     Si el Senado no se pronunciare dentro de treinta días después de pedida la urgencia por el Presidente de la República, se tendrá por otorgado su asentimiento;
 6) Otorgar su acuerdo para que el Presidente de la República pueda ausentarse del país por más de treinta días o en los últimos o noventa días de su período;
 7) Declarar la inhabilidad del Presidente de la República o del Presidente electo cuando un impedimento físico o mental lo inhabilite para el ejercicio de sus funciones; y declarar asimismo, cuando el Presidente de la República haga dimisión de su cargo, si los motivos que la originan son o no fundados y, en consecuencia, admitirla o desecharla. En ambos casos deberá oír previamente al Tribunal Constitucional;
-8) Aprobar, por la mayoría de sus miembros en ejercicio, la declaración del Tribunal Constitucional a que se refiere la segunda parte del Nº. 8º. del artículo 82, y
-9) (derogado. Ley N° 18.825, numeral 29, del artículo único)
+8) Aprobar, por la mayoría de sus miembros en ejercicio, la declaración del Tribunal Constitucional a que se refiere la segunda parte del Nº. 8º. del artículo 82;
+9) Aprobar, en sesión especialmente convocada al efecto y con el voto conforme de los dos tercios de los senadores en ejercicio, la designación del Fiscal Nacional, y
 10) Dar su dictamen al Presidente de la República en los casos en que éste lo solicite.
 
 El Senado, sus comisiones y sus demás órganos, incluidos los comités parlamentarios si los hubiere, no podrán fiscalizar los actos del gobierno ni de las entidades que de él dependan, ni adoptar acuerdos que impliquen fiscalización.
@@ -746,13 +746,14 @@ No pueden ser candidatos a diputados ni a senadores:
 1) Los Ministros de Estado;
 2) Los intendentes, los gobernadores, los alcaldes, los miembros de los consejos regionales y los concejales;
 3) Los miembros del Consejo del Banco Central;
-4) Los magistrados de los tribunales superiores de justicia, los jueces de letras y los funcionarios que ejerzan el ministerio público;
+4) Los magistrados de los tribunales superiores de justicia y los jueces de letras;
 5) Los miembros del Tribunal Constitucional, del Tribunal Calificador de Elecciones y de los tribunales electorales regionales;
 6) El Contralor General de la República;
-7) Las personas que desempeñan un cargo directivo de naturaleza gremial o vecinal, y
-8) Las personas naturales y los gerentes o administradores de personas jurídicas que celebren o caucionen contratos con el Estado.
+7) Las personas que desempeñan un cargo directivo de naturaleza gremial o vecinal;
+8) Las personas naturales y los gerentes o administradores de personas jurídicas que celebren o caucionen contratos con el Estado, y
+9) El Fiscal Nacional, los fiscales regionales y los fiscales adjuntos del Ministerio Público.
 
-Las inhabilidades establecidas en este artículo serán aplicables a quienes hubieren tenido las calidades o cargos antes mencionados dentro del año inmediatamente anterior a la elección; excepto respecto de las personas mencionadas en los números 7) y 8), las que no deberán reunir esas condiciones al momento de inscribir su candiatura. Si no fueren elegidos en una elección no podrán volver al mismo cargo ni ser designados para cargos análogos a los que desempeñaron hasta un año después del acto electoral.
+Las inhabilidades establecidas en este artículo serán aplicables a quienes hubieren tenido las calidades o cargos antes mencionados dentro del año inmediatamente anterior a la elección; excepto respecto de las personas mencionadas en los números 7) y 8), las que no deberán reunir esas condiciones al momento de inscribir su candiatura y de las indicadas en el número 9), respecto de las cuales el plazo de la inhabilidad será de los dos años inmediatamente anteriores a la elección. Si no fueren elegidos en una elección no podrán volver al mismo cargo ni ser designados para cargos análogos a los que desempeñaron hasta un año después del acto electoral.
 
 #### Artículo 55.-
 
@@ -941,7 +942,7 @@ La facultad de conocer de las causas civiles y criminales, de resolverlas y de h
 
 Reclamada su intervención en forma legal y en negocios de su competencia, no podrán excusarse de ejercer su autoridad, ni aun por falta de ley que resuelva la contienda o asunto sometidos a su decisión.
 
-Para hacer ejecutar sus resoluciones y practicar o hacer practicar los actos de instrucción que decreten, los tribunales ordinarios de justicia y los especiales que integran el Poder Judicial, podrán impartir órdenes directas a la fuerza pública o ejercer los medios de acción conducentes de que dispusieren. Los demás tribunales lo harán en la forma que la ley determine.
+Para hacer ejecutar sus resoluciones, y practicar o hacer practicar los actos de instrucción que determine la ley, los tribunales ordinarios de justicia y los especiales que integran el Poder Judicial, podrán impartir órdenes directas a la fuerza pública o ejercer los medios de acción conducentes de que dispusieren. Los demás tribunales lo harán en la forma que la ley determine.
 
 La autoridad requerida deberá cumplir sin más trámite el mandato judicial y no podrá calificar su fundamento u oportunidad, ni la justicia o legalidad de la resolución que se trata de ejecutar.
 
@@ -955,9 +956,9 @@ La ley orgánica constitucional relativa a la organización y atribuciones de lo
 
 En cuanto al nombramiento de los jueces, la ley se ajustara a los siguientes preceptos generales.
 
-Los ministros y fiscales de la Corte Suprema serán nombrados por el Presidente de la República, eligiéndolos de una nómina de cinco personas que, en cada caso, propondrá la misma Corte. El ministro más antiguo de Corte de Apelaciones que figure en lista de méritos ocupara un lugar en la nómina señalada. Los otros cuatro lugares se llenaran en atención a los merecimientos de los candidatos, pudiendo figurar personas extrañas a la administración de justicia.
+Los ministros y fiscales judiciales de la Corte Suprema serán nombrados por el Presidente de la República, eligiéndolos de una nómina de cinco personas que, en cada caso, propondrá la misma Corte. El ministro más antiguo de Corte de Apelaciones que figure en lista de méritos ocupara un lugar en la nómina señalada. Los otros cuatro lugares se llenaran en atención a los merecimientos de los candidatos, pudiendo figurar personas extrañas a la administración de justicia.
 
-Los ministros y fiscales de las Cortes de Apelaciones serán designados por el Presidente de la República, a propuesta en terna de la Corte Suprema.
+Los ministros y fiscales judiciales de las Cortes de Apelaciones serán designados por el Presidente de la República, a propuesta en terna de la Corte Suprema.
 
 Los jueces letrados serán designados por el Presidente de la República, a propuesta en terna de la Corte de Apelaciones de la jurisdicción respectiva.
 
@@ -983,7 +984,7 @@ El Presidente de la República, a propuesta o con acuerdo de la Corte Suprema, p
 
 #### Artículo 78.-
 
-Los magistrados de los tribunales superiores de justicia, los fiscales y los jueces letrados que integran el Poder Judicial, no podrán ser aprehendidos sin orden del tribunal competente, salvo el caso de crimen o simple delito flagrante y sólo para ponerlos inmediatamente a disposición del tribunal que debe conocer del asunto en conformidad a la ley.
+Los magistrados de los tribunales superiores de justicia, los fiscales judiciales y los jueces letrados que integran el Poder Judicial, no podrán ser aprehendidos sin orden del tribunal competente, salvo el caso de crimen o simple delito flagrante y sólo para ponerlos inmediatamente a disposición del tribunal que debe conocer del asunto en conformidad a la ley.
 
 #### Artículo 79.-
 
@@ -994,6 +995,64 @@ Conocerá, además, de las contiendas de competencia que se susciten entre las a
 #### Artículo 80.-
 
 La Corte Suprema, de oficio o a petición de parte, en las materias de que conozca, o que le fueren sometidas en recurso interpuesto en cualquier gestión que se siga ante otro tribunal, podrá declarar inaplicable para esos casos particulares todo precepto legal contrario a la Constitución. Este recurso podrá deducirse en cualquier estado de la gestión, pudiendo ordenar la Corte la suspensión del procedimiento.
+
+
+## Capítulo VI-A: Ministerio Público
+
+
+#### Artículo 80 A.-
+
+Un organismo autónomo, jerarquizado, con el nombre de Ministerio Público, dirigirá en forma exclusiva la investigación de los hechos constitutivos de delito, los que determinen la participación punible y los que acrediten la inocencia del imputado y, en su caso, ejercerá la acción penal pública en la forma prevista por la ley. De igual manera, le corresponderá la adopción de medidas para proteger a las víctimas y a los testigos. En caso alguno podrá ejercer funciones jurisdiccionales.
+
+El ofendido por el delito y las demás personas que determine la ley podrán ejercer igualmente la acción penal.
+
+El Ministerio Público podrá impartir órdenes directas a las Fuerzas de Orden y Seguridad durante la investigación. Sin embargo, las actuaciones que priven al imputado o a terceros del ejercicio de los derechos que esta Constitución asegura, o lo restrinjan o perturben, requerirán de aprobación judicial previa. La autoridad requerida deberá cumplir sin más trámite dichas órdenes y no podrá calificar su fundamento, oportunidad, justicia o legalidad, salvo requerir la exhibición de la autorización judicial previa, en su caso.
+
+El ejercicio de la acción penal pública, y la dirección de las investigaciones de los hechos que configuren el delito, de los que determinen la participación punible y de los que acrediten la inocencia del imputado en las causas que sean de conocimiento de los tribunales militares, como asimismo la adopción de medidas para proteger a las víctimas y a los testigos de tales hechos corresponderán, en conformidad con las normas del Código de Justicia Militar y a las leyes respectivas, a los órganos y a las personas que ese Código y esas leyes determinen.
+
+#### Artículo 80 B.-
+
+Una ley orgánica constitucional determinará la organización y atribuciones del Ministerio Público, señalará las calidades y requisitos que deberán tener y cumplir los fiscales para su nombramiento y las causales de remoción de los fiscales adjuntos, en lo no contemplado en la Constitución. Las personas que sean designadas fiscales no podrán tener impedimento alguno que las inhabilite para desempeñar el cargo de juez. Los fiscales regionales y adjuntos cesarán en su cargo al cumplir 75 años de edad.
+
+La ley orgánica constitucional establecerá el grado de independencia y autonomía y la responsabilidad que tendrán los fiscales en la dirección de la investigación y en el ejercicio de la acción penal pública, en los casos que tengan a su cargo.
+
+#### Artículo 80 C.-
+
+El Fiscal Nacional será designado por el Presidente de la República, a propuesta en quina de la Corte Suprema y con acuerdo del Senado adoptado por los dos tercios de sus miembros en ejercicio, en sesión especialmente convocada al efecto. Si el Senado no aprobare la proposición del Presidente de la República, la Corte Suprema deberá completar la quina proponiendo un nuevo nombre en sustitución del rechazado, repitiéndose el procedimiento hasta que se apruebe un nombramiento.
+
+El Fiscal Nacional deberá tener a lo menos diez años de título de abogado, haber cumplido cuarenta años de edad y poseer las demás calidades necesarias para ser ciudadano con derecho a sufragio; durará diez años en el ejercicio de sus funciones y no podrá ser designado para el período siguiente.
+
+#### Artículo 80 D.-
+
+Existirá un Fiscal Regional en cada una de las regiones en que se divida administrativamente el país, a menos que la población o la extensión geográfica de la región hagan necesario nombrar más de uno.
+
+Los fiscales regionales serán nombrados por el Fiscal Nacional, a propuesta en terna de la Corte de Apelaciones de la respectiva región. En caso que en la región exista más de una Corte de Apelaciones, la terna será formada por un pleno conjunto de todas ellas, especialmente convocado al efecto por el Presidente de la Corte de más antigua creación.
+
+Los fiscales regionales deberán tener a lo menos cinco años de título de abogado, haber cumplido 30 años de edad y poseer las demás calidades necesarias para ser ciudadano con derecho a sufragio; durarán diez años en el ejercicio de sus funciones y no podrán ser designados como fiscales regionales por el período siguiente, lo que no obsta a que puedan ser nombrados en otro cargo del Ministerio Público.
+
+#### Artículo 80 E.-
+
+La Corte Suprema y las Cortes de Apelaciones, en su caso, llamarán a concurso público de antecedentes para la integración de las quinas y ternas, las que serán acordadas por la mayoría absoluta de sus miembros en ejercicio, en pleno especialmente convocado al efecto. No podrán integrar las quinas y ternas los miembros activos o pensionados del Poder Judicial.
+
+Las quinas y ternas se formarán en una misma y única votación en la cual cada integrante del pleno tendrá derecho a votar por tres o dos personas, respectivamente. Resultarán elegidos quienes obtengan las cinco o las tres primeras mayorías, según corresponda. De producirse un empate, éste se resolverá mediante sorteo.
+
+#### Artículo 80 F.-
+
+Existirán fiscales adjuntos que serán designados por el Fiscal Nacional, a propuesta en terna del fiscal regional respectivo, la que deberá formarse previo concurso público, en conformidad a la ley orgánica constitucional. Deberán tener el título de abogado y poseer las demás calidades necesarias para ser ciudadano con derecho a sufragio.
+
+#### Artículo 80 G.-
+
+El Fiscal Nacional y los fiscales regionales sólo podrán ser removidos por la Corte Suprema, a requerimiento del Presidente de la República, de la Cámara de Diputados, o de diez de sus miembros, por incapacidad, mal comportamiento o negligencia manifiesta en el ejercicio de sus funciones. La Corte conocerá del asunto en pleno especialmente convocado al efecto y para acordar la remoción deberá reunir el voto conforme de cuatro séptimos de sus miembros en ejercicio.
+
+La remoción de los fiscales regionales también podrá ser solicitada por el Fiscal Nacional.
+
+#### Artículo 80 H.-
+
+Se aplicará al Fiscal Nacional, a los fiscales regionales y a los fiscales adjuntos lo establecido en el artículo 78.
+
+#### Artículo 80 I.-
+
+El Fiscal Nacional tendrá la superintendencia directiva, correccional y económica del Ministerio Público, en conformidad a la ley orgánica constitucional respectiva.
 
 
 ## Capítulo VII: Tribunal Constitucional
@@ -1670,3 +1729,13 @@ El Secretario Municipal cumplirá las funciones de aquellos concejos que no se c
 El período de los alcaldes y concejales en ejercicio se extenderá hasta el día 6 de diciembre de 1996.
 
 El período de los consejeros regionales en ejercicio expirará el 19 de febrero de 1997, aplicándose en lo demás la ley correspondiente.
+
+#### TRIGESIMASEXTA.-
+
+Las normas del capítulo VI-A "Ministerio Público", regirán al momento de entrar en vigencia la ley orgánica constitucional del Ministerio Público. Esta ley podrá establecer fechas diferentes para la entrada en vigor de sus disposiciones, como también determinar su aplicación gradual en las diversas materias y regiones del país.
+
+El capítulo VI-A "Ministerio Público", la ley orgánica constitucional del Ministerio Público y las leyes que, complementando dichas normas, modifiquen el Código Orgánico de Tribunales y el Código de Procedimiento Penal, se aplicarán exclusivamente a los hechos acaecidos con posterioridad a la entrada en vigencia de tales disposiciones.
+
+#### TRIGESIMASÉPTIMA.-
+
+No obstante lo dispuesto en el artículo 80 E, en la quina y en cada una de las ternas que se formen para proveer por primera vez los cargos de Fiscal Nacional y de Fiscales Regionales, la Corte Suprema y las Cortes de Apelaciones podrán incluir, respectivamente, a un miembro activo del Poder Judicial.
