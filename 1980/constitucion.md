@@ -1,7 +1,7 @@
 ---
 title: Constitución política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 23 de diciembre de 2020
+date: Texto actualizado a 6 de marzo de 2021
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -1756,7 +1756,7 @@ A los integrantes de la Convención se les llamará Convencionales Constituyente
 
 Además de lo establecido en los artículos 139, 140 y 141 de la Constitución, a la elección de Convencionales Constituyentes a la que hace referencia el inciso final del artículo 130, serán aplicables las disposiciones pertinentes a la elección de diputados, contenidas en los siguientes cuerpos legales, en su texto vigente al 25 de junio del año 2020:
 
-a) Decreto con fuerza de ley Nº 2, del año 2017, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.700, orgánica constitucional sobre Votaciones Populares y Escrutinios;
+a) Decreto con fuerza de ley Nº 2, del año 2017, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.700, orgánica constitucional sobre Votaciones Populares y Escrutinios, con excepción del inciso quinto del artículo 32;
 
 b) Decreto con fuerza de ley Nº 5, del año 2017, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.556, orgánica constitucional sobre Sistema de Inscripciones Electorales y Servicio Electoral;
 
@@ -2389,7 +2389,15 @@ En todo lo demás, regirán las reglas comunes aplicables a los convencionales c
 
 #### CUADRAGÉSIMA CUARTA.-
 
+Sin perjuicio de lo dispuesto en el artículo 131, para los efectos del artículo 32 del decreto con fuerza de ley Nº 2, de 2017, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la ley N° 18.700, orgánica constitucional sobre Votaciones Populares y Escrutinios, el tiempo total de la franja televisiva en las elecciones de Convencionales Constituyentes se distribuirá entre los candidatos de pueblos indígenas, los candidatos independientes y los candidatos de un partido político o pacto, en la forma que se indica a continuación.
+
 Con el objeto de asegurar la votación informada de los pueblos indígenas, existirá una franja electoral indígena que tendrá una duración total equivalente al trece por ciento del tiempo de duración establecido para la franja de Convencionales Constituyentes pertenecientes a la elección general, distribuido en forma proporcional entre los diversos pueblos.
+
+El tiempo de la franja se distribuirá en la forma prevista en el inciso cuarto del artículo 32 del decreto con fuerza de ley Nº 2, de 2017, del Ministerio Secretaría General de la Presidencia, que fija texto refundido, coordinado y sistematizado de la ley Nº 18.700, orgánica constitucional sobre Votaciones Populares y Escrutinios. Asimismo, para los candidatos independientes en listas de candidatos independientes o fuera de ella se considerará un tiempo adicional al contemplado en el inciso primero del artículo 32 de la referida ley para la franja televisiva, excluyéndose a los candidatos independientes que formen parte de listas de partidos políticos, que se determinará de la siguiente forma:
+
+a) Se determinará un segundo a cada candidato independiente en lista de candidatos independientes o fuera de ella, distribuidos a cada candidato en partes iguales.
+
+b) Los candidatos independientes, sea que estén inscritos en lista de candidatos independientes o fuera de ellas, podrán ceder el tiempo que les corresponda a una lista de candidaturas independientes. El Consejo Nacional de Televisión establecerá la forma en que se le informará del uso conjunto del tiempo en la franja electoral por las listas de candidaturas independientes, según lo señalado en este literal. Esta información deberá ser entregada a más tardar a las 00:00 horas del cuarto día anterior al inicio de la franja electoral.
 
 #### CUADRAGÉSIMA QUINTA.-
 
