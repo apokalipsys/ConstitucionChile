@@ -1,7 +1,7 @@
 ---
 title: Constitución política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 14 de enero de 1999
+date: Texto actualizado a 16 de junio de 1999
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -14,7 +14,7 @@ fontfamilyoptions: sfdefault
 
 #### Artículo 1 º.-
 
-Los hombres nacen libres e iguales en dignidad y derechos.
+Las personas nacen libres e iguales en dignidad y derechos.
 
 La familia es el núcleo fundamental de la sociedad.
 
@@ -172,7 +172,7 @@ La Constitución asegura a todas las personas:
 
     Se prohíbe la aplicación de todo apremio ilegítimo;
 
-2. La igualdad ante la ley. En Chile no hay persona ni grupo privilegiados. En Chile no hay esclavos y el que pise su territorio queda libre.
+2. La igualdad ante la ley. En Chile no hay persona ni grupo privilegiados. En Chile no hay esclavos y el que pise su territorio queda libre. Hombres y mujeres son iguales ante la ley.
 
     Ni la ley ni autoridad alguna podrán establecer diferencias arbitrarias;
 
