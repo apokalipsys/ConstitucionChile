@@ -1,3 +1,4 @@
+2020.03.24: Ley 21216: Modifica la Carta Fundamental para permitir la conformación de pactos electorales de independientes y garantizar la paridad de género en las candidaturas y en la integración del Órgano Constituyente que se conforme para la creación de una nueva Constitución Política de La República @21216
 2019.12.24: Ley 21200: Modifica el capítulo XV de la Constitución Política de la República @21200
 2018.06.16: Ley 21096: Consagra el derecho a protección de los datos personales @21096
 2017.05.04: Ley 21011: Modifica la fecha de la cuenta que debe rendir el Presidente de la República ante el Congreso Pleno @21011
@@ -301,5 +302,11 @@ references:
     title: Ley 21200
     URL: https://www.bcn.cl/leychile/navegar?idNorma=1140340
     issued: 2019-12-24
+    language: es-CL
+  - id: 21216
+    type: webpage
+    title: Ley 21216
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=1143661
+    issued: 2020-03-24
     language: es-CL
 ---
