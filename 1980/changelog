@@ -1,4 +1,5 @@
-1989.08.17: Ley 18825 @18825
+1991.04.01: Ley 19055: Modifica la Constitución Política de La República @19055
+1989.08.17: Ley 18825: Modifica la Constitución Política de La República de Chile @18825
 1980.10.21: Decreto Ley 3464 11-AGO-1980 @DL3464
 
 ---
@@ -15,5 +16,10 @@ references:
     URL: https://www.bcn.cl/leychile/navegar?idNorma=30201
     issued: 1989-08-17
     language: es-CL
-
+  - id: 19055
+    type: webpage
+    title: Ley 19055
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=30422
+    issued: 1991-04-01
+    language:es-CL
 ---
