@@ -1,3 +1,4 @@
+2021.04.28: Ley 21330: Modifica la Carta Fundamental, para establecer y regular un mecanismo excepcional de retiro de fondos previsionales y anticipo de rentas vitalicias, en las condiciones que indica @21330
 2021.04.07: Ley 21324: Posterga las próximas elecciones municipales, de gobernadores regionales y de convencionales constituyentes por motivo del Covid-19 @21324
 2021.03.27: Ley 21318: Reforma constitucional que amplía el plazo de autorización para que el Congreso Nacional sesione por medios telemáticos @21318
 2021.03.17: Ley 21317: Amplía a dos días el plazo para celebrar las próximas elecciones municipales, de gobernadores regionales y de convencionales constituyentes, fija reglas especiales para su desarrollo, y señala inscripción de candidaturas en los términos que indica @21317
@@ -413,5 +414,11 @@ references:
     title: Ley 21324
     URL: https://www.bcn.cl/leychile/navegar?idNorma=1157863
     issued: 2021-04-07
+    language: es-CL
+  - id: 21330
+    type: webpage
+    title: Ley 21330
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=1158938
+    issued: 2021-04-28
     language: es-CL
 ---
