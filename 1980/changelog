@@ -1,3 +1,4 @@
+2020.08.20: Ley 21253: Reforma Constitucional que faculta al Banco Central para comprar y vender, en el mercado secundario abierto, instrumentos de deuda emitidos por el Fisco, en situaciones excepcionales que indica @21253
 2020.07.30: Ley 21248: Reforma constitucional que permite el retiro excepcional de los fondos acumulados de capitalización individual en las condiciones que indica @21248
 2020.07.08: Ley 21238: Reforma Constitucional para limitar la reelección de las autoridades que indica @21238
 2020.05.30: Ley 21237: Reforma constitucional que permite al Congreso Pleno funcionar por medios telemáticos y establece una nueva fecha para la cuenta a que se refiere el artículo 24 de la Constitución para el año 2020 @21237
@@ -350,5 +351,11 @@ references:
     title: Ley 21248
     URL: https://www.bcn.cl/leychile/navegar?idNorma=1147862
     issued: 2020-07-30
+    language: es-CL
+  - id: 21253
+    type: webpage
+    title: Ley 21253
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=1148564
+    issued: 2020-08-20
     language: es-CL
 ---

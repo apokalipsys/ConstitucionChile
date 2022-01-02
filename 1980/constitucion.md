@@ -1,7 +1,7 @@
 ---
 title: Constitución política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 30 de julio de 2020
+date: Texto actualizado a 20 de agosto de 2020
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -1488,6 +1488,8 @@ Existirá un organismo autónomo, con patrimonio propio, de carácter técnico, 
 
 El Banco Central sólo podrá efectuar operaciones con instituciones financieras, sean públicas o privadas. De manera alguna podrá otorgar a ellas su garantía, ni adquirir documentos emitidos por el Estado, sus organismos o empresas.
 
+Sin perjuicio de lo anterior, en situaciones excepcionales y transitorias, en las que así lo requiera la preservación del normal funcionamiento de los pagos internos y externos, el Banco Central podrá comprar durante un período determinado y vender, en el mercado secundario abierto, instrumentos de deuda emitidos por el Fisco, de conformidad a lo establecido en su ley orgánica constitucional.
+
 Ningún gasto público o préstamo podrá financiarse con créditos directos o indirectos del Banco Central.
 
 Con todo, en caso de guerra exterior o de peligro de ella, que calificará el Consejo de Seguridad Nacional, el Banco Central podrá obtener, otorgar o financiar créditos al Estado y entidades públicas o privadas.
@@ -2244,3 +2246,7 @@ La entrega de los fondos acumulados y autorizados de retirar se efectuará de la
 La implementación del sistema de transferencias de fondos y otras medidas que se efectúen en virtud de esta disposición no tendrán costo alguno para los afiliados. Además, las administradoras de fondos de pensiones deberán enviar a la Superintendencia de Pensiones todo antecedente del cumplimiento de las medidas que se efectúen con motivo de la aplicación de la presente disposición, y al Banco Central cuando corresponda.
 
 La observancia, fiscalización y sanción de las obligaciones de las administradoras de fondos de pensiones contenidas en la presente disposición, le corresponderá a la autoridad competente dentro de sus atribuciones legales.
+
+#### CUADRAGÉSIMA.-
+
+La reforma constitucional al artículo 109 empezará a regir una vez que entre en vigencia la ley que introduce modificaciones a la ley N° 18.840, Orgánica Constitucional del Banco Central de Chile, que regulará el ejercicio de la nueva facultad que se le otorga al Banco Central.
