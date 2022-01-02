@@ -1,3 +1,4 @@
+2013.12.11: Ley 20710: Reforma constitucional que establece la obligatoriedad del segundo nivel de transición y crea un sistema de financiamiento gratuito desde el nivel medio menor @20710
 2012.12.15: Ley 20644: Reforma constitucional que establece un mecanismo transitorio para la elección de consejeros regionales @20644
 2012.03.06: Ley 20573: Reforma constitucional sobre territorios especiales de Isla de Pascua y Archipiélago Juan Fernández @20573
 2011.07.11: Ley 20516: Reforma constitucional que establece la obligación de otorgar defensa penal y asesoría jurídica a las personas naturales que han sido víctimas de delitos y que no pueden procurárselas por sí mismas @20516
@@ -231,5 +232,11 @@ references:
     title: Ley 20644
     URL: https://www.bcn.cl/leychile/navegar?idNorma=1046748
     issued: 2012-12-15
+    language: es-CL
+  - id: 20710
+    type: webpage
+    title: Ley 20710
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=1057032
+    issued: 2013-12-11
     language: es-CL
 ---
