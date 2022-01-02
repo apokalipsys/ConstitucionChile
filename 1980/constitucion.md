@@ -1,7 +1,7 @@
 ---
 title: Constitución política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 4 de mayo de 2017
+date: Texto actualizado a 16 de junio de 2018
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -208,7 +208,7 @@ La Constitución asegura a todas las personas:
 
     Ninguna ley podrá establecer penas sin que la conducta que se sanciona esté expresamente descrita en ella;
 
-4. El respeto y protección a la vida privada y a la honra de la persona y su familia;
+4. El respeto y protección a la vida privada y a la honra de la persona y su familia, y asimismo, la protección de sus datos personales. El tratamiento y protección de estos datos se efectuará en la forma y condiciones que determine la ley;
 
 5. La inviolabilidad del hogar y de toda forma de comunicación privada. El hogar sólo puede allanarse y las comunicaciones y documentos privados interceptarse, abrirse o registrarse en los casos y formas determinados por la ley;
 
