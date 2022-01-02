@@ -1,7 +1,7 @@
 ---
 title: Constitución política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 6 de marzo de 2012
+date: Texto actualizado a 15 de diciembre de 2012
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -1708,3 +1708,11 @@ La jurisdicción de la Corte Penal Internacional, en los términos previstos en 
 #### VIGÉSIMOQUINTA.-
 
 La modificación introducida en el inciso cuarto del artículo 60, entrará en vigencia transcurridos ciento ochenta días a contar de la publicación de esta ley en el Diario Oficial.
+
+#### VIGESIMOSEXTA.-
+
+Prorrógase el mandato de los consejeros regionales en ejercicio a la fecha de publicación de la presente reforma constitucional, y el de sus respectivos suplentes, hasta el 11 de marzo del año 2014.
+
+La primera elección por sufragio universal en votación directa de los consejeros regionales a que se refiere el inciso segundo del artículo 113 se realizará en conjunto con las elecciones de Presidente de la República y Parlamentarios, el día 17 de noviembre del año 2013.
+
+Para este efecto, las adecuaciones a la ley orgánica constitucional respectiva deberán entrar en vigencia antes del 20 de julio del año 2013.
