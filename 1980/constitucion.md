@@ -1,7 +1,7 @@
 ---
 title: Constitución política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 29 de abril de 2000
+date: Texto actualizado a 25 de agosto de 2001
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -280,7 +280,7 @@ La Constitución asegura a todas las personas:
 
     Habrá un Consejo Nacional de Televisión, autónomo y con personalidad jurídica, encargado de velar por el correcto funcionamiento de este medio de comunicación. Una ley de quórum calificado señalará la organización y demás funciones y atribuciones del referido Consejo.
     
-    La ley establecerá un sistema de censura para la exhibición y publicidad de la producción cinematográfica;
+    La ley regulará un sistema de calificación para la exhibición de la producción cinematográfica.
 
 13. El derecho a reunirse pacíficamente sin permiso previo y sin armas.
 
@@ -370,7 +370,7 @@ Sólo la ley puede establecer el modo de adquirir la propiedad, de usar, gozar y
 
     Los derechos de los particulares sobre las aguas, reconocidos o constituidos en conformidad a la ley, otorgarán a sus titulares la propiedad sobre ellos;
 
-25. El derecho del autor sobre sus creaciones intelectuales y artísticas de cualquier especie, por el tiempo que señale la ley y que no será inferior al de la vida del titular.
+25. La libertad de crear y difundir las artes, así como el derecho del autor sobre sus creaciones intelectuales y artísticas de cualquier especie, por el tiempo que señale la ley y que no será inferior al de la vida del titular.
     
     El derecho de autor comprende la propiedad de las obras y otros derechos, como la paternidad, la edición y la integridad de la obra, todo ello en conformidad a la ley.
 
@@ -1811,3 +1811,7 @@ Las atribuciones otorgadas a las municipalidades en el artículo 110, relativas 
 #### TRIGESIMANOVENA.-
 
 En el año siguiente a la fecha de publicación de la presente ley de reforma constitucional no podrán figurar en las nóminas para integrar la Corte Suprema quienes hayan desempeñado los cargos de Presidente de la República, diputado, senador, Ministro de Estado, intendente, gobernador o alcalde.
+
+#### CUADRAGÉSIMA.-
+
+Lo dispuesto en el párrafo final del número 12.º del artículo 19 regirá al momento de entrar en vigencia la ley sobre calificación cinematográfica que se dicte en reemplazo del decreto ley Nº 679, de 1974.
