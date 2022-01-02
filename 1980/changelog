@@ -1,3 +1,4 @@
+2012.12.15: Ley 20644: Reforma constitucional que establece un mecanismo transitorio para la elección de consejeros regionales @20644
 2012.03.06: Ley 20573: Reforma constitucional sobre territorios especiales de Isla de Pascua y Archipiélago Juan Fernández @20573
 2011.07.11: Ley 20516: Reforma constitucional que establece la obligación de otorgar defensa penal y asesoría jurídica a las personas naturales que han sido víctimas de delitos y que no pueden procurárselas por sí mismas @20516
 2011.07.04: Ley 20515: Reforma constitucional para adecuar los plazos vinculados a las elecciones presidenciales @20515
@@ -224,5 +225,11 @@ references:
     title: Ley 20573
     URL: https://www.bcn.cl/leychile/navegar?idNorma=1037692
     issued: 2012-03-06
+    language: es-CL
+  - id: 20644
+    type: webpage
+    title: Ley 20644
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=1046748
+    issued: 2012-12-15
     language: es-CL
 ---
