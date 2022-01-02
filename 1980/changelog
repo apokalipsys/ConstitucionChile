@@ -1,3 +1,4 @@
+1997.11.17: Ley 19526: Reforma constitucional sobre administración comunal @19526
 1997-09-16: Ley 19519: Crea el Ministerio Público @19519
 1996-02-20: Ley 19448: Incorpora Disposición Transitoria que indíca a la Constitución Política de La República @19448
 1994.03.04: Ley 19295: Modifica Artículo 25 la Constitución Política de La República @19295
@@ -49,5 +50,11 @@ references:
     title: Ley 19519
     URL: https://www.bcn.cl/leychile/navegar?idNorma=75674
     issued: 1997-09-16
+    language:es-CL
+  - id: 19526
+    type: webpage
+    title: Ley 19526
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=76752
+    issued: 1997-11-17
     language:es-CL
 ---
