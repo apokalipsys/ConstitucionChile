@@ -1,7 +1,7 @@
 ---
 title: Constitución política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 30 de julio de 2007
+date: Texto actualizado a 10 de enero de 2008
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -1083,6 +1083,8 @@ Sin embargo, si el Presidente de la República hubiere hecho presente una urgenc
 En dicho caso, la Corte deberá evacuar la consulta dentro del plazo que implique la urgencia respectiva.
 
 Si la Corte Suprema no emitiere opinión dentro de los plazos aludidos, se tendrá por evacuado el trámite.
+
+La ley orgánica constitucional relativa a la organización y atribuciones de los tribunales, así como las leyes procesales que regulen un sistema de enjuiciamiento, podrán fijar fechas diferentes para su entrada en vigencia en las diversas regiones del territorio nacional. Sin perjuicio de lo anterior, el plazo para la entrada en vigor de dichas leyes en todo el país no podrá ser superior a cuatros años.
 
 #### Artículo 78.-
 
