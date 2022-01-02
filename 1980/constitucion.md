@@ -1,7 +1,7 @@
 ---
 title: Constitución política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 28 de mayo de 2020
+date: Texto actualizado a 30 de mayo de 2020
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -2071,11 +2071,15 @@ En el caso de que la ciudadanía elija la opción de Convención Mixta Constituc
 
 #### TRIGÉSIMA SEGUNDA.-
 
-Por el plazo de un año a contar de la publicación de la presente reforma, la Cámara de Diputados y el Senado podrán funcionar por medios telemáticos una vez declarada una cuarentena sanitaria o un estado de excepción constitucional por calamidad pública que signifique grave riesgo para la salud o vida de los habitantes del país o de una o más regiones, que les impida sesionar, total o parcialmente, y mientras este impedimento subsista.
+Por el plazo de un año a contar de la publicación de la presente reforma, la Cámara de Diputados, el Senado y el Congreso Pleno, este último para efectos de lo dispuesto en los artículos 24 y 56 bis, podrán funcionar por medios telemáticos una vez declarada una cuarentena sanitaria o un estado de excepción constitucional por calamidad pública que signifique grave riesgo para la salud o vida de los habitantes del país o de una o más regiones, que les impida sesionar, total o parcialmente, y mientras este impedimento subsista.
 
-Para ello se requerirá el acuerdo de los Comités que representen a los dos tercios de los integrantes de la respectiva cámara. Ellas podrán sesionar, votar proyectos de ley y de reforma constitucional y ejercer sus facultades exclusivas.
+Para las sesiones de las cámaras se requerirá el acuerdo de los Comités que representen a los dos tercios de los integrantes de la respectiva cámara. Ellas podrán sesionar, votar proyectos de ley y de reforma constitucional y ejercer sus facultades exclusivas.
 
 El procedimiento telemático deberá asegurar que el voto de los parlamentarios sea personal, fundado e indelegable.
+
+En los casos del Congreso Pleno, a que se refiere el inciso primero, los Presidentes de ambas Corporaciones acordarán la dependencia del Congreso Nacional en la que se cumplirán estas obligaciones, quiénes podrán concurrir presencialmente a esas sesiones y si éstas deben realizarse de manera total o parcialmente telemática.
+
+La cuenta del estado administrativo y político de la Nación ante el Congreso Pleno a que se refiere el inciso tercero del artículo 24, el año 2020 se realizará el día 31 de julio.
 
 #### TRIGÉSIMA TERCERA.-
 
