@@ -1,7 +1,7 @@
 ---
 title: Constitución política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 5 de enero de 2017
+date: Texto actualizado a 4 de mayo de 2017
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -446,7 +446,7 @@ El gobierno y la administración del Estado corresponden al Presidente de la Rep
 
 Su autoridad se extiende a todo cuanto tiene por objeto la conservación del orden público en el interior y la seguridad externa de la República, de acuerdo con la Constitución y las leyes.
 
-El 21 de mayo de cada año, el Presidente de la República dará cuenta al país del estado administrativo y político de la Nación ante el Congreso Pleno.
+El 1 de junio de cada año, el Presidente de la República dará cuenta al país del estado administrativo y político de la Nación ante el Congreso Pleno.
 
 #### Artículo 25.-
 
