@@ -1,7 +1,7 @@
 ---
 title: Constitución política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 17 de marzo de 2021
+date: Texto actualizado a 27 de marzo de 2021
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -2169,7 +2169,7 @@ En el caso de que la ciudadanía elija la opción de Convención Mixta Constituc
 
 #### TRIGÉSIMA SEGUNDA.-
 
-Por el plazo de un año a contar de la publicación de la presente reforma, la Cámara de Diputados, el Senado y el Congreso Pleno, este último para efectos de lo dispuesto en los artículos 24 y 56 bis, podrán funcionar por medios telemáticos una vez declarada una cuarentena sanitaria o un estado de excepción constitucional por calamidad pública que signifique grave riesgo para la salud o vida de los habitantes del país o de una o más regiones, que les impida sesionar, total o parcialmente, y mientras este impedimento subsista.
+Hasta por el plazo de dos años a contar de la publicación de la presente reforma, y por la actual pandemia de COVID-19, la Cámara de Diputados, el Senado y el Congreso Pleno, este último para efectos de lo dispuesto en los artículos 24 y 56 bis, podrán funcionar por medios telemáticos una vez declarada una cuarentena sanitaria o un estado de excepción constitucional por calamidad pública que signifique grave riesgo para la salud o vida de los habitantes del país o de una o más regiones, que les impida sesionar, total o parcialmente, y mientras este impedimento subsista.
 
 Para las sesiones de las cámaras se requerirá el acuerdo de los Comités que representen a los dos tercios de los integrantes de la respectiva cámara. Ellas podrán sesionar, votar proyectos de ley y de reforma constitucional y ejercer sus facultades exclusivas.
 
