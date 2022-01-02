@@ -1,7 +1,7 @@
 ---
 title: Constitución política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 11 de diciembre de 2013
+date: Texto actualizado a 15 de febrero de 2014
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -668,7 +668,7 @@ El Congreso Nacional se compone de dos ramas: la Cámara de Diputados y el Senad
 
 #### Artículo 47.-
 
-La Cámara de Diputados está integrada por 120 miembros elegidos en votación directa por los distritos electorales que establezca la ley orgánica constitucional respectiva.
+La Cámara de Diputados está integrada por miembros elegidos en votación directa por distritos electorales. La ley orgánica constitucional respectiva determinará el número de diputados, los distritos electorales y la forma de su elección.
 
 La Cámara de Diputados se renovará en su totalidad cada cuatro años.
 
@@ -1706,9 +1706,7 @@ El mandato del Presidente de la República en ejercicio será de seis años, no 
 
 El Senado estará integrado únicamente por senadores electos en conformidad con el artículo 49 de la Constitución Política de la República y la Ley Orgánica Constitucional sobre Votaciones Populares y Escrutinios actualmente vigentes.
 
-Las modificaciones a la referida Ley Orgánica sobre Votaciones Populares y Escrutinios que digan relación con el número de senadores, las circunscripciones existentes y el sistema electoral vigente, requerirán del voto conforme de las tres quintas partes de los diputados y senadores en ejercicio.
-
-Los senadores en actual ejercicio incorporados o designados en conformidad a las letras a), b), c), d), e) y f) del artículo 49 que se derogan, continuarán desempeñando sus funciones hasta el 10 de marzo de 2006.
+Las modificaciones a la Ley Orgánica Constitucional sobre Votaciones Populares y Escrutinios que digan relación con el número de senadores y diputados, las circunscripciones y distritos existentes, y el sistema electoral vigente, requerirán del voto conforme de las tres quintas partes de los diputados y senadores en ejercicio.
 
 #### DECIMOCUARTA.-
 
