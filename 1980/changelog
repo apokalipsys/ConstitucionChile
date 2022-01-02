@@ -1,3 +1,4 @@
+2000.04.28: Ley 19672: Reforma constitucional que modifica el artículo 30 de la Carta fundamental, con el fin de establecer el estatuto de los ex presidentes de la República @19672
 1999.11.95: Ley 19643: Introduce modificaciones a los artículos 26, 27 y 84 de la Constitución política de la República, sobre calificación de la elección de presidente de la República y Tribunal calificador de elecciones @19643
 1999.10.02: Ley 19634: Reforma la Constitución política de la República, estableciendo el reconocimiento de la Educación Parvularia @19634
 1999.06.16: Ley 19611: Establece igualdad jurídica entre hombres y mujeres
@@ -91,5 +92,11 @@ references:
     title: Ley 19643
     URL: https://www.bcn.cl/leychile/navegar?idNorma=146611
     issued: 1999-11-05
+    language:es-CL
+  - id: 19672
+    type: webpage
+    title: Ley 19672
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=167168
+    issued: 2000-04-28
     language:es-CL
 ---
