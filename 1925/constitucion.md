@@ -1,7 +1,7 @@
 ---
 title: Constitución Política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 2 de marzo de 1959
+date: Texto actualizado a 8 de octubre de 1963
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -89,7 +89,10 @@ Una lei particular determinará el método de reclutas y reemplazos para las fue
 Todos los chilenos en estado de cargar armas deberán hallarse inscritos en los rejistros militares, si no están especialmente esceptuados por la lei;
 10.  La inviolabilidad de todas las propiedades, sin distincion alguna.\
 Nadie puede ser privado de la de su dominio, ni de una parte de ella, o del derecho que a ella tuviere, sino en virtud de sentencia judicial o de espropiacion por razon de utilidad pública, calificada por una lei. En este caso, se dará préviamente al dueño la indemnizacion que se ajuste con él o que se determine en el juicio correspondiente.\
-El ejercicio del derecho de propiedad está sometido a las limitaciones o reglas que exijan el mantenimiento y el progreso del órden social, y, en tal sentido, podrá la lei imponerle obligaciones o servidumbres de utilidad pública en favor de los intereses jenerales del Estado, de la salud de los ciudadanos y de la salubridad pública;
+El ejercicio del derecho de propiedad está sometido a las limitaciones o reglas que exijan el mantenimiento y el progreso del órden social, y, en tal sentido, podrá la lei imponerle obligaciones o servidumbres de utilidad pública en favor de los intereses jenerales del Estado, de la salud de los ciudadanos y de la salubridad pública. El Juez podrá autorizar la toma de posesión material del bien expropiado, después de dictada la sentencia de primera instancia, cuando se trate de expropiaciones para obras públicas de urgente realización o de predios rústicos, y siempre que sólo se hubiere reclamado del monto de la indemnización y se dé previamente al dueño el total o la parte de ella a que se refiere el inciso siguiente, ordenadas en dicha sentencia.\
+Sin embargo, si con el objeto de propender a la conveniente división de la propiedad rústica se expropiaren, por causas de utilidad pública, predios rústicos abandonados, o que estén manifiestamente mal explotados y por debajo de las condiciones normales predominantes en la región para tierras de análogas posibilidades, deberá darse previamente al propietario el diez por ciento de la indemnización y el saldo en cuotas anuales iguales dentro de un plazo que no exceda de quince años, con el interés que fijará la ley.\
+Esta forma de indemnización sólo podrá utilizarse en conformidad a la ley que permita reclamar de la expropiación ante un Tribunal Especial, cuya decisión sea apelable ante la Corte de Apelaciones respectiva, y que establezca un sistema de reajuste anual del saldo de la indemnización, con el objeto de mantener su valor. No podrán iniciarse ni efectuarse nuevas expropiaciones indemnizables a plazo si existe retardo en el pago de los créditos provenientes de anteriores expropiaciones realizadas en conformidad al inciso anterior.\
+En la Ley de Presupuesto se entenderá siempre consultado el ítem necesario para el servicio de dichos créditos, y sus cuotas vencidas servirán para extinguir toda clase de obligaciones a favor del Fisco. La Tesorería General de la República pagará las cuotas vencidas más reajuste e intereses contra la presentación del título correspondiente;
 11. La propiedad exclusiva de todo descubrimiento o produccion, por el tiempo que concediere la lei. Si ésta exijiere su espropiacion, se dará al autor o inventor la indemnizacion competente;
 12. La inviolabilidad del hogar.\
 La casa de toda persona que habite el territorio chileno solo puede ser allanada por un motivo especial determinado por la lei, y en virtud de órden de autoridad competente;
