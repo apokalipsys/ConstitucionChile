@@ -1,7 +1,7 @@
 ---
 title: Constitución Política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 2 de octubre de 1967
+date: Texto actualizado a 23 de enero de 1970
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -46,11 +46,13 @@ Los que hubieren perdido la nacionalidad chilena por cualquiera de las causales 
 La causal de pérdida de la nacionalidad chilena prevista en el N° 1° del presente artículo no reige en los casos en que, a virtud de disposiciones legales o constitucionales de otros países, los chilenos residentes en ellos deban adoptar la nacionalidad del país en que residan como condición de su permanencia
 
 #### Art. 7.-
-Son ciudadanos con derecho a sufrajio los chilenos que hayan cumplido veintiun años de edad, que sepan leer y escribir, y estén inscritos en los registros electorales.
-Estos rejistros serán públicos y valdrán por el tiempo que determine la lei.
-Las inscripciones serán continuas y solo se suspenderán en los plazos que la lei señale.
+Son ciudadanos con derecho a sufragio los chilenos que hayan cumplido 18 años de edad y estén inscritos en los registros electorales.
 
-En las elecciones populares el sufrajio será siempre secreto.
+Estos registros serán públicos y las inscripciones continuas.
+
+En las votaciones populares el sufragio será siempre secreto.
+
+La ley regulará el régimen de las inscripciones electorales, la vigencia de los registros, la anticipación con que se deberá estar inscrito para tener derecho a sufragio y la forma en que se emitirá este último, como asimismo el sistema conforme al cual se realizarán los procesos eleccionarios.
 
 #### Art. 8.-
 Se suspende el ejercicio del derecho a sufrajio:
@@ -99,7 +101,6 @@ La pequeña propiedad rústica trabajada por su dueño y la vivienda habitada po
 La casa de toda persona que habite el territorio chileno solo puede ser allanada por un motivo especial determinado por la lei, y en virtud de órden de autoridad competente;
 13. La inviolabilidad de la correspondencia epistolar y telegráfica. No podrán abrirse, ni interceptarse, ni rejistrarse los papeles o efectos públicos, sino en los casos espresamente señalados por la lei;
 14. La proteccion al trabajo, a la industria, y a las obras de prevision social, especialmente en cuanto se refieren a la habitacion sana y a las condiciones económicas de la vida, en forma de proporcionar a cada habitante un mínimo de bienestar, adecuado a la satisfaccion de sus necesidades personales y a las de su familia. La lei regulará esta organizacion.\
-El Estado propenderá a la conveniente division de la propiedad y a la constitucion de la propiedad familiar.\
 Ninguna clase de trabajo o industria puede ser prohibida, a ménos que se oponga a las buenas costumbres, a la seguridad o a la salubridad pública, o que lo exija el interés nacional y una lei lo declare así.\
 Es deber del Estado velar por la salud pública y el bienestar hijiénico del país. Deberá destinarse cada año una cantidad de dinero suficiente para mantener un servicio nacional de salubridad, y
 15. La libertad de permanecer en cualquier punto de la República, trasladarse de uno a otro o salir de su territorio, a condicion de que se guarden los reglamentos de policía y salvo siempre el perjuicio de tercero; sin que nadie pueda ser detenido, procesado, preso o desterrado, sino en la forma determinada por las leyes.
@@ -168,9 +169,9 @@ La calificacion de las elecciones de Diputados y Senadores y el reconocimiento d
 Pero, tanto la Cámara de Diputados como el Senado, tienen atribuciones esclusivas para pronunciarse sobre la inhabilidad de sus miembros y para admitir su dimision, si los motivos en que la fundaren fueren de tal naturaleza que los imposibilitaren física o moralmente para el ejercicio de sus cargos. Para aceptar la dimision, deben concurrir las dos terceras partes de los Diputados o Senadores presentes.
 
 #### Art. 27.-
-Para ser elejido Diputado o Senador es necesario tener los requisitos de ciudadano con derecho a sufrajio y no haber sido condenado jamas por delito que merezca pena aflictiva.
+Para ser elejido Diputado o Senador es necesario tener los requisitos de ciudadano con derecho a sufrajio, saber leer y escribir y no haber sido condenado jamas por delito que merezca pena aflictiva.
 
-Los Senadores deben, ademas, tener treinta y cinco años cumplidos.
+Además, al momento de su elección, los Diputados deben tener 21 años cumplidos, y los senadores, 35.
 
 #### Art. 28.-
 No pueden ser elegidos Diputados ni Senadores:
@@ -228,7 +229,10 @@ Son atribuciones exclusivas de la Cámara de Diputados:
 1. Declarar si han o no lugar las acusaciones que diez, a lo ménos, de sus miembros formularen en contra de los siguientes funcionarios:
 
     a) Del Presidente de la República, por actos de su administracion en que haya comprometido gravemente el honor o la seguridad del Estado, o infrinjido abiertamente la Constitucion o las leyes. Esta acusacion podrá interponerse miéntras el Presidente esté en funciones y en los seis meses siguientes a la espiracion de su cargo. Durante este último tiempo no podrá ausentarse de la República sin acuerdo de la Cámara;
-    b) De los Ministros de Estado, por los delitos de traicion, concusion, malversacion de fondos públicos, soborno, infraccion de la Constitucion, atropellamiento de las leyes, por haberlas dejado sin ejecucion y por haber comprometido gravemente la seguridad o el honor de la Nacion. Estas acusaciones podrán interponerse miéntras el Ministro estuviere en funciones y en los tres meses siguientes a la espiracion de su cargo. Durante ese tiempo, no podrá ausentarse de la República sin permiso de la Cámara, o, en receso de ésta, de su Presidente;
+    b) De los Ministros de Estado, por los delitos de traicion, concusion, malversacion de fondos públicos, soborno, infraccion de la Constitucion, atropellamiento de las leyes, por haberlas dejado sin ejecucion y por haber comprometido gravemente la seguridad o el honor de la Nacion. Estas acusaciones podrán interponerse miéntras el Ministro estuviere en funciones y en los tres meses siguientes a la espiracion de su cargo.\
+    Durante ese tiempo, no podrá ausentarse de la República por más de diez días sin permiso de la Cámara, o, en receso de ésta, de su Presidente.\
+    Interpuesta la acusación se requerirá siempre de permiso; pero en ningún caso podrá ausentarse de la República si la acusación ya estuviere aprobada por la Cámara.\
+    En caso de ausentarse de la República, deberá previamente comunicar a la Cámara su decisión y los motivos que la justifican.
     c) De los Magistrados de los Tribunales Superiores de Justicia y del Contralor General de la República, por notable abandono de sus deberes;
     d) De los Jenerales o Almirantes de las fuerzas armadas por haber comprometido gravemente la seguridad o el honor de la Nacion, y
     e) De los Intendentes y Gobernadores, por los delitos de traicion, sedicion, infraccion de la Constitucion, malversacion de fondos públicos y concusion.
@@ -266,7 +270,7 @@ Si el Senado no se pronunciare dentro de treinta dias, después de pedida la urg
 Son atribuciones exclusivas del Congreso:
 
 1. Aprobar o reprobar anualmente la cuenta de la inversion de los fondos destinados para los gastos de la administracion pública que debe presentar el Gobierno;
-2. Otorgar su acuerdo para que el Presidente de la República pueda salir del territorio nacional;
+2. Otorgar su acuerdo para que el Presidente de la República pueda salir del territorio nacional por más de quince días o en los últimos noventa días de su mandato;
 3. Declarar, cuando el Presidente de la República hace dimision de su cargo, si los motivos en que la funda le imposibilitan o no para su ejercicio, y, en consecuencia, admitirla o desecharla;
 4. Declarar, cuando hubiere lugar a dudas, si el impedimento que priva al Presidente del ejercicio de sus funciones, es de tal naturaleza, que debe procederse a nueva eleccion, y
 5. Aprobar o desechar los tratados que le presentare el Presidente de la República ántes de su ratificacion.
@@ -278,41 +282,49 @@ Solo en virtud de una lei se puede:
 
 1. Imponer contribuciones de cualquiera clase o naturaleza, suprimir las existentes, señalar en caso necesario su repartimiento entre las provincias o comunas, y determinar su proporcionalidad o progresion;
 2. Autorizar la contratacion de empréstitos o de cualquiera otra clase de operaciones, que puedan comprometer el crédito y la responsabilidad financiera del Estado;
-3. Autorizar la enajenacion de bienes del Estado o de las Municipalidades, o su arrendamiento o concesion por mas de veinte años;
+3. Fijar las normas sobre la enajenación de bienes del Estado o de las Municipalidades, y sobre su arrendamiento o concesión;
 4. Aprobar anualmente el cálculo de entradas y fijar en la misma lei los gastos de la administracion pública. La lei de Presupuestos no podrá alterar los gastos o contribuciones acordados en leyes generales o especiales. Sólo los gastos variables pueden ser modificados por ella; pero la iniciativa para su aumento o para alterar el cálculo de entradas corresponde esclusivamente al Presidente de la República. El proyecto de Lei de Presupuestos debe ser presentado al Congreso con cuatro meses de anterioridad a la fecha en que debe empezar a regir; y si, a la espiracion de este plazo, no se hubiere aprobado, regirá el proyecto presentado por el Presidente de la República.  En caso de no haberse presentado el proyecto oportunamente, el plazo de cuatro meses empezará a contarse desde la fecha de la presentacion.\
 No podrá el Congreso aprobar ningun nuevo gasto con cargo a los fondos de la Nacion, sin crear o indicar, al mismo tiempo, las fuentes de recursos necesarios para atender a dicho gasto;
 5. Crear o suprimir empleos públicos; determinar o modificar sus atribuciones; aumentar o disminuir sus dotaciones; dar pensiones, y decretar honores públicos a los grandes servidores.  Las leyes que concedan pensiones deberán ser aprobadas por el voto de los dos tercios de los miembros presentes de cada Cámara;
 6. Fijar la remuneracion de que gozarán los Diputados y Senadores. Durante un período legislativo no podrá modificarse la remuneracion sino para que produzca efectos en el período siguiente;
-7. Establecer o modificar la division política o administrativa del país; habilitar puertos mayores, y establecer aduanas;
-8. Señalar el peso, lei, valor, tipo y denominacion de las monedas, y el sistema de pesos y medidas;
-9. Fijar las fuerzas de mar y tierra que han de mantenerse en pie en tiempo de paz o de guerra;
-10. Permitir la introduccion de tropas estranjeras en el territorio de la República, con fijacion del tiempo de su permanencia en él;
-11. Permitir la salida de tropas nacionales fuera del territorio de la República, señalando el tiempo de su regreso;
-12. Aprobar o reprobar la declaracion de guerra a propuesta del Presidente de la República;
-13. Restrinjir la libertad personal y la de imprenta, o suspender o restrinjir el ejercicio del derecho de reunion, cuando lo reclamare la necesidad imperiosa de la defensa del Estado, de la conservacion del réjimen constitucional o de la paz interior, y solo por períodos que no podrán exceder de seis meses. Si estas leyes señalaren penas, su aplicacion se hará siempre por los Tribunales establecidos.  Fuera de los casos prescritos en este número, ninguna lei podrá dictarse para suspender o restringir las libertades o derechos que la Constitucion asegura;
-14. Conceder indultos jenerales y amnistías, y 15.o  Señalar la ciudad en que debe residir el Presidente de la República, celebrar sus sesiones el Congreso Nacional y funcionar la Corte Suprema.
+7. Establecer o modificar la division política o administrativa del país, y habilitar puertos mayores;
+8. Señalar el valor, tipo y denominacion de las monedas, y el sistema de pesos y medidas;
+9. Fijar las fuerzas de aire, mar y tierra que han de mantenerse en pie en tiempo de paz o de guerra;
+10. Fijar las normas para permitir la entrada de tropas extranjeras en el territorio de la República, como asimismo la salida de tropas nacionales fuera de él;
+11. Aprobar o reprobar la declaracion de guerra a propuesta del Presidente de la República;
+12. Restrinjir la libertad personal y la de imprenta, o suspender o restrinjir el ejercicio del derecho de reunion, cuando lo reclamare la necesidad imperiosa de la defensa del Estado, de la conservacion del réjimen constitucional o de la paz interior, y solo por períodos que no podrán exceder de seis meses. Si estas leyes señalaren penas, su aplicacion se hará siempre por los Tribunales establecidos.  Fuera de los casos prescritos en este número, ninguna lei podrá dictarse para suspender o restringir las libertades o derechos que la Constitucion asegura;
+13. Conceder indultos jenerales y amnistías; 
+14.  Señalar la ciudad en que debe residir el Presidente de la República, celebrar sus sesiones el Congreso Nacional y funcionar la Corte Suprema, y
+15. Autorizar al presidente de la República para que dicte disposiciones con fuerza de ley sobre creación, supresión, organización y atribuciones de los servicios del Estado y de las Municipalidades, sobre fijación de plantas, remuneraciones y demás derechos y obligaciones de los empleados u obreros de esos servicios; sobre regímenes previsionales del sector público; sobre materias determinadas de orden administrativo, económico y financiero y de las que señalan los N.°s 1.°, 2.°, 3.°, 8.° y 9.° del presente artículo.\
+Esta autorización no podrá extenderse a la nacionalidad, la ciudadanía, las elecciones ni el plebiscito, como tampoco a materias comprendidas en las garantías constitucionales, salvo en lo concerniente a la admisión a los empleos y funciones públicas, al modo de usar, gozar y disponer de la propiedad y a sus limitaciones y obligaciones, y a la protección al trabajo, a la industria y a las obras de previsión social.\
+Sin embargo, la autorización no podrá comprender facultades que afecten a la organización, atribuciones y régimen de los funcionarios del Poder Judicial del Congreso Nacional ni de la Contraloría General de la República.\
+La autorización a que se refiere este número sólo podrá darse por un tiempo limitado, no superior a un año. La ley que la otorgue señalará las materias precisas sobre las que recaerá la delegación y podrá establecer o determinar las limitaciones, restricciones y formalidades que se estimen convenientes.\
+A la Contraloría General de la República corresponderá tomar razón de estos decretos con fuerza de ley, debiendo rechazarlos cuando ellos excedan o contravengan la autorización conferida.\
+Los decretos con fuerza de ley estarán sometidos en cuanto a su publicación, vigencia y efectos, a las mismas normas que rigen para la ley.
 
 ### FORMACION DE LAS LEYES
 #### Art. 45.-
-Las leyes pueden tener principio en la Cámara de Diputados o en el Senado, por mensaje que dirija el Presidente de la República o por mocion de cualquiera de sus miembros. Las mociones no pueden ser firmadas por mas de diez Diputados ni por mas de cinco Senadores.
+Las leyes pueden tener origen en la Cámara de Diputados o en el Senado, por mensaje que dirija el Presidente de la República o por mocion de cualquiera de sus miembros. Las mociones no pueden ser firmadas por mas de diez Diputados ni por mas de cinco Senadores.
 
-Los suplementos a partidas o ítem de la lei jeneral de Presupuestos, sólo podrán proponerse por el Presidente de la República.
+Corresponderá exclusivamente al Presidente de la República la iniciativa para proponer suplementos a partidas o ítem de la ley general de Presupuestos; para alterar la división política o administrativa del país; para suprimir, reducir o condenar impuestos o contribuciones de cualquier clase, sus intereses o sanciones, postergar o consolidar su pago y establecer exenciones tributarias totales o parciales, para crear nuevos servicios públicos o empleos rentados; para fijar o modificar las remuneraciones y demás beneficios pecuniarios del personal de los servicios de la administración del Estado, tanto central como descentralizada; para fijar los sueldos o salarios mínimos de los trabajadores del sector privado, aumentar obligatoriamente sus remuneraciones y demás beneficios económicos o alterar las bases que sirvan para determinarlos; para establecer o modificar los regímenes previsionales o de seguridad social; para conceder o aumentar, por gracia, pensiones u otros beneficios pecuniarios, y para condonar las sumas percibidas indebidamente por concepto de remuneraciones u otros beneficios económicos, pensiones de jubilación, retiro o montepío o pensiones de gracia. No se aplicará esta disposición al Congreso Nacional y a los servicios que de él dependan.
 
-Corresponderá, asimismo, al Presidente de la República la iniciativa para alterar la división política o administrativa del país; para crear nuevos servicios públicos o empleos rentados, y para conceder o aumentar sueldos y gratificaciones al personal de la Administración Pública de las empresas fiscales y de las instituciones semifiscales. El Congreso Nacional soló podrá aceptar, disminuir o rechazar los servicios, empleos, emolumentos o aumentos que se propongan. No se aplicará esta disposición al Congreso Nacional ni a los servicios que de él dependan.
+El Congreso Nacional sólo podrá aprobar o rechazar, o disminuir en su caso, la modificación de la división política o administrativa, los servicios o empleos y los beneficios pecuniarios a que se refiere el inciso anterior.
 
-Las leyes sobre contribuciones de cualquiera naturaleza que sean, sobre los Presupuestos de la administracion pública y sobre reclutamiento, sólo pueden tener principio en la Cámara de Diputados.
+Las leyes sobre contribuciones de cualquiera naturaleza que sean, sobre los Presupuestos de la administracion pública y sobre reclutamiento, sólo pueden tener origen en la Cámara de Diputados.
 
-Las leyes sobre amnistía y sobre indultos jenerales, solo pueden tener principio en el Senado.
+Las leyes sobre amnistía y sobre indultos jenerales, solo pueden tener origen en el Senado.
 
 #### Art. 46.-
-El Presidente de la República podrá hacer presente la urjencia en el despacho de un proyecto y, en tal caso, la Cámara respectiva deberá pronunciarse dentro del plazo de treinta dias.
+El Presidente de la República podrá hacer presente la urgencia en el despacho de un proyecto, en uno o en todos sus trámites, y en tal caso, la Cámara que haya recibido la manifestación de urgencia deberá pronunciarse dentro de treinta días si se trata del primero o segundo trámite, o dentro de quince, si de uno posterior.
 
-La manifestacion de urjencia puede repetirse en todos los trámites constitucionales del proyecto.
+No obstante, durante la legislatura ordinaria, cualquiera de las Cámaras podrá acordar que el plazo de la urgencia de un proyecto quede suspendido mientras estén pendientes, en la Comisión que deba informarlos, dos o más proyectos con urgencia.
 
 #### Art. 47.-
 El proyecto que fuere desechado en la Cámara de su orígen, no podrá renovarse sino despues de un año.
 
 #### Art. 48.-
+Todo proyecto puede ser objeto de adiciones o correcciones tanto en la Cámara de Diputados como en el Senado; pero en ningún caso se admitirán las que no digan relación directa con las ideas matrices o fundamentales del proyecto.
+
 Aprobado un proyecto en la Cámara de su orígen, pasará inmediatamente a la otra para su discusion.
 
 #### Art. 49.-
@@ -326,11 +338,19 @@ Pero, si las adiciones o correcciones fueren reprobadas, volverá el proyecto po
 #### Art. 51.-
 Cuando con motivo de las insistencias, no se produjere acuerdo en puntos fundamentales de un proyecto entre las dos Cámaras, o cuando una modificare substancialmente el proyecto de la otra, podrán designarse Comisiones Mixtas, de igual número de Diputados y Senadores, para que propongan la forma y modo de resolver las dificultades producidas.
 
+Los Reglamentos de las Cámaras podrán establecer que se constituyan también Comisiones Mixtas de igual número de Diputados y Senadores, en cualquier trámite constitucional, para el estudio de proyectos de ley cuya complejidad o importancia haga necesario un sistema excepcional de discusión o aprobación.
+
+Asimismo, podrán establecerse en dichos Reglamentos normas en virtud de las cuales la discusión y votación en particular de proyectos ya aprobados en general por la respectiva Cámara, queden entregadas a sus Comisiones, entendiéndose aprobados los acuerdos de las mismas por la respectiva Corporación luego de transcurridos cinco días de la fecha en que se dé cuenta del informe respectivo. Sin embargo, dichos proyectos volverán a la Sala para su discusión y votación en particular si, dentro del plazo que establece este inciso, lo solicitaren el Presidente de la República, o la quinta parte de los miembros en ejercicio de la Cámara de Diputados, o la cuarta parte de los del Senado, en su cargo.
+
+No obstante, no podrá omitirse la discusión y votación particular en la Sala de los proyectos de reforma constitucional; los que reglamenten, restrinjan o suspendan los derechos constitucionales o sus garantías, salvo las excepciones señaladas en el inciso segundo del N° 15.° del artículo 44: los relativos a la nacionalidad, ciudadanía o elecciones: los que establezcan, modifiquen o supriman contribuciones: los que autoricen la declaración de guerra: los que se refieran a delegación de facultades legislativas y los que versen sobre tratados internacionales
+
 #### Art. 52.-
 Aprobado un proyecto por ámbas Cámaras, será remitido al Presidente de la República, quien, si también lo aprueba, dispondrá su promulgacion como lei.
 
 #### Art. 53.-
 Si el Presidente de la República desaprueba el proyecto, lo devolverá a la Cámara de su orijen, con las observaciones convenientes, dentro del término de treinta dias.
+
+En ningún caso se admitirán las observaciones que no digan relación directa con las ideas matrices o fundamentales del proyecto.
 
 #### Art. 54.-
 Si las dos Cámaras aprobaren las observaciones, el proyecto tendrá fuerza de lei y se devolverá al Presidente para su promulgacion.
@@ -338,6 +358,8 @@ Si las dos Cámaras desecharen todas o algunas de las observaciones e insistiere
 
 #### Art. 55.-
 Si el Presidente de la República no devolviere el proyecto dentro de treinta dias, contados desde la fecha de su remision, se entenderá que lo aprueba y se promulgará como lei. Si el Congreso cerrare sus sesiones antes de cumplirse los treinta dias en que ha de verificarse la devolucion, el Presidente lo hará dentro de los diez primeros dias de la lejislatura ordinaria o extraordinaria siguiente.
+
+La promulgación deberá hacerse siempre dentro del plazo de diez días, contado desde que ella sea procedente. La publicación se hará dentro de los cinco días hábiles siguientes a la fecha en que quede totalmente tramitado el decreto promulgatorio.
 
 ### SESIONES DEL CONGRESO
 #### Art. 56.-
@@ -397,7 +419,9 @@ Cuando el Presidente de la República mandare personalmente la fuerza armada, o 
 En los casos de muerte, declaracion de haber lugar a su renuncia, u otra clase de imposibilidad absoluta, o que no pudiere cesar ántes de cumplirse el tiempo que falta del período constitucional, el Vice-Presidente, en los primeros diez dias de su gobierno, espedirá las órdenes convenientes para que se proceda, dentro del plazo de sesenta dias, a nueva eleccion de Presidente en la forma prevenida por la Constitucion y por la lei de elecciones.
 
 #### Art. 67.-
-El Presidente no puede salir del territorio de la República durante el tiempo de su Gobierno, sin acuerdo del Congreso.
+El Presidente no puede salir del territorio de la República por más de quince días ni en los últimos noventa días de su mandato, sin acuerdo del Congreso.
+
+En todo caso, el Presidente de la República comunicará con la debida anticipación al Congreso su decisión de ausentarse del territorio y los motivos que la justifican.
 
 #### Art. 68.-
 El Presidente cesará el mismo dia en que se completen los seis años que debe durar el ejercicio de sus funciones, y le sucederá el recientemente elegido.
@@ -459,7 +483,74 @@ Con el mismo objeto, estarán obligados a presentarle el presupuesto anual de lo
 #### Art. 78.-
 Los Ministros podrán, cuando lo estimaren conveniente, asistir a las sesiones de la Cámara de Diputados o del Senado, y tomar parte en sus debates, con preferencia para hacer uso de la palabra, pero sin derecho a voto.
 
-## CAPITULO VI Tribunal Calificador de Elecciones
+## CAPITULO VI Tribunal Constitucional y Tribunal Calificador de Elecciones
+#### Art. 78 a).-
+Habrá un Tribunal Constitucional, compuesto de cinco Ministros que durarán cuatro años en sus funciones, pudiendo ser reelegidos. Tres de ellos serán designados por el Presidente de la República con acuerdo del Senado y dos por la Corte Suprema de entre sus miembros.
+
+Desempeñará las funciones de Secretario del Tribunal quien sirva el cargo de secretario de la Corte Suprema.
+
+Los Ministros designados por el Presidente de la República con acuerdo del Senado deberán ser abogados con un mínimo de doce años de ejercicio de la profesión y no podrán tener ninguno de los impedimentos que inhabiliten para ser designado juez, y uno de ellos deberá tener, además, el requisito de haber sido durante diez años titular de una cátedra universitaria de derecho Constitucional o Administrativo en alguna de las escuelas de Derecho del país. Estos Ministros estarán sometidos a las normas que para los Diputados o Senadores establecen los artículos 29 y 30, pero sus cargos no serán incompatibles con los de Ministro, Fiscal o Abogado integrante de los Tribunales Superiores de Justicia, y lo serán con los de Diputado, Senador y miembro del Tribunal Calificador de Elecciones.
+
+Los Ministros de designación de la Corte Suprema serán elegidos por ésta en una sola votación secreta y unipersonal, resultando proclamados quienes obtengan las dos más altas mayorías. Los empates serán dirimidos por sorteo en la forma que determine esa Corte.
+
+Los Ministros de que trata el inciso tercero cesarán en sus cargos por muerte, por interdicción, por renuncia aceptada por el Presidente de la República con acuerdo del Senado, por remoción acordada por éste a proposición de aquél, y por aceptar alguno de los cargos a que se refiere el inciso segundo del artículo 30.
+
+Los Ministros a que se refiere el inciso cuarto cesarán en sus cargos por expirar en sus funciones judiciales y por renuncia aceptada por la Corte Suprema.
+
+En caso de que un Ministro cese en su cargo de acuerdo con cualquiera de los dos incisos anteriores, se procederá a su reemplazo por el tiempo que falte para completar su período. Habiendo cesado en el cargo uno sólo de los Ministros designados por la Corte Suprema, la elección del reemplazante se efectuará por ese Tribunal de acuerdo con los dos primeros incisos del artículo 65, y los empates serán dirimidos en la forma que indica el inciso cuarto del presente artículo.
+
+Los Ministros gozarán de las prerrogativas que los artículos 32 a 35 otorgan a los Diputados y Senadores.
+
+El quórum para las reuniones del Tribunal será de tres de sus miembros y sus acuerdos se adoptarán por mayoría de votos emitidos. El Tribunal elegirá de su seno un Presidente, que durará dos años en sus funciones.
+
+Corresponderá al propio Tribunal, mediante autos acordados, dictar las demás normas sobre su organización y funcionamiento y las reglas de procedimiento aplicables ante él, como también fijar la planta, remuneraciones y estatutos de su personal y las asignaciones que correspondan a los Ministros del mismo.
+
+Anualmente se destinarán en el Presupuesto de la Nación los fondos necesarios para la organización y funcionamiento del Tribunal.
+
+#### Artículo 78 b).-
+El Tribunal Constitucional tendrá las siguientes atribuciones:
+
+a) Resolver las cuestiones sobre constitucionalidad que se susciten durante la tramitación de los proyectos de ley y de los tratados sometidos a la aprobación del Congreso;
+b) Resolver las cuestiones que se susciten sobre la constitucionalidad de un decreto con fuerza de ley;
+c) Resolver las cuestiones sobre constitucionalidad que se susciten con relación a la convocatoria al plebiscito, sin perjuicio de las atribuciones que correspondan al Tribunal Calificador de elecciones;
+d) Resolver sobre las inhabilidades constitucionales o legales que afecten a una persona para ser designado Ministro de Estado, permanecer en dicho cargo o desempeñar simultáneamente otras funciones:
+e) Resolver los reclamos en caso de que el Presidente de la República no promulgue una ley cuando deba hacerlo, o promulgue un texto diverso del que constitucionalmente corresponda, y
+f) Resolver las contiendas de competencia que determinen las leyes.
+
+En el caso de la letra a), el Tribunal sólo podrá conocer de la materia a requerimiento del Presidente de la República, de cualquiera de las Cámaras o de más de un tercio de sus miembros en ejercicio, siempre que sea formulado antes de la promulgación de la ley:\
+El Tribunal deberá resolver dentro del plazo de diez días contado desde que reciba el requerimiento, a menos que decida prorrogarlo hasta otros diez días por motivos graves y calificados.
+
+El requerimiento no suspenderá la tramitación del proyecto; pero la parte impugnada de éste no podrá ser promulgada hasta la expiración del plazo referido, salvo que se trate de las materias enunciadas en los N°s. 4°, 11° y 12° del artículo 44.
+
+En el caso de la letra b), la cuestión podrá ser planteada por el Presidente de la República dentro del plazo de treinta días cuando la Contraloría rechace por inconstitucional un decreto con fuerza de ley. También podrá ser promovida por cualquiera de las Cámaras o por más de un tercio de sus miembros en ejercicio contra un decreto con fuerza de ley de que la Contraloría hubiere tomado razón y al cual se impugne de inconstitucional dentro del plazo de treinta días contado desde su publicación.
+
+El Tribunal deberá resolver dentro del plazo señalado en el inciso tercero.
+
+En el caso de la letra c), la cuestión podrá promoverse a requerimiento del Senado o de la Cámara de Diputados, dentro del plazo de diez días a contar desde la fecha de publicación del decreto que fije el día de la consulta plebiscitaria.
+
+Una vez reclamada su intervención, el Tribunal deberá emitir pronunciamiento en el término de diez días, fijando en su resolución el texto definitivo de la consulta plebiscitaria, cuando ésta fuere procedente.
+
+Si al tiempo de dictase la sentencia faltaren menos de treinta días para la realización del plebiscito, el Tribunal fijará en ella una nueva fecha comprendida entre los treinta y los sesenta días siguientes al fallo.
+
+En el caso de la letra d), el tribunal procederá a requerimiento de cualquiera de las Cámaras o de un tercio de sus miembros en ejercicio y deberá resolver dentro del plazo de treinta días, prorrogable en otros quince por resolución fundada.
+
+En los casos de la letra c), la cuestión podrá promoverse por cualquiera de las Cámaras, y si se trata de la promulgación de un texto diverso del que constitucionalmente corresponda, el reclamo deberá formularse dentro de los treinta días siguiente a su publicación.
+
+En ambos casos, el Tribunal resolverá en el término a que se refiere el inciso tercero, y si acogiere el reclamo promulgará en su fallo la ley que no lo haya sido o rectificará la promulgación incorrecta.
+
+Cuando el Tribunal no se pronuncie dentro de los plazos señalados en este artículo, salvo el de la letra d), los Ministros cesarán de pleno derecho en sus cargos.
+
+En el ejercicio de las atribuciones, el Tribunal actuará conforme a derecho; pero procederá como jurado respecto a la apreciación de los hechos cuando se trate de las inhabilidades de Ministros de Estado.
+
+Si pendiente la decisión de un asunto sometido al conocimiento del Tribunal expirare el período para el que éste fue elegido, continuará conociendo de él hasta su total resolución. 
+
+#### Art. 78 c).-
+Contra las resoluciones del Tribunal Constitucional no procederá recurso alguno.
+
+Las disposiciones que el Tribunal declare inconstitucionales no podrán convertirse en ley en el proyecto o decreto con fuerza de ley de que se trate.
+
+Resuelto por el Tribunal que un precepto legal es constitucional, la Corte Suprema no podrá declararlo inaplicable por el mismo vicio que fue materia de la sentencia.
+
 #### Art. 79.-
 Un tribunal especial, que se denominará Tribunal Calificador, conocerá de la calificacion de las elecciones de Presidente de la República, de Diputados y de Senadores.
 
@@ -661,15 +752,25 @@ El proyecto que apruebe la mayoría del Congreso Pleno, pasará al Presidente de
 
 Si en el dia señalado no se reuniere la mayoría del total de los miembros del Congreso, la sesion se verificará al siguiente, con los Diputados y Senadores que asistan.
 
+El proyecto aprobado por el Congreso Pleno no podrá ser rechazado totalmente por el Presidente de la República, quien sólo podrá proponer modificaciones o correcciones, o reiterar ideas contenidas en el mensaje o en indicaciones válidamente formuladas por el propio Presidente de la República.
+
+Si las observaciones que formulare el Presidente de la República en conformidad al inciso anterior fueren aprobadas por la mayoría que establece el inciso segundo, se devolverá el proyecto al Presidente para su promulgación.
+
 #### Art. 109.-
-El proyecto solo podrá ser observado por el Presidente de la República, para proponer modificaciones o correcciones a las reformas acordadas por el Congreso Pleno.
+El Presidente de la República podrá consultar a los ciudadanos, mediante un plebiscito, cuando un proyecto de reforma constitucional presentado por él sea rechazado totalmente por el Congreso, en cualquier estado de su tramitación. Igual convocatoria podrá efectuar cuando el Congreso haya rechazado total o parcialmente las observaciones que hubiere formulado, sea que el proyecto haya sido iniciado por mensaje o moción.
 
-Si las modificaciones que el Presidente de la República propusiere, fueren aprobados por ámbas Cámaras, se devolverá el proyecto al Presidente para su promulgacion.
+Sin embargo, esta facultad no podrá ejercerla respecto de reformas constitucionales que tengan por objeto modificar las normas sobre plebiscito prescritas en este artículo.
 
-Si las dos Cámaras desecharen todas o algunas de las observaciones del Presidente de la República e insistieren por los dos tercios de sus miembros presentes en la totalidad o parte del proyecto aprobado por ellas, se devolverá al Presidente para su promulgacion, o para que, si éste lo estima conveniente, consulte a la Nacion, dentro del término de treinta dias, los puntos en desacuerdo, por medio de un plebiscito.  El proyecto que se apruebe en el plebiscito se promulgará como reforma constitucional.
+La convocatoria a plebiscito deberá efectuarse dentro de los treinta días siguientes a aquél en que una de las Cámaras o el Congreso Pleno deseche el proyecto de reforma o en que el Congreso rechace las observaciones y se ordenará mediante, decreto supremo que fijará la fecha de la consulta plebiscitaria, la que no podrá tener lugar antes de treinta días ni después de sesenta contados desde la publicación de ese decreto. Transcurrido este plazo sin que se efectúe el plebiscito se promulgará el proyecto que hubiere aprobado el Congreso.
+
+El decreto de convocatoria contendrá, según corresponda, el proyecto del Presidente de la República rechazado por una de las Cámaras o por el Congreso Pleno, o las cuestiones en desacuerdo que aquél someta a la decisión de la ciudadanía. En este último caso, cada una de las cuestiones en desacuerdo deberá ser votada separadamente en la consulta popular.
+
+El Tribunal Calificador de Elecciones comunicará al Presidente de la República el resultado del plebiscito, especificando el texto del proyecto aprobado por la mayoría de los sufragios válidamente emitidos, que deberá ser promulgado como reforma constitucional dentro del plazo que establece el inciso segundo del artículo 55. La misma comunicación deberá enviar si la ciudadanía rechazare las observaciones del Presidente de la República, caso en el cual éste promulgará, en el plazo antes indicado, el proyecto aprobado por el Congreso Pleno.
+
+La ley establecerá normas que garanticen a los partidos políticos que apoyen o rechacen el proyecto o las cuestiones en desacuerdos sometidas a plebiscito, un acceso suficiente a los diferentes medios de publicidad, y dispondrá, en los casos y dentro de los límites que ella señale, la gratuidad de dicha publicidad.
 
 #### Art. 110.-
-Una vez promulgado el proyecto, sus disposiciones formarán parte de la Constitucion y se tendrán por incorporadas a ella.
+Una vez promulgado el proyecto, y desde la fecha de su vigencia, sus disposiciones formarán parte de la Constitucion y se tendrán por incorporadas a ella.
 
 ## DISPOSICIONES TRANSITORIAS
 #### Primera:
