@@ -1,3 +1,4 @@
+1959.03.02: Ley 13296: Modifica el inciso 2° y agrega inciso final al artículo 102°, y agrega disposición transitoria a continuación de la décima de la Constitución Política del Estado @13296
 1957.09.30: Ley 12548: Modifica el número 3° del artículo 5° y los números 1° y 2° del artículo 6° y agrega inciso final al mismo artículo de la Constitución Política del Estado @12548
 1943.11.23: Ley 7727: Reforma constitucional limita la iniciativa parlamentaria en lo relativo a gastos públicos @7727
 1925.09.18: Texto Original - de 18-SEP-1925 a 22-NOV-1943 @C1925
@@ -27,5 +28,11 @@ references:
     title: Ley 12548
     URL: https://www.bcn.cl/leychile/navegar?idNorma=27164
     issued: 1957-09-30
+    language: es-CL
+  - id: 13296
+    type: webpage
+    title: Ley 13296
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=27395
+    issued: 1959-03-02
     language: es-CL
 ---
