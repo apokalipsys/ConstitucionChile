@@ -1,3 +1,4 @@
+1973.11.10: Decreto Ley 119 : Disuelve el Tribunal Constitucional @DL119
 1971.10.25: Decreto 1333 DFL 1333: Fija texto de la Constitución Política del Estado @DFL1333
 1971.07.16: Ley 17450: Reforma la Constitución Política del Estado @17450
 1971.03.31: Ley 17420: Reforma la Constitución Política del Estado @17420
@@ -97,5 +98,11 @@ references:
     title: Decreto 1333 DFL 1333 25-OCT-1971 MINISTERIO DE JUSTICIA
     URL: https://www.bcn.cl/leychile/navegar?idNorma=241203
     issued: 1971-10-25
+    language: es-CL
+  - id: DL119
+    type: webpage
+    title: Decreto Ley 119 10-NOV-1973 MINISTERIO DE JUSTICIA
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=5781
+    issued: 1973-11-10
     language: es-CL
 ---

@@ -1,7 +1,7 @@
 ---
 title: Constitución Política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 25 de octubre de 1971
+date: Texto actualizado a 10 de noviembre de 1973
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -1267,7 +1267,7 @@ b) Facúltase al Presidente de la República para disponer que el Contralor, al 
 
     El Presidente de la República deberá ejercer esta facultad y comunicar al Contralor su decisión sobre el monto de las deducciones anteriores dentro del plazo de treinta días de requerido por éste. Vencido este plazo, haya o no hecho uso de su facultad el Presidente de la República, el Contralor podrá resolver sin más trámite sobre el monto de la indemnización.
 
-c) Dentro del plazo de quince días, contado desde la publicación en el "Diario Oficial" de la resolución del Contralor que determine la indemnización, el Estado y los afectados podrán apelar ante un Tribunal compuesto por un Ministro de la Corte Suprema designado por ésta, que lo presidirá, por un Ministro de la Corte de Apelaciones de Santiago, designado por ésta, por un Ministro del Tribunal Constitucional designado por éste, por el Presidente del Banco Central de Chile, y el Director Nacional de Impuestos Internos. Los Ministros de la Corte Suprema, de la Corte de Apelaciones de Santiago y del Tribunal Constitucional serán subrogados por las personas que la Corte respectiva y el Tribunal, en su caso, designen de entre sus miembros. El Presidente del Banco Central de Chile y el Director Nacional de Impuestos Internos serán subrogados por quien legalmente ejerza sus cargos.
+c) Dentro del plazo de quince días, contado desde la publicación en el "Diario Oficial" de la resolución del Contralor que determine la indemnización, el Estado y los afectados podrán apelar ante un Tribunal compuesto por dos Ministros de la Corte Suprema, designados por ésta, de los cuales el más antiguo como Ministro lo presidirá, por un Ministro de la Corte de Apelaciones de Santiago, designado por la Corte Suprema, por el Presidente del Banco Central de Chile, y el Director Nacional de Impuestos Internos. Los Ministros de la Corte Suprema y de la Corte de Apelaciones de Santiago, serán subrogados por las personas que la Corte Suprema designe de entre los miembros de las respectivas Cortes. El Presidente del Banco Central de Chile y el Director Nacional de Impuestos Internos serán subrogados por quien legalmente ejerza sus cargos.
 
     Este Tribunal apreciará la prueba en conciencia y fallará conforme a derecho, en única instancia y sin ulterior recurso. No procederá el recurso de queja. Tampoco tendrá aplicación respecto de este Tribunal lo dispuesto en el artículo 86 de esta Constitución.
 
@@ -1299,7 +1299,7 @@ h) Los socios o accionistas de las empresas nacionalizadas no tendrán otros der
 
 i) El Tribunal previsto en la letra c) conocerá y resolverá en la misma forma que allí se indica, cualquier reclamo o controversia que pueda surgir con motivo de la aplicación de las normas referentes a esta nacionalización, con excepción de las letras k) y l).
 
-    Las contiendas de competencia que se susciten con este Tribunal, serán resueltas por el Tribunal Constitucional previsto en el artículo 78 a) de esta Constitución.
+    Las contiendas de competencia que se susciten con este Tribunal, serán resueltas por la Corte Suprema.
 
 j) El capital de las empresas nacionalizadas, pasa al dominio de la Corporación del Cobre y de la Empresa Nacional de Minería, en la proporción que fije el Presidente de la República por Decreto Supremo. En consecuencia, dichas instituciones son los únicos socios en las sociedades afectadas por la nacionalización. Las sociedades así integradas son las continuadoras legales de las empresas nacionalizadas.
 
