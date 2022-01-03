@@ -1,7 +1,7 @@
 ---
 title: Constitución Política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 23 de noviembre de 1943
+date: Texto actualizado a 30 de septiembre de 1957
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -28,7 +28,7 @@ Son chilenos:
 
 1. Los nacidos en el territorio de Chile, con escepcion de los hijos de estranjeros que se encuentren en Chile en servicio de su Gobierno, y de los hijos de extranjeros transeuntes, todos los que podrán optar entre la nacionalidad de sus padres y la chilena;
 2. Los hijos de padre o madre chilenos, nacidos en territorio estranjero, por el solo hecho de avecindarse en Chile. Los hijos de chilenos nacidos en el estranjero, hallándose el padre o la madre en actual servicio de la República, son chilenos aun para los efectos en que las leyes fundamentales, o cualesquiera otras, requieran nacimiento en el territorio chileno;
-3. Los estranjeros que obtuvieren carta de nacionalizacion en conformidad a la lei, renunciando espresamente su nacionalidad anterior, y
+3. Los estranjeros que obtuvieren carta de nacionalizacion en conformidad a la lei, renunciando espresamente su nacionalidad anterior. No se exigirá la renuncia de la nacionalidad española respecto de los nacidos en España, con más de diez años de residencia en Chile, siempre que en ese país se conceda este mismo beneficio a los chilenos, y
 4. Los que obtuvieren especial gracia de nacionalizacion por lei.\
 Los nacionalizados tendrán opcion a cargos públicos de eleccion popular solo despues de cinco años de estar en posesion de sus cartas de nacionalizacion.\
 La lei reglamentará los procedimientos para la opcion entre la nacionalidad chilena y una estranjera; para el otorgamiento, la negativa y la cancelacion de las cartas de nacionalizacion, y para la formacion de un Registro de todos estos actos.
@@ -36,11 +36,14 @@ La lei reglamentará los procedimientos para la opcion entre la nacionalidad chi
 #### Art. 6.-
 La nacionalidad chilena se pierde:
 
-1. Por nacionalizacion en país estranjero;
-2. Por cancelacion de la carta de nacionalizacion, y
+1. Por nacionalizacion en país estranjero, salvo en caso de aquellos chilenos comprendidos en los números 1° y 2° del artículo anterior que hubieren obtenido la nacionalidad en España sin remunciar a su nacionalidad chilena;
+2. Por cancelacion de la carta de nacionalizacion, de la que podrá reclamarse dentro del plazo de diez días ante la Corte Suprema, la que conocerá como jurado. La interposición de este recurso suspenderá los efectos de la cancelación de la carta de nacionalización.\
+No podrá cancelarse la carta de nacionalización otorgada en favor de personas que desempeñen cargos de elección popular, y
 3. Por prestacion de servicios durante una guerra, a enemigos de Chile o de sus aliados.
 
 Los que hubieren perdido la nacionalidad chilena por cualquiera de las causales establecidas en este artículo, solo podrán ser rehabilitados por lei.
+
+La causal de pérdida de la nacionalidad chilena prevista en el N° 1° del presente artículo no reige en los casos en que, a virtud de disposiciones legales o constitucionales de otros países, los chilenos residentes en ellos deban adoptar la nacionalidad del país en que residan como condición de su permanencia
 
 #### Art. 7.-
 Son ciudadanos con derecho a sufrajio los chilenos que hayan cumplido veintiun años de edad, que sepan leer y escribir, y estén inscritos en los registros electorales.
