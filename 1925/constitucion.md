@@ -1,7 +1,7 @@
 ---
 title: Constitución Política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 30 de septiembre de 1957
+date: Texto actualizado a 2 de marzo de 1959
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -600,7 +600,9 @@ En las ciudades de mas de cien mil habitantes y en las otras que determine la le
 #### Art. 102.-
 Las Municipalidades tendrán los Rejidores que para cada una de ellas fije la lei.  Su número no bajará de cinco ni subirá de quince.
 
-Estos cargos son concejiles y su duracion es por tres años.
+Estos cargos son concejiles y su duración es de cuatro años.
+
+Las elecciones generales de Regidores tendrán lugar en el año subsiguiente al de cada elección general de Diputados y Senadores
 
 #### Art. 103.-
 Para ser elejido Rejidor se requieren las mismas calidades que para ser Diputado, y, ademas, tener residencia en la comuna por mas de un año.
@@ -714,3 +716,10 @@ Para los efectos del artículo 79, se considerará que todos los individuos que 
 
 #### Décima:
 La presente Reforma Constitucional empezará a regir treinta dias después de su publicacion en el Diario Oficial.
+
+#### Undécima:
+Con arreglo a la modificación introducida en el artículo 102° de la Constitución Política del Estado, los Regidores que sean tales en la fecha en que dicha modificación entre en vigencia durarán en sus cargos hasta el tercer Domingo de mayo de 1960, debiendo practicarse las próximas elecciones generales de Regidores el primer Domingo de abril de ese año.
+
+Los regidores que cesen en sus cargos antes de las elecciones generales de 1960 no serán reemplazados, salvo que el número de Regidores de la respectiva Municipalidad quede reducido a menos de la mitad.
+
+A fin de que en el futuro las elecciones generales de Regidores tengan lugar en el año subsiguiente al de cada elección general de Diputado y Senadores, los Regidores que sean elegidos en las elecciones generales de 1960 durarán en sus cargos por sólo tres años, debiendo practicarse las siguientes elecciones generales el primer Domingo de abril de 1963.
