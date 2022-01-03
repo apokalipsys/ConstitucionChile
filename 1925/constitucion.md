@@ -1,7 +1,7 @@
 ---
 title: Constitución Política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 20 de enero de 1967
+date: Texto actualizado a 2 de octubre de 1967
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -240,7 +240,7 @@ En los demas casos, el acusado quedará suspendido de sus funciones desde el mom
 
 ### SENADO
 #### Art. 40.-
-El Senado se compone de miembros elegidos en votacion directa por las nueve agrupaciones provinciales que fije la lei, en atencion a las características e intereses de las diversas rejiones del territorio de la República. A cada agrupacion corresponde elegir cinco Senadores.
+El Senado se compone de miembros elegidos en votacion directa por las diez agrupaciones provinciales que fije la lei, en atencion a las características e intereses de las diversas rejiones del territorio de la República. A cada agrupacion corresponde elegir cinco Senadores.
 
 #### Art. 41.-
 El Senado se renovará cada cuatro años, por parcialidades, en la forma que determine la lei. Cada Senador durará ocho años en su cargo.
@@ -690,22 +690,33 @@ La proclamacion del nuevo Presidente de la República, o su eleccion, en caso de
 Las elecciones jenerales para el nuevo Congreso se verificarán el domingo 22 de Noviembre de 1925.
 
 #### Quinta:
-Mientras la lei fija las agrupaciones provinciales a que se refiere el artículo 40, se establecen las siguientes:
+Mientras la ley fija las agrupaciones provinciales a que se refiere el artículo 40, se establecen las siguientes:
 
-1ª Tarapacá y Antofagasta;\
-2ª Atacama y Coquimbo;\
-3ª Aconcagua y Valparaíso;\
-4ª Santiago;\
-5ª O'Higgins, Colchagua y Curicó;\
-6ª Talca, Lináres y Maule;\
-7ª Ñuble, Concepcion y Bío-Bío;\
-8ª Arauco, Malleco y Cautín, y\
-9ª Valdivia, Llanquihue y Chiloé.
+1a.- Tarapacá y Antofagasta;\
+2a.- Atacama y Coquimbo;\
+3a.- Aconcagua y Valparaíso;\
+4a.- Santiago;\
+5a.- O'Higgins y Colchagua;\
+6a.- Curicó, Talca, Linares y Maule;\
+7a.- Ñuble, Concepción y Arauco;\
+8a.- Bío-Bío, Malleco y Cautín;\
+9a.- Valdivia, Osorno y Llanquihue, y\
+10a.- Chiloé, Aysén y Magallanes
 
-Las agrupaciones de departamentos colindantes que indica el artículo 37, se fijarán provisoriamente por el Presidente de la República, en atencion al Censo Jeneral levantado el 15 de diciembre de 1920.
+Los actuales senadores de la novena agrupación representarán también a la décima hasta el 20 de Mayo de 1969.
 
-#### Sesta:
-La lei electoral para el nuevo Congreso dispondrá la manera de determinar los Senadores que en cada agrupacion de provincias gozarán de un período de ocho años, y los que sólo tendrán un período de cuatro años, a fin de regularizar la eleccion del Senado por parcialidades, en conformidad al artículo 41.
+La primera elección de Senadores de la décima agrupación se verificará conjuntamente con la próxima elección general de Diputados y Senadores. El período de estos Senadores terminará el 20 de Mayo de 1973, a fin de regularizar la elección del Senado por parcialidades en conformidad al artículo 41.
+
+#### Sexta:
+Mientras la ley no disponga otra cosa, las agrupaciones vigésimo cuarta, vigésimo sexta y vigésimo séptima estarán formadas por los siguientes departamentos, correspondiéndoles elegir el número de Diputados que en cada caso se indica:
+
+24a.- Puerto Varas, Maullín, Llanquihue y Calbuco: 3 Diputados.\
+26a.- Aysén, Coyhaique y Chile Chico: 2 Diputados.\
+27a.- Ultima Esperanza, Magallanes y Tierra del Fuego: 2 Diputados.
+
+Los Diputados de las actuales vigésima cuarta y vigésimo sexta agrupaciones departamentales continuarán representándolas hasta el 20 de Mayo de 1969.
+
+La primera elección de Diputados de las nuevas agrupaciones vigésimo cuarta, vigésimo sexta y vigésimo séptima se efectuará conjuntamente con la próxima elección general de Diputados y Senadores.
 
 #### Sétima:
 El período constitucional para el nuevo Congreso empezará a contarse desde el 21 de mayo de 1926, sin perjuicio de que sea convocado a sesiones estraordinarias apénas el Tribunal Calificador apruebe definitivamente los poderes de los Diputados y Senadores electos.
