@@ -1,3 +1,4 @@
+1970.05.06: Decreto 519 DFL 519: Constitución Política del Estado @DFL519
 1970.01.23: Ley 17284: Modifica la Constitución Política del Estado @17284
 1967.10.02: Ley 16672: Modifica la Constitución Política del Estado @16672
 1967.01.20: Ley 16615: Modifica la Constitución Política del Estado @16615
@@ -62,5 +63,11 @@ references:
     title: Ley 17284
     URL: https://www.bcn.cl/leychile/navegar?idNorma=28888
     issued: 1970-01-23
+    language: es-CL
+  - id: DFL519
+    type: webpage
+    title: Decreto 519 DFL 519 06-MAY-1970 MINISTERIO DE JUSTICIA
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=241091
+    issued: 1970-05-06
     language: es-CL
 ---
