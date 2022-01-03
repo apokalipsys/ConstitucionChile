@@ -1,0 +1,17 @@
+1925.09.18: Texto Original - de 18-SEP-1925 a 22-NOV-1943 @C1925
+
+---
+references:
+  - id: C1925
+    type: book
+    title: Constitución Política de la República de Chile
+    URL: https://obtienearchivo.bcn.cl/obtienearchivo?id=documentos/10221.1/17659/1/Constituci%C3%B3n%20pol%C3%ADtica%20de%20la%20Rep%C3%BAblica%20de%20Chile.%20promulgada%20el%2018%20de%20septiembre%20de%201925.pdf
+    issued: 1925-09-18
+    language: es-CL
+  - id: C1925b
+    type: webpage
+    title: Ley S/N
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=131386
+    issued: 1925-09-18
+    language: es-CL
+---
