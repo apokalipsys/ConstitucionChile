@@ -1,7 +1,7 @@
 ---
 title: Constitución Política de la República de Chile
 subtitle: República de Chile
-date: 18 de septiembre de 1925
+date: Texto actualizado a 23 de noviembre de 1943
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -208,6 +208,12 @@ Todo individuo en favor de quien se dictare sentencia absolutoria o se sobreseye
 
 Las Tesorerías del Estado no podrán efectuar ningún pago sino en virtud de un decreto espedido por autoridad competente, en que se esprese la lei o la parte del Presupuesto que autorice aquel gasto.
 
+Un organismo autónomo con el nombre de Contraloría General de la República, fiscalizará el ingreso y la inversión de los fondos del Fisco, de las Municipalidades, de la Beneficencia Pública y de los otros servicios que determinen las leyes; examinará y juzgará las cuentas de las personas que tengan a su cargo bienes de esas entidades, llevará la contabilidad general de la Nación y desempeñara las demás funciones que le encomiende la ley. Se exceptúan de esta disposición las cuentas del Congreso Nacional, que serán juzgadas de acuerdo con sus reglamentos internos.
+
+La Contraloría no dará curso a los decretos que excedan el límite señalado en el N° 10.° del artículo 72 de la Constitución, y remitirá copia íntegra de los antecedentes a la Cámara de los Diputados.
+
+También enviará copia a la misma Cámara de los decretos de que tome razón y que se dicten con la firma de todos los Ministros de Estado, conforme a lo dispuesto en el precepto citado en el inciso anterior
+
 #### Art. 22.-
 
 La fuerza pública es esencialmente obediente. Ningún cuerpo armado puede deliberar.
@@ -314,7 +320,7 @@ Son atribuciones exclusivas de la Cámara de Diputados:
 
     b) De los Ministros de Estado, por los delitos de traicion, concusion, malversacion de fondos públicos, soborno, infraccion de la Constitucion, atropellamiento de las leyes, por haberlas dejado sin ejecucion y por haber comprometido gravemente la seguridad o el honor de la Nacion. Estas acusaciones podrán interponerse miéntras el Ministro estuviere en funciones y en los tres meses siguientes a la espiracion de su cargo. Durante ese tiempo, no podrá ausentarse de la República sin permiso de la Cámara, o, en receso de ésta, de su Presidente;
 
-    c) De los Magistrados de los Tribunales Superiores de Justicia, por notable abandono de sus deberes :
+    c) De los Magistrados de los Tribunales Superiores de Justicia y del Contralor General de la República, por notable abandono de sus deberes;
 
     d) De los Jenerales o Almirantes de las fuerzas armadas por haber comprometido gravemente la seguridad o el honor de la Nacion, y
 
@@ -427,6 +433,8 @@ Solo en virtud de una lei se puede:
 Las leyes pueden tener principio en la Cámara de Diputados o en el Senado, por mensaje que dirija el Presidente de la República o por mocion de cualquiera de sus miembros. Las mociones no pueden ser firmadas por mas de diez Diputados ni por mas de cinco Senadores.
 
 Los suplementos a partidas o ítem de la lei jeneral de Presupuestos, sólo podrán proponerse por el Presidente de la República.
+
+Corresponderá, asimismo, al Presidente de la República la iniciativa para alterar la división política o administrativa del país; para crear nuevos servicios públicos o empleos rentados, y para conceder o aumentar sueldos y gratificaciones al personal de la Administración Pública de las empresas fiscales y de las instituciones semifiscales. El Congreso Nacional soló podrá aceptar, disminuir o rechazar los servicios, empleos, emolumentos o aumentos que se propongan. No se aplicará esta disposición al Congreso Nacional ni a los servicios que de él dependan.
 
 Las leyes sobre contribuciones de cualquiera naturaleza que sean, sobre los Presupuestos de la administracion pública y sobre reclutamiento, sólo pueden tener principio en la Cámara de Diputados.
 
@@ -596,7 +604,7 @@ Son atribuciones especiales del Presidente:
 
 9. Conceder jubilaciones, retiros y goce de montepío con arreglo a las leyes;
 
-10. Cuidar de la recaudacion de las rentas públicas y decretar su inversion con arreglo a la lei;
+10. Cuidar de la recaudacion de las rentas públicas y decretar su inversion con arreglo a la lei. El Presidente de la República con la firma de todos los Ministros de Estado podrá decretar pagos no autorízados por la ley, sólo para atender necesidades impostergables derivadas de calamidades publicas, de agresíon exterior, de conmoción interna o del agotamiento de los recursos destinados a mantener servicios que no puedan paralizarse sin grave daño para el país. El total de los giros que se hagan con estos objetos, no podrá exceder anualmente del dos por ciento del monto de los gastos que autorice la Ley General de Presupuestos. Se podrá contratar empleados con cargo a esta misma ley, pero sin que el ítem respectivo pueda ser incrementado ni disminuido mediante traspasos. Los Ministros de Estado o funcionario que autoricen o den curso a gastos que contravengan lo dispuesto en este número serán responsables solidaria y personalmente de su reintegro, y culpables del delito de malversación de caudales públicos;
 
 11. Conceder personalidades jurídicas a las corporaciones privadas, y cancelarlas; aprobar los estatutos por que deban regirse, rechazarlos y aceptar modificaciones;
 
