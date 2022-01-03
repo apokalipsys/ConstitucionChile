@@ -1,7 +1,7 @@
 ---
 title: Constitución Política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 9 de enero de 1971
+date: Texto actualizado a 31 de marzo de 1971
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -1029,9 +1029,9 @@ Para ser elegido Regidor se requieren las mismas calidades que para ser Diputado
 
 #### Art. 104.-
 
-La elección de Regidores se hará en votación directa, y con arreglo a las disposiciones especiales que indique la ley de Organización y Atribuciones de las Municipalidades.
+La elección de Regidores se hará en votación directa, y con arreglo a las disposiciones especiales que indique la ley.
 
-Habrá, para este efecto, registros particulares en cada comuna, y, para inscribirse en ellos, se exigirá haber cumplido veintiún años de edad y saber leer y escribir. Los extranjeros necesitarán, además, haber residido cinco años en el país.
+Podrán votar en la elección de Regidores los extranjeros mayores de 18 años de edad y que hayan residido por más de 5 años en el país, efecto para el cual habrá Registros particulares en cada comuna.
 
 La calificación de las elecciones de Regidores, el conocimiento de los reclamos de nulidad que ocurran acerca de ellas, y la resolución de los casos que sobrevengan posteriormente, corresponderán a la autoridad que determine la ley.
 
