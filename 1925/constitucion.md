@@ -1,7 +1,7 @@
 ---
 title: Constitución Política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 8 de octubre de 1963
+date: Texto actualizado a 20 de enero de 1967
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -138,17 +138,19 @@ La Constitucion asegura a todos los habitantes de la República:
 
     Todos los chilenos en estado de cargar armas deberán hallarse inscritos en los rejistros militares, si no están especialmente esceptuados por la lei;
 
-10. La inviolabilidad de todas las propiedades, sin distincion alguna.
+10. El derecho de propiedad en sus diversas especies.
 
-    Nadie puede ser privado de la de su dominio, ni de una parte de ella, o del derecho que a ella tuviere, sino en virtud de sentencia judicial o de espropiacion por razon de utilidad pública, calificada por una lei. En este caso, se dará préviamente al dueño la indemnizacion que se ajuste con él o que se determine en el juicio correspondiente.
+    La ley establecerá el modo de adquirir la propiedad, de usar, gozar y disponer de ella y las limitaciones y obligaciones que permitan asegurar su función social y hacerla accesible a todos. La función social de la propiedad comprende cuanto exijan los intereses generales del Estado, la utilidad y salubridad públicas, el mejor aprovechamiento de las fuentes y energías productivas en el servicio de la colectividad y la elevación de las condiciones de vida del común de los habitantes.
 
-    El ejercicio del derecho de propiedad está sometido a las limitaciones o reglas que exijan el mantenimiento y el progreso del órden social, y, en tal sentido, podrá la lei imponerle obligaciones o servidumbres de utilidad pública en favor de los intereses jenerales del Estado, de la salud de los ciudadanos y de la salubridad pública. El Juez podrá autorizar la toma de posesión material del bien expropiado, después de dictada la sentencia de primera instancia, cuando se trate de expropiaciones para obras públicas de urgente realización o de predios rústicos, y siempre que sólo se hubiere reclamado del monto de la indemnización y se dé previamente al dueño el total o la parte de ella a que se refiere el inciso siguiente, ordenadas en dicha sentencia.
+    Cuando el interés de la comunidad nacional lo exijan, la ley podrá reservar al Estado el dominio exclusivo de recursos naturales, bienes de producción u otros, que declare de importancia preeminente para la vida económica, social o cultural del país. Propenderá, asimismo, a la conveniente distribución de la propiedad y a la constitución de la propiedad familiar.
 
-    Sin embargo, si con el objeto de propender a la conveniente división de la propiedad rústica se expropiaren, por causas de utilidad pública, predios rústicos abandonados, o que estén manifiestamente mal explotados y por debajo de las condiciones normales predominantes en la región para tierras de análogas posibilidades, deberá darse previamente al propietario el diez por ciento de la indemnización y el saldo en cuotas anuales iguales dentro de un plazo que no exceda de quince años, con el interés que fijará la ley.
+    Nadie puede ser privado de su propiedad sino en virtud de ley general o especial que autorice la expropiación por causa de utilidad pública o interés social, calificada por el legislador. El expropiado tendrá siempre derecho a indemnización cuyo monto y condiciones de pago se determinarán equitativamente tomando en consideración los intereses de la colectividad y de los expropiados. La ley determinará las normas para fijar la indemnización, el tribunal que conozca de las reclamaciones sobre su monto, el que en todo caso fallará conforme a derecho, la forma de extinguir esta obligación, y las oportunidades y modo en que el expropiador tomará posesión material del bien expropiado.
 
-    Esta forma de indemnización sólo podrá utilizarse en conformidad a la ley que permita reclamar de la expropiación ante un Tribunal Especial, cuya decisión sea apelable ante la Corte de Apelaciones respectiva, y que establezca un sistema de reajuste anual del saldo de la indemnización, con el objeto de mantener su valor. No podrán iniciarse ni efectuarse nuevas expropiaciones indemnizables a plazo si existe retardo en el pago de los créditos provenientes de anteriores expropiaciones realizadas en conformidad al inciso anterior.
+    Cuando se trate de expropiación de predios rústicos, la indemnización será equivalente al avalúo vigente para los efectos de la contribución territorial, más el valor de las mejoras que no estuvieren comprendidas en dicho avalúo, y podrá pagarse con una parte al contado y el saldo en cuotas en un plazo no superior a treinta años, todo ello en la forma y condiciones que la ley determine.
 
-    En la Ley de Presupuesto se entenderá siempre consultado el ítem necesario para el servicio de dichos créditos, y sus cuotas vencidas servirán para extinguir toda clase de obligaciones a favor del Fisco. La Tesorería General de la República pagará las cuotas vencidas más reajuste e intereses contra la presentación del título correspondiente;
+    La ley podrá reservar al dominio nacional de uso público todas las aguas existentes en el territorio nacional y expropiar, para incorporarlas a dicho dominio, las que sean de propiedad particular. En este caso, los dueños de las aguas expropiadas continuarán usándolas en calidad de concesionarios de un derecho de aprovechamiento y sólo tendrán derecho a la indemnización cuando, por la extinción total o parcial de ese derecho, sean efectivamente privados del agua suficiente para satisfacer, mediante un uso racional y beneficioso, las mismas necesidades que satisfacían con anterioridad a la extinción.
+
+    La pequeña propiedad rústica trabajada por su dueño y la vivienda habitada por su propietario no podrán ser expropiadas sin previo pago de indemnización. 
 
 11. La propiedad exclusiva de todo descubrimiento o produccion, por el tiempo que concediere la lei. Si ésta exijiere su espropiacion, se dará al autor o inventor la indemnizacion competente;
 
