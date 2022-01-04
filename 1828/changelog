@@ -1,0 +1,11 @@
+1828.08.08: Constitución Política de la República de Chile, promulgada el 8 de agosto de 1828 @C1828
+
+---
+references:
+  - id: C1828
+    type: webpage
+    title: Ley S/N
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=1005225
+    issued: 1828-08-08
+    language: es-CL
+---
