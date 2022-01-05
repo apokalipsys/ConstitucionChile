@@ -1,3 +1,5 @@
+1874.08.13: Reforma de varios de sus artículos @SN187408b
+            Reforma de varios de sus artículos @SN187408a
 1873.09.25: Reforma del artículo 54 que se refiere al quorum que las Cámaras necesitan para poder funcionar @SN1873
 1871.08.08: Reforma de los artículos 61 y 62 de la Constitucion Política: Presidente de la República, Duración de sus funciones, Reeleccion. @SN1871
 1833.05.25: Constitución Política de la República de Chile, promulgada y jurada el 25 de mayo de 1833 @C1833
@@ -27,5 +29,17 @@ references:
     title: Ley S/N
     URL: https://www.bcn.cl/leychile/navegar?idNorma=131716
     issued: 1873-09-25
+    language: es-CL
+  - id: SN187408a
+    type: webpage
+    title: Ley S/N
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=131717
+    issued: 1874-08-13
+    language: es-CL
+  - id: SN187408b
+    type: webpage
+    title: Ley S/N
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=131718
+    issued: 1874-08-13
     language: es-CL
 ---
