@@ -1,6 +1,6 @@
 ---
 title: Constitución de la República de Chile
-date: Texto actualizado a 8 de agosto de 1871
+date: Texto actualizado a 25 de septiembre de 1873
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -377,7 +377,7 @@ Convocado estraordinariamente el Congreso, se ocupará en los negocios que hubie
 
 #### Artículo 54.
 
-Ninguna de las Cámaras puede entrar en sesión sin la concurrencia de la mayoría absoluta de los miembros de que debe componerse.
+La Cámara de Senadores no podrá entrar en sesion ni continuar en ella sin la concurrencia de la tercera parte de sus miembros, ni la Cámara de Diputados sin la cuarta parte de los suyos.
 
 #### Artículo 55.
 
