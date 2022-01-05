@@ -1,3 +1,4 @@
+1874.10.24: Reforma los artículos 36, inciso 6.º; 57, 58, 82 incisos 3.º y 6.º, 92, 93, 94, 95, 96, 97, 98, 101, 102, 104, inciso 7.º; 161 y transitorios de la Constitucion Política de la República @SN187410
 1874.08.13: Reforma de varios de sus artículos @SN187408b
             Reforma de varios de sus artículos @SN187408a
 1873.09.25: Reforma del artículo 54 que se refiere al quorum que las Cámaras necesitan para poder funcionar @SN1873
@@ -37,6 +38,12 @@ references:
     issued: 1874-08-13
     language: es-CL
   - id: SN187408b
+    type: webpage
+    title: Ley S/N
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=131718
+    issued: 1874-08-13
+    language: es-CL
+  - id: SN187410
     type: webpage
     title: Ley S/N
     URL: https://www.bcn.cl/leychile/navegar?idNorma=131718
