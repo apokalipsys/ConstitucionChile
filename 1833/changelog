@@ -1,3 +1,4 @@
+1888.10.06: Constitución Política De La Republica De Chile Jurada Y Promulgada El 25 De Mayo De 1833 Con Las Reformas Efectuadas Hasta El 10 De Agosto De 1888 @DSN1888
 1888.08.10: Ley que ratifica las proposiciones de reforma constitucional a que hace referencia @SN188808
 1882.01.15: Reforma de la Constitución @SN1882
 1874.10.24: Reforma los artículos 36, inciso 6.º; 57, 58, 82 incisos 3.º y 6.º, 92, 93, 94, 95, 96, 97, 98, 101, 102, 104, inciso 7.º; 161 y transitorios de la Constitucion Política de la República @SN187410
@@ -62,5 +63,12 @@ references:
     title: Ley S/N
     URL: https://www.bcn.cl/leychile/navegar?idNorma=131727
     issued: 1888-08-10
+    language: es-CL
+  
+  - id: DSN1888
+    type: webpage
+    title: Decreto S/N 06-OCT-1888 MINISTERIO DEL INTERIOR
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=1139076
+    issued: 1888-10-06
     language: es-CL
 ---
