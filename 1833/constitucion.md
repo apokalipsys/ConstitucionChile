@@ -1,6 +1,6 @@
 ---
 title: Constitución de la República de Chile
-date: Texto actualizado a 6 de octubre de 1888
+date: Texto actualizado a 12 de diciembre de 1891
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -340,7 +340,7 @@ Le corresponde, en consecuencia:
 2. Dirigir al Presidente de la República las representaciones conducentes á los objetos indicados, y reiterarlas por segunda vez, si no hubieren bastado las primeras.\
    Cuando las representaciones tuvieren por fundamento abusos ó atentados cometidos por autoridades que dependan del Presidente de la República, y este no tomare las medidas que estén en sus facultades para poner término al abuso y para el castigo del funcionario culpable, se entenderá que el Presidente de la República y el Ministro del ramo respectivo, aceptan la responsabilidad de los actos de la autoridad subalterna, como si se hubiesen ejecutado por su orden ó con su consentimiento;
 3. Prestar ó rehusar su consentimiento á los actos del Presidente de la República á que, según lo prevenido en esta Constitución, debe proceder de acuerdo con la Comisión Conservadora;
-4. Pedir al Presidente de la República que convoque extraordinariamente al Congreso cuando, á su juicio, lo exigieren circunstancias extraordinarias y excepcionales;
+4. Convocar al Congreso a sesiones estraordinarias cuando lo estimare conveniente, o cuando la mayoría de ámbas Cámaras lo pidiere por escrito;
 5. Dar cuenta al Congreso en su primera reunión, de las medidas que hubiere tomado en desempeño de su cargo.
 
 La Comisión es responsable al Congreso de su omisión en el cumplimiento de los deberes que los incisos precedentes le imponen.
@@ -454,7 +454,8 @@ Son atribuciones especiales del Presidente:
 3. Velar por la conducta ministerial de los jueces y demás empleados del orden judicial, pudiendo, al efecto, requerir al ministerio público para que reclame medidas disciplinarias del tribunal competente, ó para que, si hubiere mérito bastante, entable la correspondiente acusación.
 4. Prorrogar las sesiones ordinarias del Congreso hasta cincuenta días.
 5. Convocarlo á sesiones extraordinarias, con acuerdo del Consejo de Estado.
-6. Nombrar y remover á su voluntad á los Ministros del Despacho y oficiales de sus secretarías, á los Consejeros de Estado de su elección, á los Ministros diplomáticos, á los Cónsules y demás agentes exteriores, á los Intendentes de provincia y á los Gobernadores de plaza.
+6. Nombrar y remover á su voluntad á los Ministros del Despacho y oficiales de sus secretarías, á los Consejeros de Estado de su elección, á los Ministros diplomáticos, á los Cónsules y demás agentes exteriores, á los Intendentes de provincia y á los Gobernadores de plaza.\
+   El nombramiento de los Ministros Diplomáticos deberá someterse a la aprobación del Senado, o en su receso, al de la Comisión Conservadora.
 7. Nombrar los magistrados de los tribunales superiores de justicia, y los jueces letrados de primera instancia á propuesta del Consejo de Estado, conforme á la parte 2. del artículo 95.
 8. Presentar para los Arzobispados, Obispados, dignidades y prebendas de las Iglesias catedrales, á propuesta en terna del Consejo de Estado.-La persona en quien recayere la elección del Presidente para Arzobispo ú Obispo, debe además obtener la aprobación del Senado.
 9. Proveer los demás empleos civiles y militares, procediendo con acuerdo del Senado, y en el receso de éste, con el de la Comisión Conservadora, para conferir los empleos ó grados de coroneles, capitanes de navío, y demás oficiales superiores del ejército y armada. En el campo de batalla podrá conferir estos empleos militares superiores por sí solo.
