@@ -1,0 +1,18 @@
+1818.08.10: Proyecto de Constitución Provisoria para el Estado de Chile publicado en 10 de agosto de 1818, sancionado y jurado solemnemente el 23 de octubre del mismo
+ @C1818
+
+---
+references:
+  - id: C1818
+    type: website
+    title: Constitución Provisoria para el Estado de Chile de 1818
+    URL: https://es.wikisource.org/wiki/Constituci%C3%B3n_Provisoria_para_el_Estado_de_Chile_de_1818
+    issued: 2005-10-05
+    language: es-CL
+  - id: C1818b
+    type: website
+    title: Ley S/N
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=1005251
+    issued: 1818-08-10
+    language: es-CL
+---
