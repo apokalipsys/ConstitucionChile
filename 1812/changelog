@@ -1,0 +1,17 @@
+1812.10.26: Reglamento Constitucional Provisorio sancionado en 26 de octubre de 1812 @R1812
+
+---
+references:
+  - id: R1812
+    type: website
+    title: Reglamento Constitucional Provisorio de 1812
+    URL: https://es.wikisource.org/wiki/Reglamento_Constitucional_Provisorio_de_1812
+    issued: 2005-10-05
+    language: es-CL
+  - id: R1812b
+    type: website
+    title: Ley S/N
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=1005390
+    issued: 1812-10-26
+    language: es-CL
+---
