@@ -1,12 +1,13 @@
 ---
 title: Borrador Nueva Constitución
 subtitle: Convención Constitucional
-date: Actualizado el 14 de mayo de 2022
+date: Actualizado el 18 de mayo de 2022
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
 
-Este documento es un consolidado que reúne las normas aprobadas por el Pleno de la Convención Constitucional, ordenadas por comisión. La relación de números de los artículos obedece a lo dispuesto en los respectivos informes y no es el orden definitivo, ya que ese proceso deberá ser realizado por la Comisión de Armonización (Actualizado el 14.05.22).
+* Este documento es un consolidado que reúne las normas aprobadas por el Pleno de la Convención Constitucional, ordenadas por comisión. La relación de números de los artículos obedece a lo dispuesto en los respectivos informes y no es el orden definitivo, ya que ese proceso deberá ser realizado por la Comisión de Armonización.
+* Este documento se actualizará periódicamente.
 
 # CONSOLIDADO NORMAS APROBADAS PARA LA PROPUESTA CONSTITUCIONAL POR EL PLENO DE LA CONVENCIÓN
 
