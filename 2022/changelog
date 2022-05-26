@@ -1,3 +1,4 @@
+2022.05.18: Actualización 18 de mayo de 2022 @CC202205v1.1
 2022.05.14: Consolidado de Normas aprobadas para la propuesta constitucional, presentado el 14 de mayo de 2022 @CC202205
 
 ---
@@ -7,5 +8,11 @@ references:
     title: Consolidado Normas Aprobadas para la Propuesta Constitucional por el Pleno de la Convención
     URL: https://www.chileconvencion.cl/wp-content/uploads/2022/05/PROPUESTA-DE-BORRADOR-CONSTITUCIONAL-14.05.22.pdf
     issued: 2022-05-14
+    language: es-CL
+  - id: CC202205v1.1
+    type: book
+    title: Borrador Nueva Constitución
+    URL: http://www.chileconvencion.cl/wp-content/uploads/2022/05/PROPUESTA-DE-BORRADOR-CONSTITUCIONAL-14.05.22-1-1.pdf
+    issued: 2022-05-18
     language: es-CL
 ---
