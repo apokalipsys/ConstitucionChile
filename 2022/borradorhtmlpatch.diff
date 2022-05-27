@@ -1,0 +1,50 @@
+diff --git a/2022/borrador.md b/2022/borrador.md
+index 742383c..90ca830 100644
+--- a/2022/borrador.md
++++ b/2022/borrador.md
+@@ -232,26 +232,25 @@ Las diputadas, diputados y representantes regionales podrán renunciar a sus car
+ 
+ Sólo en virtud de una ley se puede:
+ 
+-\begin{itemize}
+-\tightlist
+-\item[a.] Crear, modificar y suprimir tributos de cualquier clase o naturaleza y los beneficios tributarios aplicables a éstos, determinar su progresión, exenciones y proporcionalidad, sin perjuicio de las excepciones que establezca esta Constitución;
+-\item[b.] Autorizar la contratación de empréstitos y otras operaciones que puedan comprometer el crédito y la responsabilidad financiera del Estado, sus organismos y municipalidades, sin perjuicio de lo consagrado respecto de las entidades territoriales y de lo establecido en la letra siguiente. Esta disposición no se aplicará al Banco Central;
+-\item[c.] Establecer las condiciones y reglas conforme a las cuales las universidades y las empresas del Estado y aquellas en que éste tenga participación puedan contratar empréstitos, los que en ningún caso podrán efectuarse con el Estado, sus organismos y empresas;
+-\item[d.] Instituir las normas sobre enajenación de bienes del Estado, los gobiernos regionales o de las municipalidades y sobre su arrendamiento, títulos habilitantes para su uso o explotación, y concesión;
+-\item[e.] Disponer, organizar y distribuir las Fuerzas Armadas para su desarrollo y empleo conjunto, así como permitir la entrada de tropas extranjeras en el territorio de la República, como, asimismo, la salida de tropas nacionales fuera de él;
+-\item[f.] Establecer o modificar la división político o administrativa del país;
+-\item[g.] Señalar el valor, tipo y denominación de las monedas, y el sistema de pesos y medidas;
+-\item[h.] Conceder indultos generales y amnistías, salvo en crímenes de lesa humanidad;
+-\item[i.] Establecer el sistema de determinación de las remuneraciones de la Presidenta o Presidente de la República y las Ministras o Ministros de Estado, de las diputadas y diputados, las gobernadoras y gobernadores y de las y los representantes regionales;
+-\item[k.] Singularizar la ciudad en que debe residir la Presidenta o el Presidente de la República, celebrar sus sesiones el Congreso de Diputadas y Diputados y la Cámara de las Regiones y funcionar la Corte Suprema;
+-\item[l.] Autorizar la declaración de guerra, a propuesta de la Presidenta o Presidente de la República;
+-\item[m.] Fijar las bases de los procedimientos que rigen los actos de la administración pública;
+-\item[n.] Establecer la creación y modificación de servicios públicos y empleos públicos, sean fiscales, semifiscales, autónomos o de las empresas del Estado, y determinar sus funciones y atribuciones;
+-\item[\~{n}.] Establecer el régimen jurídico aplicable en materia laboral, sindical, de la huelga y la negociación colectiva en sus diversas manifestaciones, previsional y de seguridad social;
+-\item[o.] Crear loterías y apuestas;
+-\item[p.] Regular aquellas materias que la Constitución señale como leyes de concurrencia presidencial necesaria, y
+-\item[q.] Regular las demás materias que la Constitución exija que sean establecidas por una ley.
+-\end{itemize}
++<ol type="a">
++<li>Crear, modificar y suprimir tributos de cualquier clase o naturaleza y los beneficios tributarios aplicables a éstos, determinar su progresión, exenciones y proporcionalidad, sin perjuicio de las excepciones que establezca esta Constitución;</li>
++<li>Autorizar la contratación de empréstitos y otras operaciones que puedan comprometer el crédito y la responsabilidad financiera del Estado, sus organismos y municipalidades, sin perjuicio de lo consagrado respecto de las entidades territoriales y de lo establecido en la letra siguiente. Esta disposición no se aplicará al Banco Central;</li>
++<li>Establecer las condiciones y reglas conforme a las cuales las universidades y las empresas del Estado y aquellas en que éste tenga participación puedan contratar empréstitos, los que en ningún caso podrán efectuarse con el Estado, sus organismos y empresas;</li>
++<li>Instituir las normas sobre enajenación de bienes del Estado, los gobiernos regionales o de las municipalidades y sobre su arrendamiento, títulos habilitantes para su uso o explotación, y concesión;</li>
++<li>Disponer, organizar y distribuir las Fuerzas Armadas para su desarrollo y empleo conjunto, así como permitir la entrada de tropas extranjeras en el territorio de la República, como, asimismo, la salida de tropas nacionales fuera de él;</li>
++<li>Establecer o modificar la división político o administrativa del país;</li>
++<li>Señalar el valor, tipo y denominación de las monedas, y el sistema de pesos y medidas;</li>
++<li>Conceder indultos generales y amnistías, salvo en crímenes de lesa humanidad;</li>
++<li>Establecer el sistema de determinación de las remuneraciones de la Presidenta o Presidente de la República y las Ministras o Ministros de Estado, de las diputadas y diputados, las gobernadoras y gobernadores y de las y los representantes regionales;
++<li value="11">Singularizar la ciudad en que debe residir la Presidenta o el Presidente de la República, celebrar sus sesiones el Congreso de Diputadas y Diputados y la Cámara de las Regiones y funcionar la Corte Suprema;</li>
++<li>Autorizar la declaración de guerra, a propuesta de la Presidenta o Presidente de la República;</li>
++<li>Fijar las bases de los procedimientos que rigen los actos de la administración pública;</li>
++<li>Establecer la creación y modificación de servicios públicos y empleos públicos, sean fiscales, semifiscales, autónomos o de las empresas del Estado, y determinar sus funciones y atribuciones;</li>
++<li style="list-style: none;text-indent: -1em;">ñ. Establecer el régimen jurídico aplicable en materia laboral, sindical, de la huelga y la negociación colectiva en sus diversas manifestaciones, previsional y de seguridad social;</li>
++<li value="15">Crear loterías y apuestas;</li>
++<li>Regular aquellas materias que la Constitución señale como leyes de concurrencia presidencial necesaria, y</li>
++<li>Regular las demás materias que la Constitución exija que sean establecidas por una ley.</li>
++</ol>
+ 
+ #### 27.- Artículo 23.-
+ 

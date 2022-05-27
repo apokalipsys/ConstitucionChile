@@ -4,6 +4,7 @@ PDFENGINE=xelatex
 BUILDFOLDER=build/
 PDFOPTIONS=--toc -V toc-title="Tabla de Contenidos"
 MONOOPTIONS=-V mainfont="Courier New" -V title=""
+HTMLOPTIONS=-V mainfont="-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\""
 
 .PHONY: all
 all: clear book mono
@@ -45,3 +46,22 @@ mono: | prebuild
 	$(PANDOC) "2022\borrador.md"  --pdf-engine=$(PDFENGINE) -o $(BUILDFOLDER)Propuesta_de_borrador_Constitucional_2022_mono.pdf -s $(MONOOPTIONS)
 	$(PANDOC) "2018\proyecto.md" --pdf-engine=$(PDFENGINE) -o $(BUILDFOLDER)Proyecto_Constitucion_2018_mono.pdf -s $(MONOOPTIONS)
 	$(PANDOC) "1826\proyecto.md" --pdf-engine=$(PDFENGINE) -o $(BUILDFOLDER)Leyes_Federales_1826_mono.pdf -s $(MONOOPTIONS)
+
+html:
+	@echo "Generando version navegable"
+	$(PANDOC) "1980\constitucion.md" -o docs/1980_constitucion.html -s $(HTMLOPTIONS)
+	$(PANDOC) "1925\constitucion.md" -o docs/1925_constitucion.html -s $(HTMLOPTIONS)
+	$(PANDOC) "1833\constitucion.md" -o docs/1833_constitucion.html -s $(HTMLOPTIONS)
+	$(PANDOC) "1828\constitucion.md" -o docs/1828_constitucion.html -s $(HTMLOPTIONS)
+	$(PANDOC) "1823\constitucion.md" -o docs/1823_constitucion.html -s $(HTMLOPTIONS)
+	$(PANDOC) "1822\constitucion.md" -o docs/1822_constitucion.html -s $(HTMLOPTIONS)
+	$(PANDOC) "1818\constitucion.md" -o docs/1818_constitucion.html -s $(HTMLOPTIONS)
+	$(PANDOC) "1814\reglamento.md" -o docs/1814_reglamento.html -s $(HTMLOPTIONS)
+	$(PANDOC) "1812\reglamento.md" -o docs/1812_reglamento.html -s $(HTMLOPTIONS)
+	$(PANDOC) "1811\reglamento.md" -o docs/1811_reglamento.html -s $(HTMLOPTIONS)
+	$(PANDOC) "2018\proyecto.md" -o docs/2018_proyecto.html -s $(HTMLOPTIONS)
+	$(PANDOC) "1826\proyecto.md" -o docs/1826_proyecto.html -s $(HTMLOPTIONS)
+	git apply 2022\borradorhtmlpatch.diff
+	$(PANDOC) "2022\borrador.md" -o docs/2022_borrador.html -s $(HTMLOPTIONS)
+	git restore 2022\borrador.md
+	$(PANDOC) "pages/index.md" -o docs/index.html -s $(HTMLOPTIONS)
