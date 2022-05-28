@@ -2,6 +2,7 @@
 title: Constituciones Políticas de Chile
 ---
 
+* [Reglamento Provisional de la Junta Gubernativa del Reino (1810)](1810_reglamento.html)
 * [Reglamento para el arreglo de la Autoridad Ejecutiva Provisoria de Chile (1811)](1811_reglamento.html)
 * [Reglamento Constitucional Provisorio (1812)](1812_reglamento.html)
 * [Reglamento para el Gobierno Provisorio (1814)](1814_reglamento.html)

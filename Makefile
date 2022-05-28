@@ -61,6 +61,7 @@ html:
 	$(PANDOC) "1814\reglamento.md" -o docs/1814_reglamento.html -s $(HTMLOPTIONS)
 	$(PANDOC) "1812\reglamento.md" -o docs/1812_reglamento.html -s $(HTMLOPTIONS)
 	$(PANDOC) "1811\reglamento.md" -o docs/1811_reglamento.html -s $(HTMLOPTIONS)
+	$(PANDOC) "1810\reglamento.md" -o docs/1810_reglamento.html -s $(HTMLOPTIONS)
 	$(PANDOC) "2018\proyecto.md" -o docs/2018_proyecto.html -s $(HTMLOPTIONS)
 	$(PANDOC) "1826\proyecto.md" -o docs/1826_proyecto.html -s $(HTMLOPTIONS)
 	git apply 2022\borradorhtmlpatch.diff
