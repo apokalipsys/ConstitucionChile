@@ -16,3 +16,4 @@ title: Constituciones Políticas de Chile
 * [Constitución Política de la República de Chile (1980)](1980_constitucion.html)
 * [Proyecto para modificar la Constitución Política de la República de Chile (2018)](2018_proyecto.html)
 * [Propuesta de borrador constitucional (2022)](2022_borrador.html)
+* [Propuesta de Constitución Política de la República de Chile (2022)](2022_propuesta.html)

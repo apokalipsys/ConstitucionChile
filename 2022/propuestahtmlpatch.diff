@@ -1,0 +1,467 @@
+diff --git a/2022/propuesta.md b/2022/propuesta.md
+index 41a2a99..fce7d45 100644
+--- a/2022/propuesta.md
++++ b/2022/propuesta.md
+@@ -1603,49 +1603,49 @@ La elección de representantes por votación popular de las entidades territoria
+ 
+ La comuna autónoma cuenta con las potestades y competencias de autogobierno para satisfacer las necesidades de la comunidad local. Son competencias esenciales de la comuna autónoma:
+ 
+-\begin{itemize}
+-\item[a)] Ejercer funciones de gobierno y administración dentro de la comuna y en el ámbito de sus competencias.
++<ol type="a">
++<li><p>Ejercer funciones de gobierno y administración dentro de la comuna y en el ámbito de sus competencias.</p></li>
+ 
+-\item[b)] La dictación de normas generales y obligatorias en materias de carácter comunal, con arreglo a la Constitución y las leyes.
++<li><p>La dictación de normas generales y obligatorias en materias de carácter comunal, con arreglo a la Constitución y las leyes.</p></li>
+ 
+-\item[c)] La creación, prestación, organización y administración de los servicios públicos municipales en el ámbito de sus funciones, conforme a la Constitución y la ley.
++<li><p>La creación, prestación, organización y administración de los servicios públicos municipales en el ámbito de sus funciones, conforme a la Constitución y la ley.</p></li>
+ 
+-\item[d)] El desarrollo sostenible e integral de la comuna.
++<li><p>El desarrollo sostenible e integral de la comuna.</p></li>
+ 
+-\item[e)] La protección de los ecosistemas comunales y los derechos de la naturaleza.
++<li><p>La protección de los ecosistemas comunales y los derechos de la naturaleza.</p></li>
+ 
+-\item[f)] Ejercer las acciones pertinentes en resguardo de la naturaleza y sus derechos reconocidos por esta Constitución y la ley.
++<li><p>Ejercer las acciones pertinentes en resguardo de la naturaleza y sus derechos reconocidos por esta Constitución y la ley.</p></li>
+ 
+-\item[g)] La ejecución de los mecanismos y acciones de protección ambiental en la forma que determinen la Constitución, la ley, los instrumentos de gestión ambiental y normas afines.
++<li><p>La ejecución de los mecanismos y acciones de protección ambiental en la forma que determinen la Constitución, la ley, los instrumentos de gestión ambiental y normas afines.</p></li>
+ 
+-\item[h)] La conservación, la custodia y el resguardo de los patrimonios culturales y naturales.
++<li><p>La conservación, la custodia y el resguardo de los patrimonios culturales y naturales.</p></li>
+ 
+-\item[i)] El fomento y la protección a las culturas, las artes y los patrimonios culturales y naturales, así como la investigación y la formación artística en sus territorios.
++<li><p>El fomento y la protección a las culturas, las artes y los patrimonios culturales y naturales, así como la investigación y la formación artística en sus territorios.</p></li>
+ 
+-\item[j)] Garantizar la participación popular y el fortalecimiento de la democracia.
++<li><p>Garantizar la participación popular y el fortalecimiento de la democracia.</p></li>
+ 
+-\item[k)] Desarrollar, con el nivel regional y central, actividades y servicios en materias de educación, salud, vivienda, turismo, recreación, deporte y las demás que establezca la ley.
++<li><p>Desarrollar, con el nivel regional y central, actividades y servicios en materias de educación, salud, vivienda, turismo, recreación, deporte y las demás que establezca la ley.</p></li>
+ 
+-\item[l)] La construcción de obras que demande el progreso local en el marco de sus atribuciones.
++<li><p>La construcción de obras que demande el progreso local en el marco de sus atribuciones.</p></li>
+ 
+-\item[m)] El desarrollo estratégico de la comuna mediante el plan de desarrollo comunal.
++<li><p>El desarrollo estratégico de la comuna mediante el plan de desarrollo comunal.</p></li>
+ 
+-\item[n)] La planificación del territorio mediante el plan regulador comunal acordado de forma participativa con la comunidad de su respectivo territorio.
++<li><p>La planificación del territorio mediante el plan regulador comunal acordado de forma participativa con la comunidad de su respectivo territorio.</p></li>
+ 
+-\item[\~{n})] El fomento de las actividades productivas.
++<li style="list-style: none;text-indent: -1.15em;"><p>ñ. El fomento de las actividades productivas.</p></li>
+ 
+-\item[o)] El fomento del comercio local.
++<li value="15"><p>El fomento del comercio local.</p></li>
+ 
+-\item[p)] El fomento de la reintegración y reinserción de las personas en situación de calle que así lo requieran, mediante la planificación, coordinación y ejecución de programas al efecto.
++<li><p>El fomento de la reintegración y reinserción de las personas en situación de calle que así lo requieran, mediante la planificación, coordinación y ejecución de programas al efecto.</p></li>
+ 
+-\item[q)] Gestionar la reducción de riesgos frente a desastres.
++<li><p>Gestionar la reducción de riesgos frente a desastres.</p></li>
+ 
+-\item[r)] El desarrollo de aseo y ornato de la comuna.
++<li><p>El desarrollo de aseo y ornato de la comuna.</p></li>
+ 
+-\item[s)] La promoción de la seguridad ciudadana.
++<li><p>La promoción de la seguridad ciudadana.</p></li>
+ 
+-\item[t)] Las demás competencias que determinen la Constitución y la ley. Las leyes deberán reconocer las diferencias existentes entre los distintos tipos de comunas y municipalidades, velando por la equidad, inclusión y cohesión territorial.
+-\end{itemize}
++<li><p>Las demás competencias que determinen la Constitución y la ley. Las leyes deberán reconocer las diferencias existentes entre los distintos tipos de comunas y municipalidades, velando por la equidad, inclusión y cohesión territorial.</p></li>
++</ol>
+ 
+ #### Artículo 203
+ 
+@@ -1749,51 +1749,51 @@ La región autónoma es la entidad política y territorial dotada de personalida
+ 
+ Son competencias de la región autónoma:
+ 
+-\begin{itemize}
+-\item[a)] La organización del Gobierno regional, en conformidad con la Constitución y su estatuto.
++<ol type="a">
++<li><p>La organización del Gobierno regional, en conformidad con la Constitución y su estatuto.</p></li>
+ 
+-\item[b)] La organización político-administrativa y financiera de la región autónoma.
++<li><p>La organización político-administrativa y financiera de la región autónoma.</p></li>
+ 
+-\item[c)] Coordinar y delegar las competencias constitucionales compartidas con las demás entidades territoriales.
++<li><p>Coordinar y delegar las competencias constitucionales compartidas con las demás entidades territoriales.</p></li>
+ 
+-\item[d)] La política regional de vivienda, urbanismo, salud, transporte y educación, en coordinación con las políticas, los planes y los programas nacionales, respetando la universalidad de los derechos garantizados por esta Constitución.
++<li><p>La política regional de vivienda, urbanismo, salud, transporte y educación, en coordinación con las políticas, los planes y los programas nacionales, respetando la universalidad de los derechos garantizados por esta Constitución.</p></li>
+ 
+-\item[e)] La creación de empresas públicas regionales por parte de los órganos de la región autónoma competentes, conforme a los procedimientos regulados en la ley.
++<li><p>La creación de empresas públicas regionales por parte de los órganos de la región autónoma competentes, conforme a los procedimientos regulados en la ley.</p></li>
+ 
+-\item[f)] Ejercer autónomamente la administración y coordinación de todos los servicios públicos de su dependencia.
++<li><p>Ejercer autónomamente la administración y coordinación de todos los servicios públicos de su dependencia.</p></li>
+ 
+-\item[g)] La conservación, preservación, protección y restauración de la naturaleza, del equilibrio ecológico y el uso racional del agua y los demás elementos naturales de su territorio.
++<li><p>La conservación, preservación, protección y restauración de la naturaleza, del equilibrio ecológico y el uso racional del agua y los demás elementos naturales de su territorio.</p></li>
+ 
+-\item[h)] La regulación y administración de los bosques, las reservas y los parques de las áreas silvestres protegidas y cualquier otro predio fiscal que se considere necesario para el cuidado de los servicios ecosistémicos que se otorgan a las comunidades, en el ámbito de sus competencias.
++<li><p>La regulación y administración de los bosques, las reservas y los parques de las áreas silvestres protegidas y cualquier otro predio fiscal que se considere necesario para el cuidado de los servicios ecosistémicos que se otorgan a las comunidades, en el ámbito de sus competencias.</p></li>
+ 
+-\item[i)] La planificación, el ordenamiento territorial y el manejo integrado de cuencas.
++<li><p>La planificación, el ordenamiento territorial y el manejo integrado de cuencas.</p></li>
+ 
+-\item[j)] Establecer una política permanente de desarrollo sostenible y armónico con la naturaleza.
++<li><p>Establecer una política permanente de desarrollo sostenible y armónico con la naturaleza.</p></li>
+ 
+-\item[k)] Aprobar, mediando procesos de participación ciudadana, los planes de descontaminación ambientales de la región autónoma.
++<li><p>Aprobar, mediando procesos de participación ciudadana, los planes de descontaminación ambientales de la región autónoma.</p></li>
+ 
+-\item[l)] Promover la participación popular en asuntos de interés regional.
++<li><p>Promover la participación popular en asuntos de interés regional.</p></li>
+ 
+-\item[m)] El desarrollo de la investigación, la tecnología y las ciencias.
++<li><p>El desarrollo de la investigación, la tecnología y las ciencias.</p></li>
+ 
+-\item[n)] El fomento y la protección de las culturas, las artes, el patrimonio histórico, inmaterial arqueológico, lingüístico y arquitectónico; y la formación artística en su territorio.
++<li><p>El fomento y la protección de las culturas, las artes, el patrimonio histórico, inmaterial arqueológico, lingüístico y arquitectónico; y la formación artística en su territorio.</p></li>
+ 
+-\item[\~{n})] Ejecutar las obras públicas de interés en el territorio de la región autónoma.
++<li style="list-style: none;text-indent: -1.15em;"><p>ñ. Ejecutar las obras públicas de interés en el territorio de la región autónoma.</p></li>
+ 
+-\item[o)] La planificación e implementación de la conectividad física y digital.
++<li value="15"><p>La planificación e implementación de la conectividad física y digital.</p></li>
+ 
+-\item[p)] La promoción y el fomento del deporte, el ocio y la recreación.
++<li><p>La promoción y el fomento del deporte, el ocio y la recreación.</p></li>
+ 
+-\item[q)] La promoción y ordenación del turismo en el ámbito territorial de la región autónoma, en coordinación con la comuna autónoma.
++<li><p>La promoción y ordenación del turismo en el ámbito territorial de la región autónoma, en coordinación con la comuna autónoma.</p></li>
+ 
+-\item[r)] El fomento del desarrollo social, productivo y económico de la región autónoma, en coordinación con las políticas, los planes y los programas nacionales.
++<li><p>El fomento del desarrollo social, productivo y económico de la región autónoma, en coordinación con las políticas, los planes y los programas nacionales.</p></li>
+ 
+-\item[s)] Establecer contribuciones y tasas dentro de su territorio previa autorización por ley.
++<li><p>Establecer contribuciones y tasas dentro de su territorio previa autorización por ley.</p></li>
+ 
+-\item[t)] Participar en acciones de cooperación internacional, dentro de los marcos establecidos por los tratados y los convenios vigentes.
++<li><p>Participar en acciones de cooperación internacional, dentro de los marcos establecidos por los tratados y los convenios vigentes.</p></li>
+ 
+-\item[u)] Las demás competencias que determinen la Constitución y ley.
+-\end{itemize}
++<li><p>Las demás competencias que determinen la Constitución y ley.</p></li>
++</ol>
+ 
+ #### Artículo 221
+ 
+@@ -1821,41 +1821,41 @@ La organización institucional de las regiones autónomas se compone del gobiern
+ 
+ Son atribuciones esenciales de los gobiernos regionales las siguientes:
+ 
+-\begin{itemize}
+-\item[a)] Ejercer la potestad reglamentaria en todas aquellas materias que se encuentren dentro del ámbito de sus competencias, en conformidad con la Constitución, la ley y el estatuto regional.
++<ol type="a">
++<li><p>Ejercer la potestad reglamentaria en todas aquellas materias que se encuentren dentro del ámbito de sus competencias, en conformidad con la Constitución, la ley y el estatuto regional.</p></li>
+ 
+-\item[b)] Organizar, administrar, supervigilar y fiscalizar los servicios públicos de la región autónoma y coordinarse con el Gobierno respecto de aquellos que detenten un carácter nacional y que funcionen en la región.
++<li><p>Organizar, administrar, supervigilar y fiscalizar los servicios públicos de la región autónoma y coordinarse con el Gobierno respecto de aquellos que detenten un carácter nacional y que funcionen en la región.</p></li>
+ 
+-\item[c)] Proponer a la asamblea regional la creación de empresas públicas regionales o la participación en empresas regionales para la gestión de servicios de su competencia, según lo dispuesto en la Constitución, la ley y el estatuto regional.
++<li><p>Proponer a la asamblea regional la creación de empresas públicas regionales o la participación en empresas regionales para la gestión de servicios de su competencia, según lo dispuesto en la Constitución, la ley y el estatuto regional.</p></li>
+ 
+-\item[d)] Preparar y presentar ante la asamblea regional el plan regional de ordenamiento territorial y los planes de desarrollo urbano de las áreas metropolitanas, en conformidad con el estatuto regional y la ley.
++<li><p>Preparar y presentar ante la asamblea regional el plan regional de ordenamiento territorial y los planes de desarrollo urbano de las áreas metropolitanas, en conformidad con el estatuto regional y la ley.</p></li>
+ 
+-\item[e)] Presentar ante la asamblea regional los planes de manejo integrado de cuencas acordados en los respectivos consejos de cuencas, en conformidad con la ley.
++<li><p>Presentar ante la asamblea regional los planes de manejo integrado de cuencas acordados en los respectivos consejos de cuencas, en conformidad con la ley.</p></li>
+ 
+-\item[f)] Convocar a referendos y plebiscitos regionales en virtud de lo previsto en la Constitución, el estatuto regional y la ley.
++<li><p>Convocar a referendos y plebiscitos regionales en virtud de lo previsto en la Constitución, el estatuto regional y la ley.</p></li>
+ 
+-\item[g)] Establecer sistemas de gestión de crisis entre los órganos que tienen asiento en la región autónoma, que incluyan, a lo menos, su preparación, prevención, administración y manejo.
++<li><p>Establecer sistemas de gestión de crisis entre los órganos que tienen asiento en la región autónoma, que incluyan, a lo menos, su preparación, prevención, administración y manejo.</p></li>
+ 
+-\item[h)] Preparar y presentar ante la asamblea regional el plan de desarrollo regional, conforme al estatuto regional.
++<li><p>Preparar y presentar ante la asamblea regional el plan de desarrollo regional, conforme al estatuto regional.</p></li>
+ 
+-\item[i)] Celebrar actos y contratos en los que tenga interés.
++<li><p>Celebrar actos y contratos en los que tenga interés.</p></li>
+ 
+-\item[j)] Adoptar e implementar políticas públicas que fomenten y promocionen el desarrollo social, productivo, económico y cultural de la región autónoma, especialmente en ámbitos de competencia de la región autónoma.
++<li><p>Adoptar e implementar políticas públicas que fomenten y promocionen el desarrollo social, productivo, económico y cultural de la región autónoma, especialmente en ámbitos de competencia de la región autónoma.</p></li>
+ 
+-\item[k)] Promover la innovación, la competitividad y la inversión en la respectiva región autónoma.
++<li><p>Promover la innovación, la competitividad y la inversión en la respectiva región autónoma.</p></li>
+ 
+-\item[l)] Elaborar y presentar ante la asamblea regional el proyecto de presupuesto regional, conforme a esta Constitución y al estatuto regional.
++<li><p>Elaborar y presentar ante la asamblea regional el proyecto de presupuesto regional, conforme a esta Constitución y al estatuto regional.</p></li>
+ 
+-\item[m)] Administrar y ejecutar la planificación presupuestaria sobre la destinación y uso del presupuesto regional.
++<li><p>Administrar y ejecutar la planificación presupuestaria sobre la destinación y uso del presupuesto regional.</p></li>
+ 
+-\item[n)] Ejercer competencias fiscales propias conforme a la Constitución y la ley.
++<li><p>Ejercer competencias fiscales propias conforme a la Constitución y la ley.</p></li>
+ 
+-\item[\~{n})] Celebrar y ejecutar convenios con los gobiernos de otras regiones autónomas para efectos de implementar programas y políticas públicas interregionales, así como toda otra forma de asociatividad territorial.
++<li style="list-style: none;text-indent: -1.15em;"><p>ñ. Celebrar y ejecutar convenios con los gobiernos de otras regiones autónomas para efectos de implementar programas y políticas públicas interregionales, así como toda otra forma de asociatividad territorial.</p></li>
+ 
+-\item[o)] Celebrar y ejecutar acciones de cooperación internacional, dentro de los marcos establecidos por los tratados y convenios que el país celebre al efecto y conforme a los procedimientos regulados en la ley.
++<li value="15"><p>Celebrar y ejecutar acciones de cooperación internacional, dentro de los marcos establecidos por los tratados y convenios que el país celebre al efecto y conforme a los procedimientos regulados en la ley.</p></li>
+ 
+-\item[p)] Las demás atribuciones que señalen la Constitución, la ley y el estatuto regional.
+-\end{itemize}
++<li><p>Las demás atribuciones que señalen la Constitución, la ley y el estatuto regional.</p></li>
++</ol>
+ 
+ #### Artículo 225
+ 
+@@ -1869,39 +1869,39 @@ Son atribuciones esenciales de los gobiernos regionales las siguientes:
+ 
+ Son atribuciones de la asamblea regional:
+ 
+-\begin{itemize}
+-\item[a)] Dictar su reglamento interno de funcionamiento.
++<ol type="a">
++<li><p>Dictar su reglamento interno de funcionamiento.</p></li>
+ 
+-\item[b)] Dictar las normas regionales que hagan aplicables las leyes de acuerdo regional.
++<li><p>Dictar las normas regionales que hagan aplicables las leyes de acuerdo regional.</p></li>
+ 
+-\item[c)] Iniciar en materias de interés regional el trámite legislativo ante la Cámara de las Regiones.
++<li><p>Iniciar en materias de interés regional el trámite legislativo ante la Cámara de las Regiones.</p></li>
+ 
+-\item[d)] Solicitar al Congreso de Diputadas y Diputados la transferencia de la potestad legislativa en materias de interés de la región autónoma.
++<li><p>Solicitar al Congreso de Diputadas y Diputados la transferencia de la potestad legislativa en materias de interés de la región autónoma.</p></li>
+ 
+-\item[e)] Ejercer la potestad reglamentaria en conjunto con quien dirija el gobierno regional en materias de su competencia y dictar los reglamentos de ejecución de ley cuando esta lo encomiende.
++<li><p>Ejercer la potestad reglamentaria en conjunto con quien dirija el gobierno regional en materias de su competencia y dictar los reglamentos de ejecución de ley cuando esta lo encomiende.</p></li>
+ 
+-\item[f)] Administrar sus bienes y patrimonio propio.
++<li><p>Administrar sus bienes y patrimonio propio.</p></li>
+ 
+-\item[g)] Aprobar, rechazar o modificar la inversión de los recursos de los fondos solidarios que se creen y otros recursos públicos que disponga la ley.
++<li><p>Aprobar, rechazar o modificar la inversión de los recursos de los fondos solidarios que se creen y otros recursos públicos que disponga la ley.</p></li>
+ 
+-\item[h)] Fiscalizar los actos del gobierno regional de acuerdo con el procedimiento establecido en el estatuto regional.
++<li><p>Fiscalizar los actos del gobierno regional de acuerdo con el procedimiento establecido en el estatuto regional.</p></li>
+ 
+-\item[i)] Fiscalizar los actos de la administración regional, para lo cual podrá requerir información de autoridades o jefaturas que desempeñen sus funciones en la región autónoma, citar a funcionarios públicos o autoridades regionales y crear comisiones especiales.
++<li><p>Fiscalizar los actos de la administración regional, para lo cual podrá requerir información de autoridades o jefaturas que desempeñen sus funciones en la región autónoma, citar a funcionarios públicos o autoridades regionales y crear comisiones especiales.</p></li>
+ 
+-\item[j)] Solicitar a la gobernadora o al gobernador regional rendir cuenta sobre su participación en el Consejo de Gobernaciones.
++<li><p>Solicitar a la gobernadora o al gobernador regional rendir cuenta sobre su participación en el Consejo de Gobernaciones.</p></li>
+ 
+-\item[k)] Aprobar, rechazar o proponer modificaciones al plan de manejo integrado de cuencas.
++<li><p>Aprobar, rechazar o proponer modificaciones al plan de manejo integrado de cuencas.</p></li>
+ 
+-\item[l)] Pronunciarse en conjunto con los órganos competentes respecto de los procedimientos de evaluación ambiental.
++<li><p>Pronunciarse en conjunto con los órganos competentes respecto de los procedimientos de evaluación ambiental.</p></li>
+ 
+-\item[m)] Aprobar, modificar o rechazar el presupuesto regional, el plan de desarrollo regional y los planes de ordenamiento territorial.
++<li><p>Aprobar, modificar o rechazar el presupuesto regional, el plan de desarrollo regional y los planes de ordenamiento territorial.</p></li>
+ 
+-\item[n)] Pronunciarse sobre la convocatoria a consultas o plebiscitos regionales.
++<li><p>Pronunciarse sobre la convocatoria a consultas o plebiscitos regionales.</p></li>
+ 
+-\item[\~{n})] Aprobar, a propuesta de la gobernadora o del gobernador regional y previa ratificación de la Cámara de las Regiones, la creación de empresas públicas regionales o la participación en empresas regionales.
++<li style="list-style: none;text-indent: -1.15em;"><p>ñ. Aprobar, a propuesta de la gobernadora o del gobernador regional y previa ratificación de la Cámara de las Regiones, la creación de empresas públicas regionales o la participación en empresas regionales.</p></li>
+ 
+-\item[o)] Las demás atribuciones que determinen la Constitución y la ley.
+-\end{itemize}
++<li value="15"><p>Las demás atribuciones que determinen la Constitución y la ley.</p></li>
++</ol>
+ 
+ #### Artículo 227
+ 
+@@ -2299,41 +2299,41 @@ g) Los demás casos establecidos en esta Constitución.
+ 
+ Solo en virtud de una ley se puede:
+ 
+-\begin{itemize}
+-\item[a)] Crear, modificar y suprimir tributos de cualquier clase o naturaleza y los beneficios tributarios aplicables a estos, determinar su progresión, exenciones y proporcionalidad, sin perjuicio de las excepciones que establezca esta Constitución.
++<ol type="a">
++<li><p>Crear, modificar y suprimir tributos de cualquier clase o naturaleza y los beneficios tributarios aplicables a estos, determinar su progresión, exenciones y proporcionalidad, sin perjuicio de las excepciones que establezca esta Constitución.</p></li>
+ 
+-\item[b)] Autorizar la contratación de empréstitos y otras operaciones que puedan comprometer el crédito y la responsabilidad financiera del Estado, sus organismos y municipalidades, sin perjuicio de lo consagrado respecto de las entidades territoriales y de lo establecido en la letra siguiente. Esta disposición no se aplicará al Banco Central.
++<li><p>Autorizar la contratación de empréstitos y otras operaciones que puedan comprometer el crédito y la responsabilidad financiera del Estado, sus organismos y municipalidades, sin perjuicio de lo consagrado respecto de las entidades territoriales y de lo establecido en la letra siguiente. Esta disposición no se aplicará al Banco Central.</p></li>
+ 
+-\item[c)] Establecer las condiciones y reglas conforme a las cuales las universidades y las empresas del Estado y aquellas en que este tenga participación puedan contratar empréstitos, los que en ningún caso podrán efectuarse con el Estado, sus organismos y empresas.
++<li><p>Establecer las condiciones y reglas conforme a las cuales las universidades y las empresas del Estado y aquellas en que este tenga participación puedan contratar empréstitos, los que en ningún caso podrán efectuarse con el Estado, sus organismos y empresas.</p></li>
+ 
+-\item[d)] Instituir las normas sobre enajenación de bienes del Estado, de los gobiernos regionales o de las municipalidades y sobre su arrendamiento, títulos habilitantes para su uso o explotación y concesión.
++<li><p>Instituir las normas sobre enajenación de bienes del Estado, de los gobiernos regionales o de las municipalidades y sobre su arrendamiento, títulos habilitantes para su uso o explotación y concesión.</p></li>
+ 
+-\item[e)] Regular las capacidades de la defensa nacional, permitir la entrada de tropas extranjeras al territorio de la república y autorizar la salida de tropas nacionales fuera de él.
++<li><p>Regular las capacidades de la defensa nacional, permitir la entrada de tropas extranjeras al territorio de la república y autorizar la salida de tropas nacionales fuera de él.</p></li>
+ 
+-\item[f)] Establecer o modificar la división política o administrativa del país.
++<li><p>Establecer o modificar la división política o administrativa del país.</p></li>
+ 
+-\item[g)] Señalar el valor, el tipo y la denominación de las monedas y el sistema de pesos y medidas.
++<li><p>Señalar el valor, el tipo y la denominación de las monedas y el sistema de pesos y medidas.</p></li>
+ 
+-\item[h)] Conceder indultos generales y amnistías, los que no procederán en caso de crímenes de guerra y de lesa humanidad.
++<li><p>Conceder indultos generales y amnistías, los que no procederán en caso de crímenes de guerra y de lesa humanidad.</p></li>
+ 
+-\item[i)] Establecer el sistema de determinación de las remuneraciones de la Presidenta o del Presidente de la República y ministras o ministros de Estado, diputadas y diputados, gobernadoras y gobernadores y representantes regionales.
++<li><p>Establecer el sistema de determinación de las remuneraciones de la Presidenta o del Presidente de la República y ministras o ministros de Estado, diputadas y diputados, gobernadoras y gobernadores y representantes regionales.</p></li>
+ 
+-\item[j)] Singularizar la ciudad en que debe residir la Presidenta o el Presidente de la República, celebrar sus sesiones el Congreso de Diputadas y Diputados y la Cámara de las Regiones y funcionar la Corte Suprema.
++<li><p>Singularizar la ciudad en que debe residir la Presidenta o el Presidente de la República, celebrar sus sesiones el Congreso de Diputadas y Diputados y la Cámara de las Regiones y funcionar la Corte Suprema.</p></li>
+ 
+-\item[k)] Autorizar la declaración de guerra, a propuesta de la Presidenta o del Presidente de la República.
++<li><p>Autorizar la declaración de guerra, a propuesta de la Presidenta o del Presidente de la República.</p></li>
+ 
+-\item[l)] Fijar las bases de los procedimientos que rigen los actos de la Administración pública.
++<li><p>Fijar las bases de los procedimientos que rigen los actos de la Administración pública.</p></li>
+ 
+-\item[m)] Establecer la creación y modificación de servicios públicos y empleos públicos, sean fiscales, autónomos o de las empresas del Estado , y determinar sus funciones y atribuciones.
++<li><p>Establecer la creación y modificación de servicios públicos y empleos públicos, sean fiscales, autónomos o de las empresas del Estado , y determinar sus funciones y atribuciones.</p></li>
+ 
+-\item[n)] Establecer el régimen jurídico aplicable en materia laboral, sindical, de la huelga y la negociación colectiva en sus diversas manifestaciones, previsional y de seguridad social.
++<li><p>Establecer el régimen jurídico aplicable en materia laboral, sindical, de la huelga y la negociación colectiva en sus diversas manifestaciones, previsional y de seguridad social.</p></li>
+ 
+-\item[\~{n})] Crear loterías y apuestas.
++<li style="list-style: none;text-indent: -1.15em;"><p>ñ. Crear loterías y apuestas.</p></li>
+ 
+-\item[o)] Regular aquellas materias que la Constitución señale como leyes de concurrencia presidencial necesaria.
++<li value="15"><p>Regular aquellas materias que la Constitución señale como leyes de concurrencia presidencial necesaria.</p></li>
+ 
+-\item[p)] Regular las demás materias que la Constitución exija que sean establecidas por una ley.
+-\end{itemize}
++<li><p>Regular las demás materias que la Constitución exija que sean establecidas por una ley.</p></li>
++</ol>
+ 
+ #### Artículo 265
+ 
+@@ -2383,45 +2383,45 @@ f) Regular las capacidades de la defensa nacional, permitir la entrada de tropas
+ 
+ 1. Solo son leyes de acuerdo regional:
+ 
+-    \begin{itemize}
+-    \item[a)] Las que reformen la Constitución.
++    <ol type="a">
++    <li><p>Las que reformen la Constitución.</p></li>
+ 
+-    \item[b)] Las que regulen la organización, las atribuciones y el funcionamiento de los Sistemas de Justicia, del Poder Legislativo y de los órganos autónomos constitucionales.
++    <li><p>Las que regulen la organización, las atribuciones y el funcionamiento de los Sistemas de Justicia, del Poder Legislativo y de los órganos autónomos constitucionales.</p></li>
+ 
+-    \item[c)] Las que regulen los estados de excepción constitucional.
++    <li><p>Las que regulen los estados de excepción constitucional.</p></li>
+ 
+-    \item[d)] Las que creen, modifiquen o supriman tributos o exenciones y determinen su progresión y proporcionalidad.
++    <li><p>Las que creen, modifiquen o supriman tributos o exenciones y determinen su progresión y proporcionalidad.</p></li>
+ 
+-    \item[e)] Las que directamente irroguen al Estado gastos cuya ejecución corresponda a las entidades territoriales.
++    <li><p>Las que directamente irroguen al Estado gastos cuya ejecución corresponda a las entidades territoriales.</p></li>
+ 
+-    \item[f)] Las que implementen el derecho a la salud, derecho a la educación y derecho a la vivienda.
++    <li><p>Las que implementen el derecho a la salud, derecho a la educación y derecho a la vivienda.</p></li>
+ 
+-    \item[g)] La de Presupuestos.
++    <li><p>La de Presupuestos.</p></li>
+ 
+-    \item[h)] Las que aprueben los estatutos regionales.
++    <li><p>Las que aprueben los estatutos regionales.</p></li>
+ 
+-    \item[i)] Las que regulen la elección, la designación, las competencias, las atribuciones y los procedimientos de los órganos y las autoridades de las entidades territoriales.
++    <li><p>Las que regulen la elección, la designación, las competencias, las atribuciones y los procedimientos de los órganos y las autoridades de las entidades territoriales.</p></li>
+ 
+-    \item[j)] Las que establezcan o alteren la división político-administrativa del país.
++    <li><p>Las que establezcan o alteren la división político-administrativa del país.</p></li>
+ 
+-    \item[k)] Las que establezcan los mecanismos de distribución fiscal y presupuestaria y otros mecanismos de compensación económica entre las distintas entidades territoriales.
++    <li><p>Las que establezcan los mecanismos de distribución fiscal y presupuestaria y otros mecanismos de compensación económica entre las distintas entidades territoriales.</p></li>
+ 
+-    \item[l)] Las que autoricen la celebración de operaciones que comprometan la responsabilidad patrimonial de las entidades territoriales.
++    <li><p>Las que autoricen la celebración de operaciones que comprometan la responsabilidad patrimonial de las entidades territoriales.</p></li>
+ 
+-    \item[m)] Las que autoricen a las entidades territoriales la creación de empresas públicas.
++    <li><p>Las que autoricen a las entidades territoriales la creación de empresas públicas.</p></li>
+ 
+-    \item[n)] Las que deleguen potestades legislativas a las regiones autónomas en conformidad con la Constitución.
++    <li><p>Las que deleguen potestades legislativas a las regiones autónomas en conformidad con la Constitución.</p></li>
+ 
+-    \item[\~{n})] Las que regulen la planificación territorial y urbanística y su ejecución.
++    <li style="list-style: none;text-indent: -1.15em;"><p>ñ. Las que regulen la planificación territorial y urbanística y su ejecución.</p></li>
+ 
+-    \item[o)] Las que regulen la protección del medioambiente.
++    <li value="15"><p>Las que regulen la protección del medioambiente.</p></li>
+ 
+-    \item[p)] Las que regulen las votaciones populares y escrutinios.
++    <li><p>Las que regulen las votaciones populares y escrutinios.</p></li>
+ 
+-    \item[q)] Las que regulen las organizaciones políticas.
++    <li><p>Las que regulen las organizaciones políticas.</p></li>
+ 
+-    \item[r)] Las demás que esta Constitución califique como de acuerdo regional.
+-    \end{itemize}
++    <li><p>Las demás que esta Constitución califique como de acuerdo regional.</p></li>
++    </ol>
+ 
+ 2. Si se generara un conflicto de competencia entre la Cámara de las Regiones y el Congreso de Diputadas y Diputados con relación a si una o más materias dispuestas en este artículo deben ser revisadas por la Cámara de las Regiones, esta aprobará su competencia por mayoría de sus integrantes y el Congreso lo ratificará por mayoría. En caso de que el Congreso rechace la revisión aprobada por la Cámara de las Regiones, esta podrá recurrir a la Corte Constitucional por acuerdo de mayoría.
+ 
+@@ -2592,45 +2592,45 @@ Cuando por enfermedad, ausencia del territorio de la república u otro grave mot
+ 
+ Son atribuciones de quien ejerce la Presidencia de la República:
+ 
+-\begin{itemize}
+-\item[a)] Cumplir y hacer cumplir la Constitución, las leyes y los tratados internacionales, de acuerdo con sus competencias y atribuciones.
++<ol type="a">
++<li><p>Cumplir y hacer cumplir la Constitución, las leyes y los tratados internacionales, de acuerdo con sus competencias y atribuciones.</p></li>
+ 
+-\item[b)] Dirigir la Administración del Estado.
++<li><p>Dirigir la Administración del Estado.</p></li>
+ 
+-\item[c)] Nombrar y remover a las ministras y ministros de Estado, a las subsecretarias y subsecretarios y a las demás funcionarias y funcionarios que corresponda, de acuerdo con la Constitución y la ley. Estos cargos son de su exclusiva confianza y quienes los desempeñen se mantendrán en sus puestos mientras cuenten con ella.
++<li><p>Nombrar y remover a las ministras y ministros de Estado, a las subsecretarias y subsecretarios y a las demás funcionarias y funcionarios que corresponda, de acuerdo con la Constitución y la ley. Estos cargos son de su exclusiva confianza y quienes los desempeñen se mantendrán en sus puestos mientras cuenten con ella.</p></li>
+ 
+-\item[d)] Conducir las relaciones exteriores, suscribir y ratificar los tratados, convenios o acuerdos internacionales, nombrar y remover a embajadoras y embajadores y jefas y jefes de misiones diplomáticas.
++<li><p>Conducir las relaciones exteriores, suscribir y ratificar los tratados, convenios o acuerdos internacionales, nombrar y remover a embajadoras y embajadores y jefas y jefes de misiones diplomáticas.</p></li>
+ 
+-\item[e)] Declarar los estados de excepción constitucional en los casos y formas que se señalan en la Constitución y la ley.
++<li><p>Declarar los estados de excepción constitucional en los casos y formas que se señalan en la Constitución y la ley.</p></li>
+ 
+-\item[f)] Concurrir a la formación de las leyes y promulgarlas, conforme a lo que establece la Constitución.
++<li><p>Concurrir a la formación de las leyes y promulgarlas, conforme a lo que establece la Constitución.</p></li>
+ 
+-\item[g)] Dictar decretos con fuerza de ley, previa delegación del Congreso de Diputadas y Diputados, conforme a lo que se establece en la Constitución.
++<li><p>Dictar decretos con fuerza de ley, previa delegación del Congreso de Diputadas y Diputados, conforme a lo que se establece en la Constitución.</p></li>
+ 
+-\item[h)] Ejercer la potestad reglamentaria de conformidad con la Constitución y la ley.
++<li><p>Ejercer la potestad reglamentaria de conformidad con la Constitución y la ley.</p></li>
+ 
+-\item[i)] Ejercer permanentemente la jefatura suprema de las Fuerzas Armadas, disponerlas, organizarlas y distribuirlas para su desarrollo y empleo conjunto.
++<li><p>Ejercer permanentemente la jefatura suprema de las Fuerzas Armadas, disponerlas, organizarlas y distribuirlas para su desarrollo y empleo conjunto.</p></li>
+ 
+-\item[j)] Designar y remover al jefe del Estado Mayor Conjunto, a los comandantes en jefe de las Fuerzas Armadas, y disponer los nombramientos, ascensos y retiros de los oficiales de las Fuerzas Armadas.
++<li><p>Designar y remover al jefe del Estado Mayor Conjunto, a los comandantes en jefe de las Fuerzas Armadas, y disponer los nombramientos, ascensos y retiros de los oficiales de las Fuerzas Armadas.</p></li>
+ 
+-\item[k)] Conducir la seguridad pública y designar y remover a los integrantes del alto mando policial.
++<li><p>Conducir la seguridad pública y designar y remover a los integrantes del alto mando policial.</p></li>
+ 
+-\item[l)] Nombrar a la contralora o al contralor general conforme a lo dispuesto en la Constitución.
++<li><p>Nombrar a la contralora o al contralor general conforme a lo dispuesto en la Constitución.</p></li>
+ 
+-\item[m)] Participar en los nombramientos de las demás autoridades en conformidad con lo establecido en la Constitución.
++<li><p>Participar en los nombramientos de las demás autoridades en conformidad con lo establecido en la Constitución.</p></li>
+ 
+-\item[n)] Conceder indultos particulares, salvo en crímenes de guerra y de lesa humanidad.
++<li><p>Conceder indultos particulares, salvo en crímenes de guerra y de lesa humanidad.</p></li>
+ 
+-\item[\~{n})] Velar por la recaudación de las rentas públicas y decretar su inversión con arreglo a la ley. La Presidenta o el Presidente de la República, con la firma de todas las ministras y los ministros de Estado, podrá decretar pagos no autorizados por ley, para atender necesidades impostergables derivadas de calamidades públicas, agresión exterior, conmoción interior, grave daño o peligro para la seguridad del país o el agotamiento de los recursos destinados a mantener servicios que no puedan paralizarse sin serio perjuicio para el país. El total de los giros que se hagan con estos objetos no podrá exceder anualmente del dos por ciento (2\%) del monto de los gastos que autorice la Ley de Presupuestos. Se podrá contratar empleados con cargo a esta misma ley, pero sin que el ítem respectivo pueda ser incrementado ni disminuido mediante traspasos. Las ministras y los ministros de Estado o funcionarios que autoricen o den curso a gastos que contravengan lo dispuesto en esta letra serán responsables, solidaria y personalmente, de su reintegro, y culpables del delito de malversación de caudales públicos.
++<li style="list-style: none;text-indent: -1.15em;"><p>ñ. Velar por la recaudación de las rentas públicas y decretar su inversión con arreglo a la ley. La Presidenta o el Presidente de la República, con la firma de todas las ministras y los ministros de Estado, podrá decretar pagos no autorizados por ley, para atender necesidades impostergables derivadas de calamidades públicas, agresión exterior, conmoción interior, grave daño o peligro para la seguridad del país o el agotamiento de los recursos destinados a mantener servicios que no puedan paralizarse sin serio perjuicio para el país. El total de los giros que se hagan con estos objetos no podrá exceder anualmente del dos por ciento (2\%) del monto de los gastos que autorice la Ley de Presupuestos. Se podrá contratar empleados con cargo a esta misma ley, pero sin que el ítem respectivo pueda ser incrementado ni disminuido mediante traspasos. Las ministras y los ministros de Estado o funcionarios que autoricen o den curso a gastos que contravengan lo dispuesto en esta letra serán responsables, solidaria y personalmente, de su reintegro, y culpables del delito de malversación de caudales públicos.</p></li>
+ 
+-\item[o)] Convocar referendos, plebiscitos y consultas en los casos previstos en esta Constitución.
++<li value="15"><p>Convocar referendos, plebiscitos y consultas en los casos previstos en esta Constitución.</p></li>
+ 
+-\item[p)] Presentar anualmente el proyecto de Ley de Presupuestos.
++<li><p>Presentar anualmente el proyecto de Ley de Presupuestos.</p></li>
+ 
+-\item[q)] Pedir, indicando los motivos, que se cite a sesión especial al Congreso de Diputadas y Diputados o a la Cámara de las Regiones. En tal caso, la sesión deberá celebrarse a la brevedad posible.
++<li><p>Pedir, indicando los motivos, que se cite a sesión especial al Congreso de Diputadas y Diputados o a la Cámara de las Regiones. En tal caso, la sesión deberá celebrarse a la brevedad posible.</p></li>
+ 
+-\item[r)] Las demás establecidas en la Constitución y la ley.
+-\end{itemize}
++<li><p>Las demás establecidas en la Constitución y la ley.</p></li>
++</ol>
+ 
+ #### Artículo 288
+ 
