@@ -1,3 +1,4 @@
+2022.08.23: Ley 21481: Modifica quórums de reforma de la Contitución Política de la República @21481
 2022.04.29: Ley 21448: Modifica la Carta Fundamental para incorporar las normas de la ley N° 21.385, que modifica la legislación electoral, para privilegiar la cercanía al domicilio del elector en la asignación del local de votación, para el plebiscito constitucional @21448
 2022.03.11: Ley 21432: Reforma constitucional en materia de renuncia de convencionales constituyentes @21432
 2021.10.25: Ley 21383: Modifica la Carta Fundamental, para establecer el desarrollo científico y tecnológico al servicio de las personas @21383
@@ -441,5 +442,11 @@ references:
     title: Ley 21448
     URL: https://www.bcn.cl/leychile/navegar?idNorma=1175443
     issued: 2022-04-29
+    language: es-CL
+  - id: 21481
+    type: webpage
+    title: Ley 21481
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=1180303
+    issued: 2022-08-23
     language: es-CL
 ---
