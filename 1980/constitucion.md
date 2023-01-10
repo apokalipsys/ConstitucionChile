@@ -1,7 +1,7 @@
 ---
 title: Constitución política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 23 de agosto de 2022
+date: Texto actualizado a 4 de enero de 2023
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -134,7 +134,9 @@ Los nacionalizados en conformidad al Nº 3º del artículo 10, tendrán opción 
 
 #### Artículo 15.-
 
-En las votaciones populares, el sufragio será personal, igualitario, secreto y voluntario.
+En las votaciones populares, el sufragio será personal, igualitario y secreto.
+
+El sufragio será obligatorio para los electores en todas las elecciones y plebiscitos, salvo en las elecciones primarias. Una ley orgánica constitucional fijará las multas o sanciones que se aplicarán por el incumplimiento de este deber, los electores que estarán exentos de ellas y el procedimiento para su determinación.
 
 Sólo podrá convocarse a votación popular para las elecciones y plebiscitos expresamente previstos en esta Constitución.
 
