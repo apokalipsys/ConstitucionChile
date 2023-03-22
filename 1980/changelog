@@ -1,3 +1,4 @@
+2023.01.27: Ley 21535: Sustituye el artículo 66 de la Carta Fundamental, en relación con los quórums necesarios para la aprobación, modificación o derogación de las normas legales que se indican @21535
 2023.01.17: Ley 21533: Modifica la Constitución Política de la República con el objeto de establecer un procedimiento para la elaboración y aprobación de una nueva Constitución Política de la República @21533
 2023.01.04: Ley 21524: Modifica la Carta Fundamental para restablecer el voto obligatorio en las elecciones populares @21524
 2022.08.23: Ley 21481: Modifica quórums de reforma de la Contitución Política de la República @21481
@@ -462,5 +463,11 @@ references:
     title: Ley 21533
     URL: https://www.bcn.cl/leychile/navegar?idNorma=1187896
     issued: 2023-01-17
+    language: es-CL
+  - id: 21535
+    type: webpage
+    title: Ley 21535
+    URL: https://www.bcn.cl/leychile/Navegar?idNorma=1188344
+    issued: 2023-01-27
     language: es-CL
 ---
