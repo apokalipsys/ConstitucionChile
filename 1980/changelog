@@ -1,3 +1,4 @@
+2023.05.04: Ley 21574: Modifica la Constitución Política de la República con el objeto de establecer paridad de género en el Consejo Constitucional @21574
 2023.05.03: Ley 21568: Modifica la Carta Fundamental en materia de regulación migratoria @21568
 2023.02.03: Ley 21542: Modifica la Carta Fundamental con el objeto de permitir la protección de infraestructura crítica por parte de las Fuerzas Armadas, en caso de peligro grave o inminente @21542
 2023.01.27: Ley 21535: Sustituye el artículo 66 de la Carta Fundamental, en relación con los quórums necesarios para la aprobación, modificación o derogación de las normas legales que se indican @21535
@@ -483,5 +484,11 @@ references:
     title: Ley 21568
     URL: https://www.bcn.cl/leychile/navegar?idNorma=1191770
     issued: 2023-05-03
+    language: es-CL
+  - id: 21574
+    type: webpage
+    title: Ley 21574
+    URL: https://www.bcn.cl/leychile/Navegar?idNorma=1191805
+    issued: 2023-05-04
     language: es-CL
 ---
