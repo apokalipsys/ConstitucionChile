@@ -1,7 +1,7 @@
 ---
 title: Constitución política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 4 de mayo de 2023
+date: Texto actualizado a 7 de noviembre de 2023
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -2178,7 +2178,9 @@ El Tribunal Calificador de Elecciones conocerá del escrutinio general y proclam
 
 La nueva Constitución deberá difundirse y repartirse gratuitamente a todos los establecimientos educacionales, públicos o privados; municipalidades y bibliotecas municipales; Biblioteca del Congreso Nacional; Archivo Nacional; Biblioteca Nacional; universidades, y órganos del Estado. Además, deberá estar disponible en sitios web oficiales. Los jueces y magistrados de los tribunales superiores de justicia deberán recibir un ejemplar de la Constitución.
 
-Sólo para efectos de ejecutar las acciones en materia de padrones y propaganda electoral establecidas en las leyes aplicables al plebiscito constitucional, el Servicio Electoral deberá considerar como fecha de celebración del plebiscito el día 17 de diciembre de 2023.     
+Sólo para efectos de ejecutar las acciones en materia de padrones y propaganda electoral establecidas en las leyes aplicables al plebiscito constitucional, el Servicio Electoral deberá considerar como fecha de celebración del plebiscito el día 17 de diciembre de 2023.
+
+Al plebiscito constitucional le será aplicable lo dispuesto en el párrafo final del número 3 del inciso quinto del artículo 144.
 
 #### Artículo 160.-
 
