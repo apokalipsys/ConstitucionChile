@@ -76,3 +76,6 @@ html:
 	$(PANDOC) -f markdown "2022/borrador.hmd" -o docs/2022_borrador.html -s $(HTMLOPTIONS)
 	$(PANDOC) "pages/index.md" -o docs/index.html -s $(HTMLOPTIONS)
 
+epub:
+	@echo "Generando libros electronicos"
+	$(PANDOC) -f markdown "1980/constitucion.hmd" -o epub/1980_constitucion.epub --epub-cover-image cover/1980_constitucion.svg
