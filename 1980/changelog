@@ -1,3 +1,4 @@
+2024.01.19: Ley 21654: Modifica la Carta Fundamental en materia de prórrogas sucesivas del Estado de Excepción Constitucional de Emergencia, en las condiciones que indica @21654
 2023.11.07: Ley 21626: Modifica la Carta Fundamental, para hacer aplicable al plebiscito constitucional la disposición que indica @21626
 2023.05.04: Ley 21574: Modifica la Constitución Política de la República con el objeto de establecer paridad de género en el Consejo Constitucional @21574
 2023.05.03: Ley 21568: Modifica la Carta Fundamental en materia de regulación migratoria @21568
@@ -497,5 +498,11 @@ references:
     title: Ley 21626
     URL: https://www.bcn.cl/leychile/navegar?idNorma=1197664
     issued: 2023-11-07
+    language: es-CL
+  - id: 21654
+    type: webpage
+    title: Ley 21654
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=1200388
+    issued: 2024-01-19
     language: es-CL
 ---
