@@ -63,6 +63,10 @@
     img {
       max-width: 100%;
     }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
     h1, h2, h3, h4, h5, h6 {
       margin-top: 1.4em;
     }
@@ -155,23 +159,23 @@
     div.columns{display: flex; gap: min(4vw, 1.5em);}
     div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
     ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
       width: 0.8em;
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
     }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
 </head>
 <body>
 <header id="title-block-header">
 <h1 class="title">Constitución política de la República de Chile</h1>
 <p class="subtitle">República de Chile</p>
-<p class="date">Texto actualizado a 7 de noviembre de 2023</p>
+<p class="date">Texto actualizado a 19 de enero de 2024</p>
 </header>
 <h1 id="constitución-política.">Constitución Política.</h1>
 <h2 id="capítulo-i-bases-de-la-institucionalidad">Capítulo I: Bases De
@@ -802,10 +806,11 @@ otros preceptos de esta Constitución.</p>
 nacional puede establecer limitaciones o requisitos para la adquisición
 del dominio de algunos bienes;</p></li>
 <li><p><a id="articulo-19_1-24"></a>El derecho de propiedad en sus
-diversas especies sobre toda clase de bienes corporales o incorporales.
-Sólo la ley puede establecer el modo de adquirir la propiedad, de usar,
-gozar y disponer de ella y las limitaciones y obligaciones que deriven
-de su función social. Esta comprende cuanto exijan los intereses
+diversas especies sobre toda clase de bienes corporales o
+incorporales.</p>
+<p>Sólo la ley puede establecer el modo de adquirir la propiedad, de
+usar, gozar y disponer de ella y las limitaciones y obligaciones que
+deriven de su función social. Esta comprende cuanto exijan los intereses
 generales de la Nación, la seguridad nacional, la utilidad y la
 salubridad públicas y la conservación del patrimonio ambiental.</p>
 <p>Nadie puede, en caso alguno, ser privado de su propiedad, del bien
@@ -960,11 +965,12 @@ indebidamente en actividades ajenas a sus fines específicos, serán
 sancionados en conformidad a la ley. Son incompatibles los cargos
 directivos superiores de las organizaciones gremiales con los cargos
 directivos superiores, nacionales y regionales, de los partidos
-políticos. La ley establecerá las sanciones que corresponda aplicar a
-los dirigentes gremiales que intervengan en actividades político
-partidistas y a los dirigentes de los partidos políticos, que
-interfieran en el funcionamiento de las organizaciones gremiales y demás
-grupos intermedios que la propia ley señale.</p>
+políticos.</p>
+<p>La ley establecerá las sanciones que corresponda aplicar a los
+dirigentes gremiales que intervengan en actividades político partidistas
+y a los dirigentes de los partidos políticos, que interfieran en el
+funcionamiento de las organizaciones gremiales y demás grupos
+intermedios que la propia ley señale.</p>
 <h2 id="capítulo-iv-gobierno">Capítulo IV: Gobierno</h2>
 <h3 id="presidente-de-la-república">Presidente de la República</h3>
 <h4 id="artículo-24.-">Artículo 24.-</h4>
@@ -1335,13 +1341,13 @@ funcionamiento, organización, funciones y atribuciones establecerá una
 ley orgánica constitucional.</p>
 <p>La comisión estará integrada por las siguientes personas:</p>
 <ol type="a">
-<li>Un ex Ministro de Hacienda.</li>
-<li>Un ex Consejero del Banco Central.</li>
-<li>Un ex Contralor o Subcontralor de la Contraloría General de la
-República.</li>
-<li>Un ex Presidente de una de las ramas que integran el Congreso
-Nacional.</li>
-<li>Un ex Director Nacional del Servicio Civil.</li>
+<li><p>Un ex Ministro de Hacienda.</p></li>
+<li><p>Un ex Consejero del Banco Central.</p></li>
+<li><p>Un ex Contralor o Subcontralor de la Contraloría General de la
+República.</p></li>
+<li><p>Un ex Presidente de una de las ramas que integran el Congreso
+Nacional.</p></li>
+<li><p>Un ex Director Nacional del Servicio Civil.</p></li>
 </ol>
 <p>Sus integrantes serán designados por el Presidente de la República
 con el acuerdo de los dos tercios de los senadores en ejercicio.</p>
@@ -1420,6 +1426,20 @@ ley señale.</p>
 <p>El Presidente de la República estará obligado a informar al Congreso
 Nacional de las medidas adoptadas en virtud del estado de
 emergencia.</p>
+<p>Sin perjuicio de lo anterior, a contar de la sexta prórroga sucesiva,
+el Presidente de la República podrá prorrogarlo por períodos de treinta
+días, para lo cual requerirá siempre del acuerdo del Congreso Nacional,
+en los términos del inciso primero.</p>
+<p>Una vez decretada la prórroga en la forma prevista en el inciso
+precedente, la información a que alude el inciso tercero será evacuada
+cada quince días, mediante un informe escrito dirigido a ambas
+Cámaras.</p>
+<p>Con todo, una vez autorizada la prórroga en los términos del inciso
+cuarto, el Congreso Nacional podrá, por la mayoría absoluta de los
+senadores y diputados en ejercicio, revocar el acuerdo.</p>
+<p>En el caso del inciso anterior, la solicitud de revocación deberá ser
+pedida por la cuarta parte de los diputados o senadores en
+ejercicio.</p>
 <h4 id="artículo-43.-">Artículo 43.-</h4>
 <p>Por la declaración del estado de asamblea, el Presidente de la
 República queda facultado para suspender o restringir la libertad
@@ -1587,28 +1607,29 @@ ellas.</p></li>
 ni más de veinte de sus miembros formulen en contra de las siguientes
 personas:</p>
 <ol type="a">
-<li>Del Presidente de la República, por actos de su administración que
-hayan comprometido gravemente el honor o la seguridad de la Nación, o
-infringido abiertamente la Constitución o las leyes. Esta acusación
+<li><p>Del Presidente de la República, por actos de su administración
+que hayan comprometido gravemente el honor o la seguridad de la Nación,
+o infringido abiertamente la Constitución o las leyes. Esta acusación
 podrá interponerse mientras el Presidente esté en funciones y en los
 seis meses siguientes a su expiración en el cargo. Durante este último
 tiempo no podrá ausentarse de la República sin acuerdo de la
-Cámara;</li>
-<li>De los Ministros de Estado, por haber comprometido gravemente el
+Cámara;</p></li>
+<li><p>De los Ministros de Estado, por haber comprometido gravemente el
 honor o la seguridad de la Nación, por infringir la Constitución o las
 leyes o haber dejado éstas sin ejecución, y por los delitos de traición,
-concusión, malversación de fondos públicos y soborno;</li>
-<li>De los magistrados de los tribunales superiores de justicia y del
+concusión, malversación de fondos públicos y soborno;</p></li>
+<li><p>De los magistrados de los tribunales superiores de justicia y del
 Contralor General de la República, por notable abandono de sus
-deberes;</li>
-<li>De los generales o almirantes de las instituciones pertenecientes a
-las Fuerzas de la Defensa Nacional, por haber comprometido gravemente el
-honor o la seguridad de la Nación, y</li>
-<li>De los delegados presidenciales regionales, delegados presidenciales
-provinciales y de la autoridad que ejerza el Gobierno en los territorios
-especiales a que se refiere el <a href="#artículo-126-bis.-">artículo
-126 bis</a>, por infracción de la Constitución y por los delitos de
-traición, sedición, malversación de fondos públicos y concusión.</li>
+deberes;</p></li>
+<li><p>De los generales o almirantes de las instituciones pertenecientes
+a las Fuerzas de la Defensa Nacional, por haber comprometido gravemente
+el honor o la seguridad de la Nación, y</p></li>
+<li><p>De los delegados presidenciales regionales, delegados
+presidenciales provinciales y de la autoridad que ejerza el Gobierno en
+los territorios especiales a que se refiere el <a
+href="#artículo-126-bis.-">artículo 126 bis</a>, por infracción de la
+Constitución y por los delitos de traición, sedición, malversación de
+fondos públicos y concusión.</p></li>
 </ol></li>
 </ol>
 <p>La acusación se tramitará en conformidad a la ley orgánica
@@ -1782,27 +1803,29 @@ para los diputados y senadores</h3>
 <h4 id="artículo-57.-">Artículo 57.-</h4>
 <p>No pueden ser candidatos a diputados ni a senadores:</p>
 <ol type="1">
-<li><a id="articulo-57_1-1"></a>Los Ministros de Estado;</li>
-<li>Los gobernadores regionales, los delegados presidenciales
+<li><p><a id="articulo-57_1-1"></a>Los Ministros de Estado;</p></li>
+<li><p>Los gobernadores regionales, los delegados presidenciales
 regionales, los delegados presidenciales provinciales, los alcaldes, los
-consejeros regionales, los concejales y los subsecretarios;</li>
-<li>Los miembros del Consejo del Banco Central;</li>
-<li>Los magistrados de los tribunales superiores de justicia y los
-jueces de letras;</li>
-<li>Los miembros del Tribunal Constitucional, del Tribunal Calificador
-de Elecciones y de los tribunales electorales regionales;</li>
-<li><a id="articulo-57_1-6"></a>El Contralor General de la
-República;</li>
-<li>Las personas que desempeñan un cargo directivo de naturaleza gremial
-o vecinal;</li>
-<li>Las personas naturales y los gerentes o administradores de personas
-jurídicas que celebren o caucionen contratos con el Estado;</li>
-<li>El Fiscal Nacional, los fiscales regionales y los fiscales adjuntos
-del Ministerio Público, y</li>
-<li>Los Comandantes en Jefe del Ejército, de la Armada y de la Fuerza
+consejeros regionales, los concejales y los subsecretarios;</p></li>
+<li><p>Los miembros del Consejo del Banco Central;</p></li>
+<li><p>Los magistrados de los tribunales superiores de justicia y los
+jueces de letras;</p></li>
+<li><p>Los miembros del Tribunal Constitucional, del Tribunal
+Calificador de Elecciones y de los tribunales electorales
+regionales;</p></li>
+<li><p><a id="articulo-57_1-6"></a>El Contralor General de la
+República;</p></li>
+<li><p>Las personas que desempeñan un cargo directivo de naturaleza
+gremial o vecinal;</p></li>
+<li><p>Las personas naturales y los gerentes o administradores de
+personas jurídicas que celebren o caucionen contratos con el
+Estado;</p></li>
+<li><p>El Fiscal Nacional, los fiscales regionales y los fiscales
+adjuntos del Ministerio Público, y</p></li>
+<li><p>Los Comandantes en Jefe del Ejército, de la Armada y de la Fuerza
 Aérea, el General Director de Carabineros, el Director General de la
 Policía de Investigaciones y los oficiales pertenecientes a las Fuerzas
-Armadas y a las Fuerzas de Orden y Seguridad Pública.</li>
+Armadas y a las Fuerzas de Orden y Seguridad Pública.</p></li>
 </ol>
 <p><a id="articulo-57_2"></a>Las inhabilidades establecidas en este
 artículo serán aplicables a quienes hubieren tenido las calidades o
@@ -1950,8 +1973,8 @@ exceda del término de duración del respectivo período presidencial.</p>
 <li><p>Las que autoricen la celebración de cualquier clase de
 operaciones que puedan comprometer en forma directa o indirecta el
 crédito o la responsabilidad financiera del Estado, sus organismos y de
-las municipalidades. Esta disposición no se aplicará al Banco
-Central;</p></li>
+las municipalidades.</p>
+<p>Esta disposición no se aplicará al Banco Central;</p></li>
 <li><p>Las que fijen las normas con arreglo a las cuales las empresas
 del Estado y aquellas en que éste tenga participación puedan contratar
 empréstitos, los que en ningún caso, podrán efectuarse con el Estado,
@@ -1975,11 +1998,12 @@ Presidente de la República;</p></li>
 <li><p>Las que concedan indultos generales y amnistías y las que fijen
 las normas generales con arreglo a las cuales debe ejercerse la facultad
 del Presidente de la República para conceder indultos particulares y
-pensiones de gracia. Las leyes que concedan indultos generales y
-amnistías requerirán siempre de quórum calificado. No obstante, este
-quórum será de las dos terceras partes de los diputados y senadores en
-ejercicio cuando se trate de delitos contemplados en el <a
-href="#artículo-9º.-">artículo 9º</a>;</p></li>
+pensiones de gracia.</p>
+<p>Las leyes que concedan indultos generales y amnistías requerirán
+siempre de quórum calificado. No obstante, este quórum será de las dos
+terceras partes de los diputados y senadores en ejercicio cuando se
+trate de delitos contemplados en el <a href="#artículo-9º.-">artículo
+9º</a>;</p></li>
 <li><p>Las que señalen la ciudad en que debe residir el Presidente de la
 República, celebrar sus sesiones el Congreso Nacional y funcionar la
 Corte Suprema y el Tribunal Constitucional;</p></li>
@@ -2041,36 +2065,36 @@ href="#articulo-63_1-10">10</a> y <a href="#articulo-63_1-13">13</a> del
 <p><a id="articulo-65_4"></a>Corresponderá, asimismo, al Presidente de
 la República la iniciativa exclusiva para:</p>
 <ol type="1">
-<li>Imponer, suprimir, reducir o condonar tributos de cualquier clase o
-naturaleza, establecer exenciones o modificar las existentes, y
-determinar su forma, proporcionalidad o progresión;</li>
-<li>Crear nuevos servicios públicos o empleos rentados, sean fiscales,
-semifiscales, autónomos o de las empresas del Estado; suprimirlos y
-determinar sus funciones o atribuciones;</li>
-<li>Contratar empréstitos o celebrar cualquiera otra clase de
+<li><p>Imponer, suprimir, reducir o condonar tributos de cualquier clase
+o naturaleza, establecer exenciones o modificar las existentes, y
+determinar su forma, proporcionalidad o progresión;</p></li>
+<li><p>Crear nuevos servicios públicos o empleos rentados, sean
+fiscales, semifiscales, autónomos o de las empresas del Estado;
+suprimirlos y determinar sus funciones o atribuciones;</p></li>
+<li><p>Contratar empréstitos o celebrar cualquiera otra clase de
 operaciones que puedan comprometer el crédito o la responsabilidad
 financiera del Estado, de las entidades semifiscales, autónomas, de los
 gobiernos regionales o de las municipalidades, y condonar, reducir o
 modificar obligaciones, intereses u otras cargas financieras de
 cualquier naturaleza establecidas en favor del Fisco o de los organismos
-o entidades referidos;</li>
-<li>Fijar, modificar, conceder o aumentar remuneraciones, jubilaciones,
-pensiones, montepíos, rentas y cualquiera otra clase de emolumentos,
-préstamos o beneficios al personal en servicio o en retiro y a los
-beneficiarios de montepío, en su caso, de la Administración Pública y
-demás organismos y entidades anteriormente señalados, con excepción de
-las remuneraciones de los cargos indicados en el <a
+o entidades referidos;</p></li>
+<li><p>Fijar, modificar, conceder o aumentar remuneraciones,
+jubilaciones, pensiones, montepíos, rentas y cualquiera otra clase de
+emolumentos, préstamos o beneficios al personal en servicio o en retiro
+y a los beneficiarios de montepío, en su caso, de la Administración
+Pública y demás organismos y entidades anteriormente señalados, con
+excepción de las remuneraciones de los cargos indicados en el <a
 href="#articulo-38-bis_1">inciso primero</a> del <a
 href="#artículo-38-bis.-">artículo 38 bis</a>, como asimismo fijar las
 remuneraciones mínimas de los trabajadores del sector privado, aumentar
 obligatoriamente sus remuneraciones y demás beneficios económicos o
 alterar las bases que sirvan para determinarlos; todo ello sin perjuicio
-de lo dispuesto en los números siguientes;</li>
-<li>Establecer las modalidades y procedimientos de la negociación
-colectiva y determinar los casos en que no se podrá negociar, y</li>
-<li><a id="articulo-65_4-6"></a>Establecer o modificar las normas sobre
-seguridad social o que incidan en ella, tanto del sector público como
-del sector privado.</li>
+de lo dispuesto en los números siguientes;</p></li>
+<li><p>Establecer las modalidades y procedimientos de la negociación
+colectiva y determinar los casos en que no se podrá negociar, y</p></li>
+<li><p><a id="articulo-65_4-6"></a>Establecer o modificar las normas
+sobre seguridad social o que incidan en ella, tanto del sector público
+como del sector privado.</p></li>
 </ol>
 <p>El Congreso Nacional sólo podrá aceptar, disminuir o rechazar los
 servicios, empleos, emolumentos, préstamos, beneficios, gastos y demás
@@ -2463,18 +2487,18 @@ Constitucional</h2>
 <p>Habrá un Tribunal Constitucional integrado por diez miembros,
 designados de la siguiente forma:</p>
 <ol type="a">
-<li><a id="articulo-92_1a"></a>Tres designados por el Presidente de la
-República.</li>
-<li><a id="articulo-92_1b"></a>Cuatro elegidos por el Congreso Nacional.
-Dos serán nombrados directamente por el Senado y dos serán previamente
-propuestos por la Cámara de Diputados para su aprobación o rechazo por
-el Senado. Los nombramientos, o la propuesta en su caso, se efectuarán
-en votaciones únicas y requerirán para su aprobación del voto favorable
-de los dos tercios de los senadores o diputados en ejercicio, según
-corresponda.</li>
-<li><a id="articulo-92_1c"></a>Tres elegidos por la Corte Suprema en una
-votación secreta que se celebrará en sesión especialmente convocada para
-tal efecto.</li>
+<li><p><a id="articulo-92_1a"></a>Tres designados por el Presidente de
+la República.</p></li>
+<li><p><a id="articulo-92_1b"></a>Cuatro elegidos por el Congreso
+Nacional. Dos serán nombrados directamente por el Senado y dos serán
+previamente propuestos por la Cámara de Diputados para su aprobación o
+rechazo por el Senado. Los nombramientos, o la propuesta en su caso, se
+efectuarán en votaciones únicas y requerirán para su aprobación del voto
+favorable de los dos tercios de los senadores o diputados en ejercicio,
+según corresponda.</p></li>
+<li><p><a id="articulo-92_1c"></a>Tres elegidos por la Corte Suprema en
+una votación secreta que se celebrará en sesión especialmente convocada
+para tal efecto.</p></li>
 </ol>
 <p><a id="articulo-92_2"></a>Los miembros del Tribunal durarán nueve
 años en sus cargos y se renovarán por parcialidades cada tres. Deberán
@@ -3420,7 +3444,7 @@ preferencia sobre una de las alternativas.</p>
 pertinentes contenidas en los siguientes cuerpos legales, en su texto
 vigente al 1 de enero de 2020:</p>
 <ol type="a">
-<li><a
+<li><p><a
 href="https://www.bcn.cl/leychile/navegar?idNorma=1108229">Decreto con
 fuerza de ley Nº 2, del año 2017, del Ministerio Secretaría General de
 la Presidencia, que fija el texto refundido, coordinado y sistematizado
@@ -3452,14 +3476,14 @@ href="https://www.bcn.cl/leychile/navegar?idNorma=1108229&amp;idParte=9836510">X
 inclusive; <a
 href="https://www.bcn.cl/leychile/navegar?idNorma=1108229&amp;idParte=9836523">Título
 XII</a> y <a
-href="https://www.bcn.cl/leychile/navegar?idNorma=1108229&amp;idParte=9836532">XIII</a>;</li>
-<li><a
+href="https://www.bcn.cl/leychile/navegar?idNorma=1108229&amp;idParte=9836532">XIII</a>;</p></li>
+<li><p><a
 href="https://www.bcn.cl/leychile/navegar?idNorma=1107717">Decreto con
 fuerza de ley Nº 5, del año 2017, del Ministerio Secretaría General de
 la Presidencia, que fija el texto refundido, coordinado y sistematizado
 de la ley Nº 18.556</a>, orgánica constitucional sobre Sistema de
-Inscripciones Electorales y Servicio Electoral;</li>
-<li><a
+Inscripciones Electorales y Servicio Electoral;</p></li>
+<li><p><a
 href="https://www.bcn.cl/leychile/navegar?idNorma=1107684">Decreto con
 fuerza de ley Nº 4, del año 2017, del Ministerio Secretaría General de
 la Presidencia, que fija el texto refundido, coordinado y sistematizado
@@ -3473,7 +3497,7 @@ href="https://www.bcn.cl/leychile/navegar?idNorma=1107684&amp;idParte=9832344">V
 <a
 href="https://www.bcn.cl/leychile/navegar?idNorma=1107684&amp;idParte=9832358">IX</a>
 y <a
-href="https://www.bcn.cl/leychile/navegar?idNorma=1107684&amp;idParte=9832370">X</a>.</li>
+href="https://www.bcn.cl/leychile/navegar?idNorma=1107684&amp;idParte=9832370">X</a>.</p></li>
 </ol>
 <p><a id="articulo-130_6"></a>Los canales de televisión de libre
 recepción deberán destinar gratuitamente treinta minutos diarios de sus
@@ -3522,32 +3546,32 @@ disposiciones pertinentes a la elección de diputados, contenidas en los
 siguientes cuerpos legales, en su texto vigente al 25 de junio del año
 2020:</p>
 <ol type="a">
-<li><a
+<li><p><a
 href="https://www.bcn.cl/leychile/navegar?idNorma=1108229">Decreto con
 fuerza de ley Nº 2, del año 2017, del Ministerio Secretaría General de
 la Presidencia, que fija el texto refundido, coordinado y sistematizado
 de la ley Nº 18.700</a>, orgánica constitucional sobre Votaciones
 Populares y Escrutinios, con excepción del inciso quinto del <a
 href="https://www.bcn.cl/leychile/navegar?idNorma=1108229&amp;idParte=9836333">artículo
-32</a>;</li>
-<li><a
+32</a>;</p></li>
+<li><p><a
 href="https://www.bcn.cl/leychile/navegar?idNorma=1107717">Decreto con
 fuerza de ley Nº 5, del año 2017, del Ministerio Secretaría General de
 la Presidencia, que fija el texto refundido, coordinado y sistematizado
 de la ley Nº 18.556</a>, orgánica constitucional sobre Sistema de
-Inscripciones Electorales y Servicio Electoral;</li>
-<li><a
+Inscripciones Electorales y Servicio Electoral;</p></li>
+<li><p><a
 href="https://www.bcn.cl/leychile/navegar?idNorma=1107684">Decreto con
 fuerza de ley Nº 4, del año 2017, del Ministerio Secretaría General de
 la Presidencia, que fija el texto refundido, coordinado y sistematizado
 de la ley Nº 18.603</a>, orgánica constitucional de Partidos
-Políticos;</li>
-<li><a
+Políticos;</p></li>
+<li><p><a
 href="https://www.bcn.cl/leychile/navegar?idNorma=1107658">Decreto con
 fuerza de ley Nº 3, del año 2017, del Ministerio Secretaría General de
 la Presidencia, que fija el texto refundido, coordinado y sistematizado
 de la ley Nº 19.884</a>, sobre Transparencia, Límite y Control del Gasto
-Electoral.</li>
+Electoral.</p></li>
 </ol>
 <p><a id="articulo-131_5"></a>El proceso de calificación de la elección
 de Convencionales Constituyentes deberá quedar concluido dentro de los
@@ -3985,30 +4009,30 @@ pertinentes a la elección de senadores, contenidas en los siguientes
 cuerpos legales, vigentes al 1 de enero de 2023, sin perjuicio de las
 reglas especiales fijadas en los números que siguen:</p>
 <ol type="a">
-<li><a
+<li><p><a
 href="https://www.bcn.cl/leychile/navegar?idNorma=1108229">Decreto con
 fuerza de ley Nº 2, del año 2017, del Ministerio Secretaría General de
 la Presidencia, que fija el texto refundido, coordinado y sistematizado
 de la ley Nº 18.700</a>, orgánica constitucional sobre Votaciones
-Populares y Escrutinios;</li>
-<li><a
+Populares y Escrutinios;</p></li>
+<li><p><a
 href="https://www.bcn.cl/leychile/navegar?idNorma=1107717">Decreto con
 fuerza de ley Nº 5, del año 2017, del Ministerio Secretaría General de
 la Presidencia, que fija el texto refundido, coordinado y sistematizado
 de la ley Nº 18.556</a>, orgánica constitucional sobre Sistema de
-Inscripciones Electorales y Servicio Electoral;</li>
-<li><a
+Inscripciones Electorales y Servicio Electoral;</p></li>
+<li><p><a
 href="https://www.bcn.cl/leychile/navegar?idNorma=1107684">Decreto con
 fuerza de ley Nº 4, del año 2017, del Ministerio Secretaría General de
 la Presidencia, que fija el texto refundido, coordinado y sistematizado
 de la ley Nº 18.603</a>, orgánica constitucional de los Partidos
-Políticos, y</li>
-<li><a
+Políticos, y</p></li>
+<li><p><a
 href="https://www.bcn.cl/leychile/navegar?idNorma=1107658">Decreto con
 fuerza de ley Nº 3, del año 2017, del Ministerio Secretaría General de
 la Presidencia, que fija el texto refundido, coordinado y sistematizado
 de la ley Nº 19.884</a>, orgánica constitucional sobre Transparencia,
-Límite y Control del Gasto Electoral.</li>
+Límite y Control del Gasto Electoral.</p></li>
 </ol></li>
 <li><p>En el caso de las declaraciones de candidaturas para la elección
 de integrantes del Consejo Constitucional, los partidos políticos o
@@ -4070,36 +4094,37 @@ electos, resulta una proporción, entre los distintos sexos, diferente de
 la señalada en la letra a), se aplicarán las siguientes reglas
 especiales:</p>
 <ol type="i">
-<li>Se determinará la cantidad de hombres y mujeres que deban aumentar o
-disminuir, respectivamente, para obtener la distribución indicada en la
-letra a).</li>
-<li>Se ordenarán las listas o pactos que hayan obtenido escaños según lo
-establecido en la letra b) de acuerdo al total de votos que cada una
-haya obtenido a nivel nacional, de menor a mayor.</li>
-<li>A continuación, se ordenarán las circunscripciones senatoriales en
-cada lista o pacto que tenga electos del sexo sobrerrepresentado de
+<li><p>Se determinará la cantidad de hombres y mujeres que deban
+aumentar o disminuir, respectivamente, para obtener la distribución
+indicada en la letra a).</p></li>
+<li><p>Se ordenarán las listas o pactos que hayan obtenido escaños según
+lo establecido en la letra b) de acuerdo al total de votos que cada una
+haya obtenido a nivel nacional, de menor a mayor.</p></li>
+<li><p>A continuación, se ordenarán las circunscripciones senatoriales
+en cada lista o pacto que tenga electos del sexo sobrerrepresentado de
 acuerdo al total de votos en favor de las respectivas listas o pactos
-electorales, de menor a mayor.</li>
-<li>El candidato más votado del sexo subrepresentado de la lista o pacto
-electoral menos votada a nivel nacional en la circunscripción senatorial
-en que dicha lista o pacto electoral haya obtenido la menor votación,
-reemplazará al candidato menos votado del sexo sobrerrepresentado que
-había resultado electo en la asignación preliminar señalada en la letra
-b), en dicha circunscripción, correspondiente al mismo partido político
-o candidatura independiente asociada a un partido político. Si no
-pudiese realizar el reemplazo un candidato del mismo partido, se
-reemplazará con el candidato más votado del sexo subrepresentado del
-mismo pacto electoral en la misma circunscripción senatorial. Si no se
-pudiera realizar el reemplazo en la circunscripción senatorial menos
-votada de la lista se continuará en las siguientes circunscripciones
-senatoriales menos votadas, hasta realizar un reemplazo en la lista o
-hasta que no queden circunscripciones por revisar.</li>
-<li>No se aplicará la regla del ordinal iv anterior en aquellas
+electorales, de menor a mayor.</p></li>
+<li><p>El candidato más votado del sexo subrepresentado de la lista o
+pacto electoral menos votada a nivel nacional en la circunscripción
+senatorial en que dicha lista o pacto electoral haya obtenido la menor
+votación, reemplazará al candidato menos votado del sexo
+sobrerrepresentado que había resultado electo en la asignación
+preliminar señalada en la letra b), en dicha circunscripción,
+correspondiente al mismo partido político o candidatura independiente
+asociada a un partido político. Si no pudiese realizar el reemplazo un
+candidato del mismo partido, se reemplazará con el candidato más votado
+del sexo subrepresentado del mismo pacto electoral en la misma
+circunscripción senatorial. Si no se pudiera realizar el reemplazo en la
+circunscripción senatorial menos votada de la lista se continuará en las
+siguientes circunscripciones senatoriales menos votadas, hasta realizar
+un reemplazo en la lista o hasta que no queden circunscripciones por
+revisar.</p></li>
+<li><p>No se aplicará la regla del ordinal iv anterior en aquellas
 circunscripciones senatoriales en que el principio señalado en la letra
 a) se hubiese cumplido. Se entenderá cumplido cuando las
 circunscripciones elijan la misma cantidad de hombres y mujeres o cuando
 el sexo sobrerrepresentado no supere al subrepresentado en más de
-uno.</li>
+uno.</p></li>
 </ol></li>
 <li><p>Si de la aplicación de la regla señalada en la letra d) no se
 lograre la representación equitativa, se realizará el mismo
@@ -4169,7 +4194,7 @@ menor número de sufragios en cada territorio en la última elección de
 senadores.</p>
 <p>Para la elección del Consejo Constitucional se considerarán:</p>
 <ol type="a">
-<li>Los siguientes nuevos plazos respecto de los señalados en la <a
+<li><p>Los siguientes nuevos plazos respecto de los señalados en la <a
 href="https://www.bcn.cl/leychile/navegar?idNorma=1107717">ley N°
 18.556</a>: el plazo de ciento cuarenta días de los artículos <a
 href="https://www.bcn.cl/leychile/navegar?idNorma=1107717&amp;idParte=9832995">29</a>
@@ -4189,13 +4214,13 @@ href="https://www.bcn.cl/leychile/navegar?idNorma=1107717&amp;idParte=9833018">a
 48</a> será de cinco días, y el plazo de diez días del inciso primero
 del <a
 href="https://www.bcn.cl/leychile/navegar?idNorma=1107717&amp;idParte=9833019">artículo
-49</a> será de cinco días.</li>
-<li>Los demás plazos señalados en las leyes indicadas en el <a
+49</a> será de cinco días.</p></li>
+<li><p>Los demás plazos señalados en las leyes indicadas en el <a
 href="#articulo-144_5-1">número 1</a> del <a
 href="#articulo-144_5">inciso quinto</a> del <a
 href="#artículo-144.-">artículo 144</a> que recaigan en fechas
 anteriores a la publicación de esta reforma constitucional, se
-entenderán referidos al tercer día siguiente de su publicación.</li>
+entenderán referidos al tercer día siguiente de su publicación.</p></li>
 </ol>
 <p>Sin perjuicio de las normas precedentes, el Consejo Constitucional
 podrá estar integrado, además, por uno o más miembros de los pueblos
@@ -4283,24 +4308,24 @@ cuadragésimo tercera transitoria de esta Constitución.</p></li>
 <li><p>El número de escaños a elegir se obtendrá de la aplicación de la
 siguiente regla:</p>
 <ol type="i">
-<li>Se sumará el total de votos válidamente emitidos por las
-candidaturas de la circunscripción nacional indígena.</li>
-<li>Si dicha suma representare un porcentaje igual o superior al 1,5%
+<li><p>Se sumará el total de votos válidamente emitidos por las
+candidaturas de la circunscripción nacional indígena.</p></li>
+<li><p>Si dicha suma representare un porcentaje igual o superior al 1,5%
 respecto de la suma total de votos válidamente emitidos en la totalidad
 de las 16 circunscripciones no indígenas del país al Consejo
 Constitucional, la circunscripción nacional indígena elegirá un escaño,
-el que se asignará a la candidatura más votada.</li>
-<li>Si dicha suma representare un porcentaje igual o superior al 3,5% de
-los votos válidamente emitidos en la totalidad de las 16
+el que se asignará a la candidatura más votada.</p></li>
+<li><p>Si dicha suma representare un porcentaje igual o superior al 3,5%
+de los votos válidamente emitidos en la totalidad de las 16
 circunscripciones no indígenas del país al Consejo Constitucional, la
 circunscripción nacional indígena elegirá dos escaños en total. El
 segundo escaño se asignará a la candidatura más votada del sexo distinto
-al asignado en la regla anterior.</li>
-<li>Por cada vez que el porcentaje de 3,5% señalado precedentemente
+al asignado en la regla anterior.</p></li>
+<li><p>Por cada vez que el porcentaje de 3,5% señalado precedentemente
 aumente en 2 puntos porcentuales, se elegirá y asignará un escaño
 adicional a la circunscripción nacional indígena, alternando
 respectivamente el sexo de la siguiente candidatura electa más
-votada.</li>
+votada.</p></li>
 </ol></li>
 </ol>
 <p>El proceso de calificación de la elección de integrantes del Consejo
@@ -4328,14 +4353,14 @@ efectuarse dentro de los 10 días siguientes a la convocatoria.</p>
 <p>La elección de los miembros de esta Comisión se realizará en la
 siguiente forma:</p>
 <ol type="a">
-<li>12 comisionados serán elegidos con el acuerdo del Senado, en
+<li><p>12 comisionados serán elegidos con el acuerdo del Senado, en
 proporción a las actuales fuerzas políticas y partidos ahí
 representados, adoptado por los cuatro séptimos de sus miembros en
-ejercicio, en una sola votación.</li>
-<li>12 comisionados serán elegidos con el acuerdo de la Cámara de
+ejercicio, en una sola votación.</p></li>
+<li><p>12 comisionados serán elegidos con el acuerdo de la Cámara de
 Diputados, en proporción a las actuales fuerzas políticas y partidos ahí
 representados, adoptado por los cuatro séptimos de sus miembros en
-ejercicio, en una sola votación.</li>
+ejercicio, en una sola votación.</p></li>
 </ol>
 <p>El Senado y la Cámara de Diputados deberán elegir el mismo número de
 hombres y mujeres, respectivamente.</p>
@@ -4466,12 +4491,12 @@ entrega de un informe en el que podrá formular observaciones que mejoren
 el texto. Las propuestas deberán ser conocidas por el Consejo
 Constitucional y serán votadas según las reglas siguientes:</p>
 <ol type="a">
-<li>Se entenderá aprobada cada propuesta contenida en el informe por un
-quórum de tres quintos de los miembros en ejercicio del Consejo
-Constitucional.</li>
-<li>Se entenderá rechazada cada propuesta contenida en el informe por un
-quórum de dos tercios de los miembros en ejercicio del Consejo
-Constitucional.</li>
+<li><p>Se entenderá aprobada cada propuesta contenida en el informe por
+un quórum de tres quintos de los miembros en ejercicio del Consejo
+Constitucional.</p></li>
+<li><p>Se entenderá rechazada cada propuesta contenida en el informe por
+un quórum de dos tercios de los miembros en ejercicio del Consejo
+Constitucional.</p></li>
 </ol>
 <p>Las propuestas contenidas en el informe que no sean aprobadas o
 rechazadas en los términos señalados, serán analizadas por una comisión
@@ -4546,14 +4571,14 @@ de instituciones estatales y privadas.</p></li>
 himno nacional.</p></li>
 <li><p>Chile tiene tres poderes separados e independientes entre sí:</p>
 <ol type="a">
-<li>Poder Ejecutivo, con un jefe de Gobierno con iniciativa exclusiva en
-la presentación de proyectos de ley que incidan directamente en el gasto
-público.</li>
-<li>Poder Judicial, con unidad jurisdiccional y con pleno respeto de las
-sentencias judiciales firmes y ejecutoriadas.</li>
-<li>Poder Legislativo bicameral, compuesto por un Senado y una Cámara de
-Diputados y Diputadas, sin perjuicio de sus atribuciones y competencias
-en particular.</li>
+<li><p>Poder Ejecutivo, con un jefe de Gobierno con iniciativa exclusiva
+en la presentación de proyectos de ley que incidan directamente en el
+gasto público.</p></li>
+<li><p>Poder Judicial, con unidad jurisdiccional y con pleno respeto de
+las sentencias judiciales firmes y ejecutoriadas.</p></li>
+<li><p>Poder Legislativo bicameral, compuesto por un Senado y una Cámara
+de Diputados y Diputadas, sin perjuicio de sus atribuciones y
+competencias en particular.</p></li>
 </ol></li>
 <li><p>Chile consagra constitucionalmente, entre otros, los siguientes
 órganos autónomos: Banco Central, Justicia Electoral, Ministerio Público
@@ -4731,7 +4756,7 @@ del Ministerio Secretaría General de la Presidencia.</p>
 pertinentes contenidas en los siguientes cuerpos legales, en sus textos
 vigentes al 1 de enero de 2023:</p>
 <ol type="a">
-<li><a
+<li><p><a
 href="https://www.bcn.cl/leychile/navegar?idNorma=1108229">Decreto con
 fuerza de ley Nº 2, del año 2017, del Ministerio Secretaría General de
 la Presidencia, que fija el texto refundido, coordinado y sistematizado
@@ -4763,19 +4788,19 @@ href="https://www.bcn.cl/leychile/navegar?idNorma=1108229&amp;idParte=9836510">X
 inclusive, y <a
 href="https://www.bcn.cl/leychile/navegar?idNorma=1108229&amp;idParte=9836523">Título
 XII</a> y <a
-href="https://www.bcn.cl/leychile/navegar?idNorma=1108229&amp;idParte=9836532">XIII</a>.</li>
-<li><a
+href="https://www.bcn.cl/leychile/navegar?idNorma=1108229&amp;idParte=9836532">XIII</a>.</p></li>
+<li><p><a
 href="https://www.bcn.cl/leychile/navegar?idNorma=1107717">Decreto con
 fuerza de ley Nº 5, del año 2017, del Ministerio Secretaría General de
 la Presidencia, que fija el texto refundido, coordinado y sistematizado
 de la ley Nº 18.556</a>, orgánica constitucional sobre Sistema de
-Inscripciones Electorales y Servicio Electoral.</li>
-<li><a
+Inscripciones Electorales y Servicio Electoral.</p></li>
+<li><p><a
 href="https://www.bcn.cl/leychile/navegar?idNorma=1107684">Decreto con
 fuerza de ley Nº 4, del año 2017, del Ministerio Secretaría General de
 la Presidencia, que fija el texto refundido, coordinado y sistematizado
 de la ley Nº 18.603</a>, orgánica constitucional de los Partidos
-Políticos.</li>
+Políticos.</p></li>
 </ol>
 <p>Los canales de televisión de libre recepción deberán destinar
 gratuitamente treinta minutos diarios de sus transmisiones a propaganda
@@ -5296,14 +5321,15 @@ Convencionales Constituyentes.</p>
 <p>Para la distribución y asignación de escaños de los Convencionales
 Constituyentes se seguirán las siguientes reglas:</p>
 <ol type="1">
-<li>El sistema electoral para la Convención Constitucional se orientará
-a conseguir una representación equitativa de hombres y mujeres. Con este
-objetivo, en los distritos que repartan un número par de escaños, deben
-resultar electos igual número de hombres y mujeres, mientras que en los
-distritos que repartan un número impar de escaños, no podrá resultar una
-diferencia de escaños superior a uno, entre hombres y mujeres.</li>
-<li>Se asignarán los escaños que correspondan preliminarmente aplicando
-el <a
+<li><p>El sistema electoral para la Convención Constitucional se
+orientará a conseguir una representación equitativa de hombres y
+mujeres. Con este objetivo, en los distritos que repartan un número par
+de escaños, deben resultar electos igual número de hombres y mujeres,
+mientras que en los distritos que repartan un número impar de escaños,
+no podrá resultar una diferencia de escaños superior a uno, entre
+hombres y mujeres.</p></li>
+<li><p>Se asignarán los escaños que correspondan preliminarmente
+aplicando el <a
 href="https://www.bcn.cl/leychile/navegar?idNorma=1108229&amp;idParte=9836439">artículo
 121</a> de la <a
 href="https://www.bcn.cl/leychile/navegar?idNorma=1108229">ley Nº
@@ -5312,11 +5338,11 @@ coordinado y sistematizado fue fijado por el decreto con fuerza de ley
 Nº 2</a>, de 2017, del Ministerio Secretaría General de la Presidencia,
 según lo dispuesto en los artículos <a href="#artículo-139.-">139</a>,
 <a href="#artículo-140.-">140</a> y <a href="#artículo-141.-">141</a> de
-esta Constitución.</li>
-<li>En caso de que la asignación preliminar se ajuste a lo señalado en
-el numeral 1, se proclamará Convencionales Constituyentes electos a
-dichas candidatas y candidatos.</li>
-<li>Si en la asignación preliminar de Convencionales Constituyentes
+esta Constitución.</p></li>
+<li><p>En caso de que la asignación preliminar se ajuste a lo señalado
+en el numeral 1, se proclamará Convencionales Constituyentes electos a
+dichas candidatas y candidatos.</p></li>
+<li><p>Si en la asignación preliminar de Convencionales Constituyentes
 electos en un distrito resulta una proporción, entre los distintos
 sexos, distinta de la señalada en el numeral 1, no se aplicará lo
 dispuesto en el numeral 3) ni en la letra d) del número 4) del <a
@@ -5324,20 +5350,22 @@ href="https://www.bcn.cl/leychile/navegar?idNorma=1108229&amp;idParte=9836439">a
 121</a> de la <a
 href="https://www.bcn.cl/leychile/navegar?idNorma=1108229">ley Nº
 18.700</a>, sobre Votaciones Populares y Escrutinios, y se procederá de
-la siguiente forma:
+la siguiente forma:</p>
 <ol type="a">
-<li>Se determinará la cantidad de hombres y mujeres que deban aumentar y
-disminuir, respectivamente, en el distrito, para obtener la distribución
-mínima indicada en el numeral 1.</li>
-<li>Se ordenarán las candidaturas asignadas preliminarmente del sexo
-sobrerepresentado según su votación individual de menor a mayor.</li>
-<li>Se proclamará Convencional Constituyente a la candidatura del sexo
-subrepresentado con mayor votación, a la que no se le haya asignado el
-escaño preliminarmente, del mismo partido político, en caso de lista de
-partido político único o pacto electoral, o a la candidatura con mayor
-votación del sexo subrepresentado, en caso de las listas constituidas
-entre candidaturas independientes, en lugar de la candidatura asignada
-preliminarmente de menor votación del sexo sobrerepresentado.</li>
+<li><p>Se determinará la cantidad de hombres y mujeres que deban
+aumentar y disminuir, respectivamente, en el distrito, para obtener la
+distribución mínima indicada en el numeral 1.</p></li>
+<li><p>Se ordenarán las candidaturas asignadas preliminarmente del sexo
+sobrerepresentado según su votación individual de menor a
+mayor.</p></li>
+<li><p>Se proclamará Convencional Constituyente a la candidatura del
+sexo subrepresentado con mayor votación, a la que no se le haya asignado
+el escaño preliminarmente, del mismo partido político, en caso de lista
+de partido político único o pacto electoral, o a la candidatura con
+mayor votación del sexo subrepresentado, en caso de las listas
+constituidas entre candidaturas independientes, en lugar de la
+candidatura asignada preliminarmente de menor votación del sexo
+sobrerepresentado.</p></li>
 </ol></li>
 </ol>
 <p>En caso de que no se pudiere mantener el escaño en el mismo partido,
@@ -5573,11 +5601,11 @@ invalidez o sobrevivencia.</p>
 <p>La entrega de los fondos acumulados y autorizados de retirar se
 efectuará de la siguiente manera:</p>
 <ul>
-<li>El 50 por ciento en un plazo máximo de diez días hábiles de
+<li><p>El 50 por ciento en un plazo máximo de diez días hábiles de
 presentada la solicitud ante la respectiva administradora de fondos de
-pensiones a que pertenezca el afiliado.</li>
-<li>El 50 por ciento restante en el plazo máximo de treinta días hábiles
-a contar del desembolso anterior.</li>
+pensiones a que pertenezca el afiliado.</p></li>
+<li><p>El 50 por ciento restante en el plazo máximo de treinta días
+hábiles a contar del desembolso anterior.</p></li>
 </ul>
 <p>La implementación del sistema de transferencias de fondos y otras
 medidas que se efectúen en virtud de esta disposición no tendrán costo
@@ -5619,41 +5647,43 @@ Escrutinios, sin perjuicio de lo dispuesto en el inciso cuarto del
 referido <a href="#artículo-130.-">artículo 130</a>, en las materias que
 se indican:</p>
 <ol type="a">
-<li>La constitución, instalación y funcionamiento de mesas receptoras de
-sufragios;</li>
-<li>El horario de funcionamiento de las mesas receptoras de sufragios,
-pudiendo ampliarlo hasta un máximo de doce horas. Asimismo, podrá
-promover horarios preferentes de votación a diferentes grupos de
+<li><p>La constitución, instalación y funcionamiento de mesas receptoras
+de sufragios;</p></li>
+<li><p>El horario de funcionamiento de las mesas receptoras de
+sufragios, pudiendo ampliarlo hasta un máximo de doce horas. Asimismo,
+podrá promover horarios preferentes de votación a diferentes grupos de
 personas, y establecer el horario de entrega de resultados preliminares
-desde el exterior;</li>
-<li>El número y causales de excusa o exclusión de los vocales de las
+desde el exterior;</p></li>
+<li><p>El número y causales de excusa o exclusión de los vocales de las
 mesas receptoras de sufragios y miembros de los colegios escrutadores,
 así como la forma de acreditarlas, pudiendo excluir a electores con
 riesgo de salud, según criterios establecidos por la autoridad
-sanitaria, para cumplir con dichas funciones;</li>
-<li>El aforo máximo de personas al interior de los locales de votación,
-según lo cual se deberá controlar el acceso a los mismos, así como el
-distanciamiento de electores tanto dentro como al exterior de dichos
-locales;</li>
-<li>La fijación del distanciamiento mínimo necesario entre las mesas
+sanitaria, para cumplir con dichas funciones;</p></li>
+<li><p>El aforo máximo de personas al interior de los locales de
+votación, según lo cual se deberá controlar el acceso a los mismos, así
+como el distanciamiento de electores tanto dentro como al exterior de
+dichos locales;</p></li>
+<li><p>La fijación del distanciamiento mínimo necesario entre las mesas
 receptoras de sufragios, sus urnas y cámaras secretas, así como el
-distanciamiento entre los vocales de mesa, apoderados y la prensa;</li>
-<li>La determinación de las características y número de las cámaras
-secretas por cada mesa receptora de sufragios;</li>
-<li>La determinación del número máximo de apoderados por cada opción
+distanciamiento entre los vocales de mesa, apoderados y la
+prensa;</p></li>
+<li><p>La determinación de las características y número de las cámaras
+secretas por cada mesa receptora de sufragios;</p></li>
+<li><p>La determinación del número máximo de apoderados por cada opción
 plebiscitada que podrán estar presentes en las actuaciones de las juntas
 electorales y en las oficinas electorales de los locales de votación, en
 la votación y escrutinio de las mesas receptoras de sufragios, y por los
-colegios escrutadores;</li>
-<li>Los útiles electorales disponibles en las mesas receptoras de
-sufragios y colegios escrutadores;</li>
-<li>La regulación del tipo de lápiz para marcar la preferencia en las
-cédulas electorales y para firmar el padrón electoral de la mesa;</li>
-<li>La obligación del uso de mascarillas y otros medios de protección
+colegios escrutadores;</p></li>
+<li><p>Los útiles electorales disponibles en las mesas receptoras de
+sufragios y colegios escrutadores;</p></li>
+<li><p>La regulación del tipo de lápiz para marcar la preferencia en las
+cédulas electorales y para firmar el padrón electoral de la
+mesa;</p></li>
+<li><p>La obligación del uso de mascarillas y otros medios de protección
 sanitaria para electores, y quienes se encuentren al interior de los
-locales de votación, y</li>
-<li>La dictación de un protocolo de carácter general y obligatorio, en
-acuerdo con el Ministerio de Salud, que contenga las normas y
+locales de votación, y</p></li>
+<li><p>La dictación de un protocolo de carácter general y obligatorio,
+en acuerdo con el Ministerio de Salud, que contenga las normas y
 procedimientos sanitarios que deban cumplirse, en particular las
 referidas en los literales d), e), g) y j) precedentes, en las
 actuaciones que realicen las juntas electorales, delegados de las mismas
@@ -5664,7 +5694,7 @@ Fuerzas Armadas y de Orden y Seguridad Pública que se encuentren a cargo
 del resguardo del orden público al interior y exterior de los locales de
 votación, así como para todo funcionario público, con independencia del
 órgano del cual dependa, que desempeñe funciones o cumpla obligaciones
-de carácter electoral.</li>
+de carácter electoral.</p></li>
 </ol>
 <p>En ningún caso las medidas sanitarias de carácter general podrán
 afectar la realización del plebiscito a que se refiere el <a
@@ -5678,34 +5708,7 @@ Tribunal Calificador de Elecciones, dentro del plazo de tres días
 contado desde su publicación. Dicho Tribunal resolverá la reclamación
 dentro del plazo de diez días contado desde su interposición, y la
 sentencia no admitirá recurso o acción alguna en su contra.</p>
-<ol start="6" type="1">
-<li>El bono de las personas que ejerzan, de modo efectivo, las funciones
-de vocal de mesa receptora de sufragios los días 15 y 16 de mayo de
-2021, a que se refieren los artículos <a
-href="https://www.bcn.cl/leychile/navegar?idNorma=1108229&amp;idParte=9836356">53</a>
-y <a
-href="https://www.bcn.cl/leychile/navegar?idNorma=1108229&amp;idParte=9836359">55</a>
-del <a
-href="https://www.bcn.cl/leychile/navegar?idNorma=1108229">decreto con
-fuerza de ley Nº 2, de 2017, del Ministerio Secretaría General de la
-Presidencia, que fija el texto refundido, coordinado y sistematizado de
-la ley Nº 18.700</a>, orgánica constitucional sobre Votaciones Populares
-y Escrutinios, ascenderá a la suma de sesenta mil pesos. El vocal de
-mesa que sea designado en virtud del <a
-href="https://www.bcn.cl/leychile/navegar?idNorma=1108229&amp;idParte=9836346">Párrafo
-8º</a> del <a
-href="https://www.bcn.cl/leychile/navegar?idNorma=1108229&amp;idParte=9836296">Título
-I</a> de la <a
-href="https://www.bcn.cl/leychile/navegar?idNorma=1108229">ley Nº
-18.700</a> antes referida, que ejerza sus funciones como tal solo uno de
-los días de elecciones señalados, recibirá el bono al que se refiere el
-inciso primero del <a
-href="https://www.bcn.cl/leychile/navegar?idNorma=1108229&amp;idParte=9836356">artículo
-53</a> de dicha ley. Por su parte, al vocal de mesa designado de
-conformidad al <a
-href="https://www.bcn.cl/leychile/navegar?idNorma=1108229&amp;idParte=9836371">artículo
-63</a> de dicha ley le corresponderá el pago de treinta mil pesos por el
-día en que desempeñe sus funciones. En los spots a que se refiere el <a
+<p>En los spots a que se refiere el <a
 href="https://www.bcn.cl/leychile/navegar?idNorma=1108229&amp;idParte=9836335">artículo
 34</a> del <a
 href="https://www.bcn.cl/leychile/navegar?idNorma=1108229">decreto con
@@ -5714,8 +5717,7 @@ de 2017, que fija el texto refundido, coordinado y sistematizado de la
 ley N° 18.700</a>, Orgánica Constitucional sobre Votaciones Populares y
 Escrutinios, el Servicio Electoral deberá incluir información respecto a
 las medidas sanitarias que se tomen en virtud de las normas e
-instrucciones a que se refiere la presente disposición.</li>
-</ol>
+instrucciones a que se refiere la presente disposición.</p>
 <p>Reglas especiales para el desarrollo de las elecciones de los días 15
 y 16 de mayo de 2021. Las elecciones municipales, de gobernadores
 regionales y de Convencionales Constituyentes a realizarse los días 10 y
@@ -6274,17 +6276,17 @@ href="https://www.bcn.cl/leychile/navegar?idNorma=1108229&amp;idParte=9836333">a
 candidatos independientes que formen parte de listas de partidos
 políticos, que se determinará de la siguiente forma:</p>
 <ol type="a">
-<li>Se determinará un segundo a cada candidato independiente en lista de
-candidatos independientes o fuera de ella, distribuidos a cada candidato
-en partes iguales.</li>
-<li>Los candidatos independientes, sea que estén inscritos en lista de
-candidatos independientes o fuera de ellas, podrán ceder el tiempo que
-les corresponda a una lista de candidaturas independientes. El Consejo
-Nacional de Televisión establecerá la forma en que se le informará del
-uso conjunto del tiempo en la franja electoral por las listas de
-candidaturas independientes, según lo señalado en este literal. Esta
-información deberá ser entregada a más tardar a las 00:00 horas del
-cuarto día anterior al inicio de la franja electoral.</li>
+<li><p>Se determinará un segundo a cada candidato independiente en lista
+de candidatos independientes o fuera de ella, distribuidos a cada
+candidato en partes iguales.</p></li>
+<li><p>Los candidatos independientes, sea que estén inscritos en lista
+de candidatos independientes o fuera de ellas, podrán ceder el tiempo
+que les corresponda a una lista de candidaturas independientes. El
+Consejo Nacional de Televisión establecerá la forma en que se le
+informará del uso conjunto del tiempo en la franja electoral por las
+listas de candidaturas independientes, según lo señalado en este
+literal. Esta información deberá ser entregada a más tardar a las 00:00
+horas del cuarto día anterior al inicio de la franja electoral.</p></li>
 </ol>
 <h4 id="cuadragésima-quinta.-">CUADRAGÉSIMA QUINTA.-</h4>
 <p>Existirá un reembolso adicional de gastos electorales para los
@@ -6496,18 +6498,18 @@ sistematizado fue fijado por el decreto con fuerza de ley Nº 5</a>, de
 2017, del Ministerio Secretaría General de la Presidencia, se utilizará
 el Padrón Electoral con carácter de definitivo elaborado por el Servicio
 Electoral para la elección que originalmente se celebraría el 10 y 11 de
-abril de 2021. Con la finalidad de propender a la participación del
-electorado, las inscripciones, actualizaciones y modificaciones del
-Registro Electoral se reanudarán, en el caso de las elecciones primarias
-de 2021, el día siguiente a las elecciones de Convencionales
-Constituyentes, gobernadores regionales y de autoridades municipales, y
-hasta el sexagésimo día anterior a dichas elecciones primarias.
-Tratándose de las elecciones presidencial, parlamentarias y de
-consejeros regionales de 2021, esta reanudación se efectuará a partir
-del día siguiente a las elecciones de Convencionales Constituyentes,
-gobernadores regionales y de autoridades municipales y se suspenderá a
-los ciento cuarenta días anteriores a las elecciones generales antes
-señaladas.</p></li>
+abril de 2021.</p>
+<p>Con la finalidad de propender a la participación del electorado, las
+inscripciones, actualizaciones y modificaciones del Registro Electoral
+se reanudarán, en el caso de las elecciones primarias de 2021, el día
+siguiente a las elecciones de Convencionales Constituyentes,
+gobernadores regionales y de autoridades municipales, y hasta el
+sexagésimo día anterior a dichas elecciones primarias. Tratándose de las
+elecciones presidencial, parlamentarias y de consejeros regionales de
+2021, esta reanudación se efectuará a partir del día siguiente a las
+elecciones de Convencionales Constituyentes, gobernadores regionales y
+de autoridades municipales y se suspenderá a los ciento cuarenta días
+anteriores a las elecciones generales antes señaladas.</p></li>
 <li><p>Los acuerdos, actas, resoluciones o actos administrativos de los
 órganos competentes que fueron dictados o publicados con anterioridad a
 la presente reforma constitucional, en virtud de la normativa aplicable
