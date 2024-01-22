@@ -76,6 +76,7 @@ Luis Rojas Gallardo
 
 \newpage
 
+
 ## CAPÍTULO I FUNDAMENTOS DEL ORDEN CONSTITUCIONAL
 
 
@@ -1210,7 +1211,7 @@ Solo son materias de ley:
 
 \item[n)] Las que modifiquen la forma o características de los emblemas nacionales.
 
-\item[\~{n})] Las que regulen honores públicos a los grandes servidores.
+\item[ñ)] Las que regulen honores públicos a los grandes servidores.
 
 \item[o)] Las que fijen las fuerzas de aire, mar y tierra que han de mantenerse en pie en tiempo de paz o de guerra, y las normas para permitir la entrada de tropas extranjeras en el territorio de la República como, asimismo, la salida de tropas nacionales fuera de él.
 
@@ -1492,7 +1493,7 @@ Son atribuciones especiales del Presidente de la República:
 
 \item[n)] Conducir las relaciones políticas con otras naciones y organizaciones internacionales, y llevar a cabo las negociaciones; concluir, firmar y ratificar los tratados que estime convenientes para los intereses del país, los que deberán ser sometidos a la aprobación del Congreso conforme a lo prescrito en el artículo 59, requiriendo también, y en todo caso, la aprobación del Congreso para denunciar, retirar o terminar de común acuerdo un tratado internacional que ya haya sido aprobado por este. Las discusiones y deliberaciones sobre estos objetos podrán ser declaradas reservadas o secretas si el Presidente de la República así lo exigiere.
 
-\item[\~{n})] Disponer de las fuerzas de aire, mar y tierra, organizarlas y distribuirlas de acuerdo con las necesidades de la seguridad de la Nación.
+\item[ñ)] Disponer de las fuerzas de aire, mar y tierra, organizarlas y distribuirlas de acuerdo con las necesidades de la seguridad de la Nación.
 
 \item[o)] Conducir la defensa nacional y asumir, en caso de guerra, la jefatura suprema de las Fuerzas Armadas.
 
@@ -1615,6 +1616,7 @@ Los ministros serán responsables individualmente de los actos que firmaren y so
 
 
 ## CAPÍTULO VI DEFENSA NACIONAL
+
 
 #### Artículo 114
 
@@ -1943,6 +1945,7 @@ El Tribunal Constitucional resolverá, en conformidad con esta Constitución, la
 Las elecciones de alcaldes, concejales, gobernadores y consejeros regionales se efectuarán conjuntamente, cada cuatro años, la última semana del mes de octubre del año anterior al que se realicen las elecciones presidenciales y parlamentarias.
 
 #### Artículo 152
+
 1. Para ser elegido gobernador regional, consejero regional, alcalde o concejal y para ser designado representante del Presidente de la República en la región o provincia, se requerirá ser ciudadano con derecho a sufragio, cumplir con los demás requisitos de idoneidad que señale la ley electoral, en los primeros casos, e institucional respecto de los representantes del Presidente de la República en la región o provincia, y residir en la región a lo menos en los últimos dos años anteriores a su designación o elección.
 
 2. Ningún gobernador regional o representante del Presidente de la República en la región o provincia, según corresponda, puede ser acusado o privado de su libertad, salvo el caso de delito flagrante, si la Corte de Apelaciones de la jurisdicción respectiva, en pleno, no autoriza previamente la acusación declarando haber lugar a la formación de causa. De esta resolución podrá apelarse ante la Corte Suprema.
@@ -2234,7 +2237,7 @@ Son atribuciones del Tribunal Constitucional:
 
 \item[n)] Declarar la inconstitucionalidad de los partidos políticos, de los movimientos u otras formas de organización cuyos objetivos, actos o conductas no respeten los principios básicos del régimen democrático, como asimismo aquellos que hagan uso de la violencia, la propugnen o inciten a ella, que ejecuten o se adjudiquen la realización de actos o conductas terroristas. El Tribunal Constitucional podrá apreciar en conciencia los hechos.
 
-\item[\~{n})] Resolver las contiendas de competencia que pudieren suscitarse entre las autoridades nacionales, regionales, provinciales y comunales. La cuestión podrá ser deducida por cualquiera de las autoridades en conflicto.
+\item[ñ)] Resolver las contiendas de competencia que pudieren suscitarse entre las autoridades nacionales, regionales, provinciales y comunales. La cuestión podrá ser deducida por cualquiera de las autoridades en conflicto.
 
 \item[o)] Resolver los conflictos de competencia que se susciten entre las autoridades políticas o administrativas y los tribunales de justicia, que no correspondan al Senado. La cuestión podrá ser deducida por cualquiera de las autoridades o tribunales en conflicto.
 \end{itemize}
@@ -2460,7 +2463,7 @@ El Fiscal Nacional, el Fiscal Supraterritorial, los fiscales regionales y los fi
     b) Un ciudadano que hubiere ejercido el cargo de Presidente o Vicepresidente de la Cámara de Diputadas y Diputados o del Senado por un período no inferior a los trescientos sesenta y cinco días, designado por la Corte Suprema en la forma señalada en el literal a) precedente, de entre todos aquellos que reúnan las calidades indicadas. La ley institucional determinará la retribución que corresponda por el ejercicio de esta función.
 
 4. La designación a que se refiere el literal b) del inciso anterior no podrá recaer en quienes sean parlamentarios, candidatos a cargos de elección popular, ministros de Estado, ni dirigentes de partidos políticos.
-    
+
 5. En caso de ausencia temporal de uno de los miembros del Tribunal Calificador de Elecciones, el cargo será ocupado por su respectivo suplente. Si la ausencia recayere sobre el titular, y este es miembro de la Corte Suprema, será reemplazado por otro ministro sorteado al efecto. En el acto de sortear el nombramiento del ministro titular se designará también al ministro suplente.
 
 6. Los miembros de este tribunal durarán cuatro años en sus funciones. Con todo, cesarán en su cargo al cumplir setenta y cinco años de edad y les serán aplicables las disposiciones de los artículos 67 y 68 de esta Constitución.

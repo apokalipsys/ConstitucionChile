@@ -1,0 +1,17 @@
+1814.03.17: Reglamento Constitucional para el Gobierno Provisorio de 1814 @R1814
+
+---
+references:
+  - id: R1814
+    type: website
+    title: Reglamento para el Gobierno Provisorio de 1814
+    URL: https://es.wikisource.org/wiki/Reglamento_para_el_Gobierno_Provisorio_de_1814
+    issued: 2005-10-05
+    language: es-CL
+  - id: R1814b
+    type: website
+    title: Ley S/N
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=1005389
+    issued: 1814-03-17
+    language: es-CL
+---

@@ -7,7 +7,9 @@ fontfamilyoptions: sfdefault
 
 # Constitución Política de la República de Chile
 
+
 ## Capítulo I. De la forma de gobierno
+
 
 #### Artículo 1.
 
@@ -21,21 +23,28 @@ La República de Chile es una é indivisible.
 
 La soberanía reside esencialmente en la Nación que delega su ejercicio en las autoridades que establece esta Constitución.
 
+
 ## Capítulo II. De la religión
+
 
 #### Artículo 4.
 
 La Religión de la República de Chile es la Católica Apostólica Romana; con exclusión del ejercicio público de cualquiera otra.
 
+
 ## Capítulo III. De los chilenos
+
 
 #### Artículo 5.
 
 Son chilenos:
 
 1. Los nacidos en el territorio de Chile.
+
 2. Los hijos de padre ó madre chilenos, nacidos en territorio extranjero, por el solo hecho de avecindarse en Chile.- Los hijos de chilenos nacidos en territorio extranjero, hallándose el padre en actual servicio de la República, son chilenos aún para los efectos en que las leyes fundamentales, ó cualesquiera otras, requieran nacimiento en el territorio chileno.
+
 3. Los extranjeros que habiendo residido un año en la República, declaren ante la Municipalidad del territorio en que residen su deseo de avecindarse en Chile y soliciten carta de ciudadanía.
+
 4. Los que obtengan especial gracia de naturalización por el Congreso.
 
 #### Artículo 6.
@@ -55,7 +64,9 @@ Las inscripciones serán continuas y no se suspenderán sino en el plazo que fij
 Se suspende la calidad de ciudadano activo con derecho de sufragio:
 
 1. Por ineptitud física ó moral que impida obrar libre y reflexivamente.
+
 2. Por la condición de sirviente doméstico.
+
 3. Por hallarse procesado como reo de delito que merezca pena aflictiva ó infamante.
 
 #### Artículo 9.
@@ -63,31 +74,48 @@ Se suspende la calidad de ciudadano activo con derecho de sufragio:
 Se pierde la ciudadanía:
 
 1. Por condena á pena aflictiva ó infamante.
+
 2. Por quiebra fraudulenta.
+
 3. Por naturalización en país extranjero.
+
 4. Por admitir empleos, funciones ó pensiones de un Gobierno extranjero sin especial permiso del Congreso.
 
 Los que por una de las causas mencionadas en este artículo hubieren perdido la calidad de ciudadanos, podrán impetrar rehabilitación del Senado.
 
+
 ## Capítulo IV. Derecho público de Chile
+
 
 #### Artículo 10.
 
 La Constitución asegura á todos los habitantes de la República:
 
 1. La igualdad ante la ley. En Chile no hay clase privilegiada.
+
 2. La admisión á todos los empleos y funciones públicas, sin otras condiciones que las que impongan las leyes.
+
 3. La igual repartición de los impuestos y contribuciones á proporción de los haberes, y la igual repartición de las demás cargas públicas. Una ley particular determinará el método de reclutas y reemplazos para las fuerzas de mar y tierra.
+
 4. La libertad de permanecer en cualquiera punto de la República, trasladarse de uno á otro, ó salir de su territorio, guardándose los reglamentos de policía, y salvo siempre el perjuicio de tercero; sin que nadie pueda ser preso, detenido ó desterrado, sino en la forma determinada por las leyes.
+
 5. La inviolabilidad de todas las propiedades, sin distinción de las que pertenezcan á particulares ó comunidades, y sin que nadie pueda ser privado de la de su dominio, ni de una parte de ella por pequeña que sea, ó del derecho que á ella tuviere, sino en virtud de sentencia judicial; salvo el caso en que la utilidad del Estado, calificada por una ley, exija el uso ó enajenación de alguna; lo que tendrá lugar dándose previamente al dueño la indemnización que se ajustare con él, ó se avaluare á juicio de hombres buenos.
-6. El derecho de reunirse sin permiso previo y sin armas.\
-   Las reuniones que se tengan en las plazas, calles y otros lugares de uso público, serán siempre regidas por las disposiciones de policía.\
-   El derecho de asociarse sin permiso previo.\
-   El derecho de presentar peticiones á la autoridad constituida sobre cualquier asunto de interés público ó privado, no tiene otra limitación que la de proceder en su ejercicio en términos respetuosos y convenientes.\
+
+6. El derecho de reunirse sin permiso previo y sin armas.
+
+   Las reuniones que se tengan en las plazas, calles y otros lugares de uso público, serán siempre regidas por las disposiciones de policía.
+
+   El derecho de asociarse sin permiso previo.
+
+   El derecho de presentar peticiones á la autoridad constituida sobre cualquier asunto de interés público ó privado, no tiene otra limitación que la de proceder en su ejercicio en términos respetuosos y convenientes.
+
    La libertad de enseñanza.
+
 7. La libertad de publicar sus opiniones por la imprenta, sin censura previa, y el derecho de no poder ser condenado por el abuso de esta libertad, sino en virtud de un juicio en que se califique previamente el abuso por jurados, y se siga y sentencie la causa con arreglo á la ley.
 
+
 ## Capítulo V. Del Congreso Nacional
+
 
 #### Artículo 11.
 
@@ -132,6 +160,7 @@ La Cámara de Diputados se renovará en su totalidad cada tres años.
 Para ser elegido Diputado se necesita:
 
 1. Estar en posesión de los derechos de ciudadano elector.
+
 2. Una renta de quinientos pesos, á lo menos.
 
 #### Artículo 20.
@@ -142,10 +171,15 @@ Los Diputados son reelegibles indefinidamente.
 
 No pueden ser elegidos Diputados:
 
+
 1. Los eclesiásticos regulares, los párrocos y vice-párrocos;
+
 2. Los magistrados de los Tribunales Superiores de Justicia, los jueces de letras y los funcionarios que ejercen el ministerio público;
+
 3. Los Intendentes de provincia y los Gobernadores de plaza ó departamento;
+
 4. Las personas que tienen ó caucionan contratos con el Estado sobre obras públicas ó sobre provisión de cualquiera especie de artículos;
+
 5. Los chilenos á que se refiere el inciso 3.º del artículo 5.º, si no hubieren estado en posesión de su carta de naturalización, á lo menos, cinco años antes de ser elegidos.
 
 El cargo de Diputado es gratuito é incompatible con el de Municipal y con todo empleo público retribuído, y con toda función ó comisión de la misma naturaleza. El electo debe optar entre el cargo de Diputado y el empleo, función ó comisión que desempeñe dentro de quince días, si se hallare en el territorio de la República, y dentro de ciento si estuviere ausente. Estos plazos se contarán desde la aprobación de la elección. A falta de opción declarada dentro del plazo, el electo cesará en su cargo de Diputado.
@@ -187,8 +221,11 @@ El Senador que perdiere su representación por desempeñar ó aceptar un empleo 
 Para ser Senador se necesita:
 
 1. Ciudadanía en ejercicio.
+
 2. Treinta y seis años cumplidos.
+
 3. No haber sido condenado jamás por delito.
+
 4. Una renta de dos mil pesos á lo menos.
 
 Lo dispuesto en el artículo 21 respecto de los Diputados, comprende también á los Senadores.
@@ -200,12 +237,19 @@ Lo dispuesto en el artículo 21 respecto de los Diputados, comprende también á
 Son atribuciones exclusivas del Congreso:
 
 1. Aprobar ó reprobar anualmente la cuenta de la inversión de los fondos destinados para los gastos de la administración pública que debe presentar el Gobierno.
+
 2. Aprobar ó reprobar la declaración de guerra á propuesta del Presidente de la República.
+
 3. Declarar, cuando el Presidente de la República hace dimisión de su cargo, si los motivos en que la funda, le imposibilitan, ó no, para su ejercicio, y en su consecuencia admitirla ó desecharla.
+
 4. Declarar, cuando en los casos de los artículos 65 y 69 hubiere lugar á duda, si el impedimento que priva al Presidente del ejercicio de sus funciones, es de tal naturaleza que deba procederse á nueva elección.
+
 5. Hacer el escrutinio, y rectificar la elección de Presidente de la República conforme á los artículos 58, 59, 60, 61, 62, 63 y 64.
-6. Dictar leyes excepcionales y de duración transitoria que no podrá exceder de un año, para restringir la libertad personal y la libertad de imprenta, y para suspender ó restringir el ejercicio de la libertad de reunión, cuando lo reclamare la necesidad imperiosa de la defensa del Estado, de la conservación del régimen constitucional ó de la paz interior.\
-   Si dichas leyes señalaren penas, su aplicación se hará siempre por los tribunales establecidos.\
+
+6. Dictar leyes excepcionales y de duración transitoria que no podrá exceder de un año, para restringir la libertad personal y la libertad de imprenta, y para suspender ó restringir el ejercicio de la libertad de reunión, cuando lo reclamare la necesidad imperiosa de la defensa del Estado, de la conservación del régimen constitucional ó de la paz interior.
+
+   Si dichas leyes señalaren penas, su aplicación se hará siempre por los tribunales establecidos.
+
    Fuera de los casos prescritos en este inciso, ninguna ley podrá dictarse para suspender ó restringir las libertades ó derechos que asegura el artículo 10.
 
 #### Artículo 28.
@@ -213,29 +257,43 @@ Son atribuciones exclusivas del Congreso:
 Sólo en virtud de una ley se puede:
 
 1. Imponer contribuciones de cualesquiera clase ó naturaleza, suprimir las existentes, y determinar en caso necesario su repartimiento entre las provincias ó departamentos.
+
 2. Fijar anualmente los gastos de la administración pública.
-3. Fijar igualmente en cada año las fuerzas de mar y tierra que han de mantenerse en pié en tiempo de paz ó de guerra.\
-   Las contribuciones se decretan por solo el tiempo de dieziocho meses, y las fuerzas de mar y tierra se fijan solo por igual término.
+
+3. Fijar igualmente en cada año las fuerzas de mar y tierra que han de mantenerse en pié en tiempo de paz ó de guerra.
+
+    Las contribuciones se decretan por solo el tiempo de dieziocho meses, y las fuerzas de mar y tierra se fijan solo por igual término.
+
 4. Contraer deudas, reconocer las contraídas hasta el día, y designar fondos para cubrirlas.
+
 5. Crear nuevas provincias ó departamentos; arreglar sus límites; habilitar puertos mayores, y establecer aduanas.
+
 6. Fijar el peso, ley, valor, tipo y denominación de las monedas; y arreglar el sistema de pesos y medidas.
+
 7. Permitir la introducción de tropas extranjeras en el territorio de la República, determinando el tiempo de su permanencia en el.
+
 8. Permitir que residan cuerpos del ejército permanente en el lugar de las sesiones del Congreso, y diez leguas á su circunferencia.
+
 9. Permitir la salida de tropas nacionales fuera del territorio de la República, señalando el tiempo de su regreso.
+
 10. Crear ó suprimir empleos públicos; determinar ó modificar sus atribuciones; aumentar ó disminuir sus dotaciones; dar pensiones, y decretar honores públicos á los grandes servicios.
+
 11. Conceder indultos generales, ó amnistías.
+
 12. Señalar el lugar en que debe residir la Representación Nacional y tener sus sesiones el Congreso.
 
 #### Artículo 29.
 
 Son atribuciones exclusivas de la Cámara de Diputados:
+
 1. Calificar las elecciones de sus miembros, conocer sobre los reclamos de nulidad que ocurran acerca de ellas, y admitir su dimisión, si los motivos en que la fundaren, fueren de tal naturaleza que los imposibilitaren física ó moralmente para el ejercicio de sus funciones. Para calificar los motivos deben concurrir las tres cuartas partes de los Diputados presentes.
+
 2. Acusar ante el Senado, cuando hallare por conveniente hacer efectiva la responsabilidad de los siguientes funcionarios:
 
-    > Á los Ministros del despacho, y á los Consejeros de Estado en la forma, y por los crímenes señalados en los artículos 83, 84, 85, 86, 87, 88 y 98.\
-    Á los generales de un ejército ó armada por haber comprometido gravemente la seguridad y el honor de la Nación; y en la misma forma que á los Ministros del despacho y Consejeros de Estado.\
-    Á los miembros de la Comisión Conservadora por grave omisión en el cumplimiento del deber que le impone la parte 2.a del artículo 49.\
-    Á los Intendentes de las provincias por los crímenes de traición, sedición, infracción de la Constitución, malversación de los fondos públicos y concusión.\
+    Á los Ministros del despacho, y á los Consejeros de Estado en la forma, y por los crímenes señalados en los artículos 83, 84, 85, 86, 87, 88 y 98.  
+    Á los generales de un ejército ó armada por haber comprometido gravemente la seguridad y el honor de la Nación; y en la misma forma que á los Ministros del despacho y Consejeros de Estado.  
+    Á los miembros de la Comisión Conservadora por grave omisión en el cumplimiento del deber que le impone la parte 2.a del artículo 49.  
+    Á los Intendentes de las provincias por los crímenes de traición, sedición, infracción de la Constitución, malversación de los fondos públicos y concusión.  
     Á los magistrados de los Tribunales superiores de justicia por notable abandono de sus deberes.
 
 En los tres últimos casos la Cámara de Diputados declara primeramente si há lugar ó no, á admitir la proposición de acusación, y después, con intervalo de seis días, si há lugar á la acusación, oyendo previamente el informe de una comisión de cinco individuos de su seno elegida á la suerte. Si resultare la afirmativa nombrará dos Diputados que la formalicen y prosigan ante el Senado.
@@ -245,8 +303,11 @@ En los tres últimos casos la Cámara de Diputados declara primeramente si há l
 Son atribuciones de la Cámara de Senadores:
 
 1. Calificar las elecciones de sus miembros; conocer en los reclamos de nulidad que se interpusieren acerca de ellas, y admitir su dimisión si los motivos en que la fundaren, fueren de tal naturaleza que los imposibilitaren física ó moralmente para el desempeño de estos cargos. No podrán calificarse los motivos sin que concurran las tres cuartas partes de los Senadores presentes.
+
 2. Juzgar á los funcionarios que acusare la Cámara de Diputados con arreglo á lo prevenido en los artículos 29 y 89.
+
 3. Aprobar las personas que el Presidente de la República presentare para los Arzobispados y Obispados.
+
 4. Prestar ó negar su consentimiento á los actos del Gobierno en los casos en que la Constitución lo requiere.
 
 ### De la formación de las leyes
@@ -342,15 +403,22 @@ La Comisión Conservadora, en representación del Congreso, ejerce la supervigil
 Le corresponde, en consecuencia:
 
 1. Velar por la observancia de la Constitución y de las leyes, y prestar protección á las garantías individuales;
-2. Dirigir al Presidente de la República las representaciones conducentes á los objetos indicados, y reiterarlas por segunda vez, si no hubieren bastado las primeras.\
-   Cuando las representaciones tuvieren por fundamento abusos ó atentados cometidos por autoridades que dependan del Presidente de la República, y este no tomare las medidas que estén en sus facultades para poner término al abuso y para el castigo del funcionario culpable, se entenderá que el Presidente de la República y el Ministro del ramo respectivo, aceptan la responsabilidad de los actos de la autoridad subalterna, como si se hubiesen ejecutado por su orden ó con su consentimiento;
+
+2. Dirigir al Presidente de la República las representaciones conducentes á los objetos indicados, y reiterarlas por segunda vez, si no hubieren bastado las primeras.
+
+    Cuando las representaciones tuvieren por fundamento abusos ó atentados cometidos por autoridades que dependan del Presidente de la República, y este no tomare las medidas que estén en sus facultades para poner término al abuso y para el castigo del funcionario culpable, se entenderá que el Presidente de la República y el Ministro del ramo respectivo, aceptan la responsabilidad de los actos de la autoridad subalterna, como si se hubiesen ejecutado por su orden ó con su consentimiento;
+
 3. Prestar ó rehusar su consentimiento á los actos del Presidente de la República á que, según lo prevenido en esta Constitución, debe proceder de acuerdo con la Comisión Conservadora;
+
 4. Convocar al Congreso a sesiones estraordinarias cuando lo estimare conveniente, o cuando la mayoría de ámbas Cámaras lo pidiere por escrito;
+
 5. Dar cuenta al Congreso en su primera reunión, de las medidas que hubiere tomado en desempeño de su cargo.
 
 La Comisión es responsable al Congreso de su omisión en el cumplimiento de los deberes que los incisos precedentes le imponen.
 
+
 ## Capítulo VI. Del Presidente de la República
+
 
 #### Artículo 50.
 
@@ -361,7 +429,9 @@ Un ciudadano con el título de Presidente de la República de Chile administra e
 Para ser Presidente de la República se requiere:
 
 1. Haber nacido en el territorio de Chile;
+
 2. Tener las calidades necesarias para ser miembro de la Cámara de Diputados;
+
 3. Treinta años de edad, á lo menos.
 
 #### Artículo 52.
@@ -444,7 +514,7 @@ Cuando en los casos de los artículos 65 y 69 hubiere de procederse á la elecci
 
 El Presidente electo, al tomar posesión del cargo, prestará en manos del Presidente del Senado, reunidas ambas Cámaras en la Sala del Senado, el juramento siguiente:
 
-Yo N. N.  juro por Dios nuestro Señor y estos santos evangelios que desempeñaré fielmente el cargo de Presidente de la República; que observaré y protegeré la Religión Católica, Apostólica, Romana; que conservaré la integridad é independencia de la República, y que guardaré y haré guardar la Constitución y las leyes. Así Dios me ayude, y sea en mi defensa, y si no, me lo demande.
+Yo N. N. juro por Dios nuestro Señor y estos santos evangelios que desempeñaré fielmente el cargo de Presidente de la República; que observaré y protegeré la Religión Católica, Apostólica, Romana; que conservaré la integridad é independencia de la República, y que guardaré y haré guardar la Constitución y las leyes. Así Dios me ayude, y sea en mi defensa, y si no, me lo demande.
 
 #### Artículo 72.
 
@@ -455,27 +525,49 @@ Al Presidente de la República está confiada la administración y gobierno del 
 Son atribuciones especiales del Presidente:
 
 1. Concurrir á la formación de las leyes con arreglo á la Constitución; sancionarlas y promulgarlas.
+
 2. Expedir los decretos, reglamentos é instrucciones que crea convenientes para la ejecución de las leyes.
+
 3. Velar por la conducta ministerial de los jueces y demás empleados del orden judicial, pudiendo, al efecto, requerir al ministerio público para que reclame medidas disciplinarias del tribunal competente, ó para que, si hubiere mérito bastante, entable la correspondiente acusación.
+
 4. Prorrogar las sesiones ordinarias del Congreso hasta cincuenta días.
+
 5. Convocarlo á sesiones extraordinarias, con acuerdo del Consejo de Estado.
-6. Nombrar y remover á su voluntad á los Ministros del Despacho y oficiales de sus secretarías, á los Consejeros de Estado de su elección, á los Ministros diplomáticos, á los Cónsules y demás agentes exteriores, á los Intendentes de provincia y á los Gobernadores de plaza.\
+
+6. Nombrar y remover á su voluntad á los Ministros del Despacho y oficiales de sus secretarías, á los Consejeros de Estado de su elección, á los Ministros diplomáticos, á los Cónsules y demás agentes exteriores, á los Intendentes de provincia y á los Gobernadores de plaza.
+
    El nombramiento de los Ministros Diplomáticos deberá someterse a la aprobación del Senado, o en su receso, al de la Comisión Conservadora.
+
 7. Nombrar los magistrados de los tribunales superiores de justicia, y los jueces letrados de primera instancia á propuesta del Consejo de Estado, conforme á la parte 2. del artículo 95.
+
 8. Presentar para los Arzobispados, Obispados, dignidades y prebendas de las Iglesias catedrales, á propuesta en terna del Consejo de Estado.-La persona en quien recayere la elección del Presidente para Arzobispo ú Obispo, debe además obtener la aprobación del Senado.
+
 9. Proveer los demás empleos civiles y militares, procediendo con acuerdo del Senado, y en el receso de éste, con el de la Comisión Conservadora, para conferir los empleos ó grados de coroneles, capitanes de navío, y demás oficiales superiores del ejército y armada. En el campo de batalla podrá conferir estos empleos militares superiores por sí solo.
+
 10. Destituir á los empleados por ineptitud, ú otro motivo que haga inútil ó perjudicial su servicio; pero con acuerdo del Senado, y en su receso con el de la Comisión Conservadora, si son jefes de oficinas ó empleados superiores; y con informe del respectivo jefe, si son empleados subalternos.
+
 11. Conceder jubilaciones, retiros, licencias y goce de montepío con arreglo á las leyes.
+
 12. Cuidar de la recaudación de las rentas públicas, y decretar su inversión con arreglo á la ley.
+
 13. Ejercer las atribuciones del patronato respecto de las iglesias, beneficios y personas eclesiásticas, con arreglo á las leyes.
+
 14. Conceder el pase, ó retener los decretos conciliares, bulas pontificias, breves y rescriptos con acuerdo del Consejo de Estado; pero si contuviesen disposiciones generales solo podrá concederse el pase ó retenerse por medio de una ley.
+
 15. Conceder indultos particulares con acuerdo del Consejo de Estado.-Los Ministros, Consejeros de Estado, miembros de la Comisión Conservadora, Generales en jefe, é Intendentes de provincia, acusados por la Cámara de Diputados, y juzgados por el Senado, no pueden ser indultados sino por el Congreso.
+
 16. Disponer de la fuerza de mar y tierra, organizaría y distribuirla, según lo hallare por conveniente.
+
 17. Mandar personalmente las fuerzas de mar y tierra, con acuerdo del Senado, y en su receso con el de la Comisión Conservadora. En este caso, el Presidente de la República podrá residir en cualquiera parte del territorio ocupado por las armas chilenas.
+
 18. Declarar la guerra con previa aprobación del Congreso, y conceder patentes de corso y letras de represalia.
+
 19. Mantener las relaciones políticas con las potencias extranjeras, recibir sus ministros, admitir sus cónsules, conducir las negociaciones, hacer las estipulaciones preliminares, concluir y firmar todos los tratados de paz, de alianza, de tregua, de neutralidad, de comercio, concordatos y otras convenciones.-Los tratados, antes de su ratificación, se presentarán á la aprobación del Congreso. Las discusiones y deliberaciones sobre estos objetos serán secretas, si así lo exige el Presidente de la República.
-20. Declarar en estado de sitio uno ó varios puntos de la República en caso de ataque exterior, con acuerdo del Consejo de Estado, y por un determinado tiempo.\
+
+20. Declarar en estado de sitio uno ó varios puntos de la República en caso de ataque exterior, con acuerdo del Consejo de Estado, y por un determinado tiempo.
+
     En caso de conmoción interior, la declaración de hallarse uno ó varios puntos en estado de sitio, corresponde al Congreso; pero si éste no se hallare reunido, puede el Presidente hacerla con acuerdo del Consejo de Estado, por un determinado tiempo. Si á la reunión del Congreso no hubiese expirado el término señalado, la declaración que ha hecho el Presidente de la República se tendrá por una proposición de ley.
+
 21. Todos los objetos de policía y todos los establecimientos públicos están bajo la suprema inspección del Presidente de la República conforme á las particulares ordenanzas que los rijan.
 
 #### Artículo 74.
@@ -493,6 +585,7 @@ El número de los Ministros y sus respectivos departamentos serán determinados 
 Para ser Ministro se requiere:
 
 1. Haber nacido en el territorio de la República.
+
 2. Tener las calidades que se exigen para ser miembro de la Cámara de Diputados.
 
 #### Artículo 77.
@@ -573,13 +666,13 @@ La Cámara de Diputados puede acusar á un Ministro mientras funcione, y en los 
 
 Habrá un Consejo de Estado compuesto de la manera siguiente:
 
-> De tres Consejeros elegidos por el Senado y tres por la Cámara de Diputados en la primera sesión ordinaria de cada renovación del Congreso, pudiendo ser reelegidos los mismos Consejeros cesantes. En caso de muerte ó impedimento de alguno de ellos, procederá la Cámara respectiva á nombrar el que deba subrogarle hasta la próxima renovación;\
-    De un miembro de las Cortes superiores de Justicia, residente en Santiago;\
-    De un eclesiástico constituido en dignidad;\
-    De un general de ejército ó armada;\
-    De un jefe de alguna oficina de hacienda;\
-    De un individuo que haya desempeñado los cargos de Ministro de Estado, Agente diplomático, Intendente, Gobernador ó Municipal.\
-    Estos cinco últimos Consejeros serán nombrados por el Presidente de la República.
+De tres Consejeros elegidos por el Senado y tres por la Cámara de Diputados en la primera sesión ordinaria de cada renovación del Congreso, pudiendo ser reelegidos los mismos Consejeros cesantes. En caso de muerte ó impedimento de alguno de ellos, procederá la Cámara respectiva á nombrar el que deba subrogarle hasta la próxima renovación;  
+De un miembro de las Cortes superiores de Justicia, residente en Santiago;  
+De un eclesiástico constituido en dignidad;  
+De un general de ejército ó armada;  
+De un jefe de alguna oficina de hacienda;  
+De un individuo que haya desempeñado los cargos de Ministro de Estado, Agente diplomático, Intendente, Gobernador ó Municipal.  
+Estos cinco últimos Consejeros serán nombrados por el Presidente de la República.
 
 El Consejo será presidido por el Presidente de la República, y para reemplazar á éste, nombrará de su seno un vice-Presidente que se elegirá todos los años, pudiendo ser reelegido.
 
@@ -596,12 +689,19 @@ Para ser Consejero de Estado se requieren las mismas calidades que para ser Sena
 Son atribuciones del Consejo de Estado:
 
 1. Dar su dictamen al Presidente de la República en todos los casos que lo consultare.
+
 2. Presentar al Presidente de la República en las vacantes de Jueces letrados de primera instancia, y miembros de los tribunales superiores de justicia, los individuos que juzgue mas idóneos, previas las propuestas del tribunal superior que designe la ley, y en la forma que ella ordene.
+
 3. Proponer en terna para los Arzobispados, Obispados, dignidades y prebendas de las iglesias catedrales de la República.
+
 4. Conocer en todas las materias de patronato y protección que se redujeren á contenciosas, oyendo el dictamen del tribunal superior de justicia que señale la ley.
+
 5. Conocer igualmente en las competencias entre las autoridades administrativas, y en las que ocurrieren entre éstas, y los tribunales de Justicia.
+
 6. Declarar si ha lugar, ó no, á la formación de causa en materia criminal contra los Intendentes, Gobernadores de plaza y de departamento. Exceptúase el caso en que la acusación contra los Intendentes se intentare por la Cámara de Diputados.
+
 7. Prestar su acuerdo para declarar en estado de asamblea una ó más provincias invadidas ó amenazadas en caso de guerra extranjera.
+
 8. El Consejo de Estado tiene derecho de moción para la destitución de los Ministros del despacho, Intendentes, Gobernadores y otros empleados delincuentes, ineptos ó negligentes.
 
 #### Artículo 96.
@@ -609,9 +709,13 @@ Son atribuciones del Consejo de Estado:
 El Presidente de la República propondrá á la deliberación del Consejo de Estado:
 
 1. Todos los proyectos de ley que juzgare conveniente pasar al Congreso.
+
 2. Todos los proyectos de ley que aprobados por el Senado y Cámara de Diputados pasaren al Presidente de la República para su aprobación.
+
 3. Todos los negocios en que la Constitución exija señaladamente que se oiga al Consejo de Estado.
+
 4. Los presupuestos anuales de gastos que han de pasarse al Congreso.
+
 5. Todos los negocios en que el Presidente juzgue conveniente oir el dictamen del Consejo.
 
 #### Artículo 97.
@@ -622,7 +726,9 @@ El dictamen del Consejo de Estado es puramente consultivo, salvo en los especial
 
 Los Consejeros de Estado son responsables de los dictámenes que presten al Presidente de la República contrarios á las leyes, y manifiestamente mal intencionados; y podrán ser acusados y juzgados en la forma que previenen los artículos 84 hasta 89 inclusive.
 
+
 ## Capítulo VII. De la administración de justicia
+
 
 #### Artículo 99.
 
@@ -652,7 +758,9 @@ Habrá en la República una magistratura á cuyo cargo esté la Superintendencia
 
 Una ley especial determinará la organización y atribuciones de todos los tribunales y juzgados que fueren necesarios para la pronta y cumplida administración de justicia en todo el territorio de la República.
 
+
 ## Capítulo VIII. Del gobierno y administración interior
+
 
 #### Artículo 106.
 
@@ -713,6 +821,7 @@ La ley determinará la forma de la elección de los Alcaldes, y el tiempo de su 
 Para ser Alcalde ó Regidor, se requiere:
 
 1. Ciudadanía en ejercicio.
+
 2. Cinco años, á lo menos, de vecindad en el territorio de la Municipalidad.
 
 #### Artículo 118.
@@ -724,14 +833,23 @@ El Gobernador es jefe superior de las Municipalidades del departamento, y presid
 Corresponde á las Municipalidades en sus territorios:
 
 1. Cuidar de la policía de salubridad, comodidad, ornato y recreo.
+
 2. Promover la educación, la agricultura, la industria y el comercio.
+
 3. Cuidar de las escuelas primarias y demás establecimientos de educación que se paguen de fondos municipales.
+
 4. Cuidar de los hospitales, hospicios, casas de expósitos, cárceles, casas de corrección, y demás establecimientos de beneficencia, bajo las reglas que se prescriban.
+
 5. Cuidar de la construcción y reparación de los caminos, calzadas, puentes y de todas las obras públicas de necesidad, utilidad y ornato que se costeen con fondos municipales.
+
 6. Administrar ó invertir los caudales de propios y arbitrios, conforme á las reglas que dictare la ley.
+
 7. Hacer el repartimiento de las contribuciones, reclutas y reemplazos que hubiesen cabido al territorio de la Municipalidad, en los casos en que la ley no lo haya cometido á otra autoridad, ó personas.
+
 8. Dirigir al Congreso en cada año, por el conducto del Intendente y del Presidente de la República, las peticiones que tuvieren por conveniente, ya sea sobre objetos relativos al bien general del Estado, ó al particular del departamento, especialmente para establecer propios, y ocurrir á los gastos extraordinarios que exigiesen las obras nuevas de utilidad común del departamento, ó la reparación de las antiguas.
+
 9. Proponer al Gobierno Supremo, ó al superior de la provincia, ó al del departamento, las medidas administrativas conducentes al bien general del mismo departamento.
+
 10. Formar las ordenanzas municipales sobre estos objetos, y presentarlas por el conducto del Intendente al Presidente de la República para su aprobación con audiencia del Consejo de Estado.
 
 #### Artículo 120.
@@ -746,7 +864,9 @@ Todos los empleos municipales son cargas consejiles, de que nadie podrá escusar
 
 Una ley especial arreglará el gobierno interior, señalando las atribuciones de todos los encargados de la administración provincial, y el modo de ejercer sus funciones.
 
+
 ## Capítulo IX. De las garantías de la seguridad y propiedad
+
 
 #### Artículo 123.
 
@@ -832,7 +952,9 @@ Ninguna clase de trabajo ó industria puede ser prohibida, á, menos que se opon
 
 Todo autor ó inventor tendrá la propiedad exclusiva de su descubrimiento, ó producción, por el tiempo que le concediere la ley; y si ésta exigiere su publicación, se dará al inventor la indemnización competente.
 
+
 ## Capítulo X. Disposiciones generales
+
 
 #### Artículo 144.
 
@@ -871,6 +993,7 @@ Ninguna magistratura, ninguna persona, ni reunión de personas pueden atribuirse
 Cuando uno ó varios puntos de la República fueren declarados en estado de sitio, en conformidad á lo dispuesto en la parte 20. del artículo 73, por semejante declaración sólo se conceden al Presidente de la República las siguientes facultades:
 
 1. La de arrestar á las personas en sus propias casas ó en lugares que no sean cárceles ni otros que estén destinados á la detención ó prisión de reos comunes;
+
 2. La de trasladar á las personas de un departamento á otro de la República dentro del continente y en una área comprendida entre el puerto de Caldera al norte y la provincia de Llanquihue al sur.
 
 Las medidas que tome el Presidente de la República en virtud del sitio, no tendrán mas duración que la de éste, sin que por ellas se puedan violar las garantías constitucionales concedidas á los Senadores y Diputados.
@@ -879,7 +1002,9 @@ Las medidas que tome el Presidente de la República en virtud del sitio, no tend
 
 Las vinculaciones de cualquiera clase que sean, tanto las establecidas hasta aquí, como las que en adelante se establecieren, no impiden la libre enajenación de las propiedades sobre que descansan, asegurándose á los sucesores llamados por la respectiva institución el valor de las que se enajenaren. Una ley particular arreglará el modo de hacer efectiva esta disposición.
 
+
 ## Capítulo XI. De la observancia y reforma de la Constitución
+
 
 #### Artículo 154.
 
@@ -931,7 +1056,9 @@ El Congreso llamado á deliberar sobre la ratificación de las reformas propuest
 
 En todo caso, las Cámaras podrán deliberar sobre la ratificación de las reformas propuestas en las sesiones extraordinarias á que hubieren sido convocadas por el Presidente de la República, aún cuando ese negocio no hubiere sido incluido en la convocatoria.
 
+
 ## Artículo Transitorio
+
 
 Los Senadores y Diputados suplentes que sean elegidos con arreglo á las disposiciones constitucionales vigentes, durarán en sus funciones hasta la primera renovación de la Cámara de Diputados.
 

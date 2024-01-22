@@ -8,9 +8,12 @@ fontfamilyoptions: sfdefault
 
 # CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE CHILE
 
+
 ## Preámbulo
 
+
 *Nosotras y nosotros, el pueblo de Chile, conformado por diversas naciones, nos otorgamos libremente esta Constitución, acordada en un proceso participativo, paritario y democrático.*
+
 
 ## Capítulo I - Principios y Disposiciones Generales
 
@@ -91,7 +94,6 @@ El Estado reconoce y promueve el diálogo intercultural, horizontal y transversa
 
 1. Las relaciones internacionales de Chile, como expresión de su soberanía, se fundan en el respeto al derecho internacional y a los principios de autodeterminación de los pueblos, no intervención en asuntos que son de la jurisdicción interna de los Estados, multilateralismo, solidaridad, cooperación, autonomía política e igualdad jurídica entre los Estados.
 
-
 2. De igual forma, se compromete con la promoción y el respeto de la democracia, el reconocimiento y protección de los derechos humanos, la inclusión, la igualdad de género, la justicia social, el respeto a la naturaleza, la paz, la convivencia y la solución pacífica de los conflictos y con el reconocimiento, el respeto y la promoción de los derechos de los pueblos y naciones indígenas y tribales conforme al derecho internacional de los derechos humanos.
 
 3. Chile declara a América Latina y el Caribe como zona prioritaria en sus relaciones internacionales. Se compromete con el mantenimiento de la región como una zona de paz y libre de violencia; impulsa la integración regional, política, social, cultural, económica y productiva entre los Estados, y facilita el contacto y la cooperación transfronteriza entre pueblos indígenas.
@@ -147,7 +149,6 @@ El Estado reconoce y promueve el diálogo intercultural, horizontal y transversa
 #### Artículo 21
 
 1. Toda persona tiene derecho a la vida y a la integridad personal. Esta comprende la integridad física, psicosocial, sexual y afectiva.
-
 
 2. Ninguna persona puede ser condenada a muerte o ejecutada, sometida a torturas, ni penas o tratos crueles, inhumanos o degradantes.
 
@@ -348,7 +349,9 @@ Quienes integran las comunidades educativas tienen derecho a participar en las d
 8. Es deber del Estado velar por el fortalecimiento y desarrollo de las instituciones públicas de salud.
 
 9. El Sistema Nacional de Salud es financiado a través de las rentas generales de la nación. Adicionalmente, la ley podrá establecer cotizaciones obligatorias a empleadoras, empleadores, trabajadoras y trabajadores con el solo objeto de aportar solidariamente al financiamiento de este sistema. La ley determinará el órgano público encargado de la administración del conjunto de los fondos de este sistema.
+
 10. El Sistema Nacional de Salud incorpora acciones de promoción, prevención, diagnóstico, tratamiento, habilitación, rehabilitación e inclusión. La atención primaria constituye la base de este sistema y se promueve la participación de las comunidades en las políticas de salud y las condiciones para su ejercicio efectivo.
+
 11. El Estado generará políticas y programas de salud mental destinados a la atención y prevención con enfoque comunitario y aumentará progresivamente su financiamiento.
 
 #### Artículo 45
@@ -1632,7 +1635,7 @@ La comuna autónoma cuenta con las potestades y competencias de autogobierno par
 
 \item[n)] La planificación del territorio mediante el plan regulador comunal acordado de forma participativa con la comunidad de su respectivo territorio.
 
-\item[\~{n})] El fomento de las actividades productivas.
+\item[ñ)] El fomento de las actividades productivas.
 
 \item[o)] El fomento del comercio local.
 
@@ -1778,7 +1781,7 @@ Son competencias de la región autónoma:
 
 \item[n)] El fomento y la protección de las culturas, las artes, el patrimonio histórico, inmaterial arqueológico, lingüístico y arquitectónico; y la formación artística en su territorio.
 
-\item[\~{n})] Ejecutar las obras públicas de interés en el territorio de la región autónoma.
+\item[ñ)] Ejecutar las obras públicas de interés en el territorio de la región autónoma.
 
 \item[o)] La planificación e implementación de la conectividad física y digital.
 
@@ -1850,7 +1853,7 @@ Son atribuciones esenciales de los gobiernos regionales las siguientes:
 
 \item[n)] Ejercer competencias fiscales propias conforme a la Constitución y la ley.
 
-\item[\~{n})] Celebrar y ejecutar convenios con los gobiernos de otras regiones autónomas para efectos de implementar programas y políticas públicas interregionales, así como toda otra forma de asociatividad territorial.
+\item[ñ)] Celebrar y ejecutar convenios con los gobiernos de otras regiones autónomas para efectos de implementar programas y políticas públicas interregionales, así como toda otra forma de asociatividad territorial.
 
 \item[o)] Celebrar y ejecutar acciones de cooperación internacional, dentro de los marcos establecidos por los tratados y convenios que el país celebre al efecto y conforme a los procedimientos regulados en la ley.
 
@@ -1898,7 +1901,7 @@ Son atribuciones de la asamblea regional:
 
 \item[n)] Pronunciarse sobre la convocatoria a consultas o plebiscitos regionales.
 
-\item[\~{n})] Aprobar, a propuesta de la gobernadora o del gobernador regional y previa ratificación de la Cámara de las Regiones, la creación de empresas públicas regionales o la participación en empresas regionales.
+\item[ñ)] Aprobar, a propuesta de la gobernadora o del gobernador regional y previa ratificación de la Cámara de las Regiones, la creación de empresas públicas regionales o la participación en empresas regionales.
 
 \item[o)] Las demás atribuciones que determinen la Constitución y la ley.
 \end{itemize}
@@ -2205,33 +2208,33 @@ f) Las otras que establezca la Constitución.
 
 1. No pueden postular al Congreso de Diputadas y Diputados ni a la Cámara de las Regiones:
 
-a) Quien ejerza la Presidencia de la República o quien le subrogue en el ejercicio de la Presidencia al tiempo de la elección.
+    a) Quien ejerza la Presidencia de la República o quien le subrogue en el ejercicio de la Presidencia al tiempo de la elección.
 
-b) Las ministras y los ministros de Estado y las subsecretarias y los subsecretarios.
+    b) Las ministras y los ministros de Estado y las subsecretarias y los subsecretarios.
 
-c) Las autoridades regionales y comunales de elección popular.
+    c) Las autoridades regionales y comunales de elección popular.
 
-d) Las consejeras y los consejeros del Banco Central.
+    d) Las consejeras y los consejeros del Banco Central.
 
-e) Las consejeras y los consejeros del Consejo Directivo del Servicio Electoral.
+    e) Las consejeras y los consejeros del Consejo Directivo del Servicio Electoral.
 
-f) Quienes desempeñen cargos superiores o directivos en los órganos autónomos.
+    f) Quienes desempeñen cargos superiores o directivos en los órganos autónomos.
 
-g) Quienes ejerzan jurisdicción en los Sistemas de Justicia.
+    g) Quienes ejerzan jurisdicción en los Sistemas de Justicia.
 
-h) Quienes integren la Corte Constitucional.
+    h) Quienes integren la Corte Constitucional.
 
-i) Quienes integren el Tribunal Calificador de Elecciones y los tribunales electorales regionales.
+    i) Quienes integren el Tribunal Calificador de Elecciones y los tribunales electorales regionales.
 
-j) La contralora o el contralor general de la república.
+    j) La contralora o el contralor general de la república.
 
-k) Quienes ejerzan los cargos de fiscal nacional, fiscales regionales o fiscales adjuntos del Ministerio Público.
+    k) Quienes ejerzan los cargos de fiscal nacional, fiscales regionales o fiscales adjuntos del Ministerio Público.
 
-l) Las funcionarias o los funcionarios en servicio activo de las policías.
+    l) Las funcionarias o los funcionarios en servicio activo de las policías.
 
-m) Las personas naturales o administradores de personas jurídicas que celebren o caucionen contratos con el Estado.
+    m) Las personas naturales o administradores de personas jurídicas que celebren o caucionen contratos con el Estado.
 
-n) Las y los militares en servicio activo.
+    n) Las y los militares en servicio activo.
 
 2. Las inhabilidades establecidas en este artículo serán aplicables a quienes hayan tenido las calidades o cargos antes mencionados dentro del año inmediatamente anterior a la elección, excepto respecto de las personas mencionadas en la letra m), las que no deberán reunir esas condiciones al momento de inscribir su candidatura, y de las indicadas en las letras k), l) y n), respecto de las cuales el plazo de la inhabilidad será de los dos años inmediatamente anteriores a la elección.
 
@@ -2328,7 +2331,7 @@ Solo en virtud de una ley se puede:
 
 \item[n)] Establecer el régimen jurídico aplicable en materia laboral, sindical, de la huelga y la negociación colectiva en sus diversas manifestaciones, previsional y de seguridad social.
 
-\item[\~{n})] Crear loterías y apuestas.
+\item[ñ)] Crear loterías y apuestas.
 
 \item[o)] Regular aquellas materias que la Constitución señale como leyes de concurrencia presidencial necesaria.
 
@@ -2412,7 +2415,7 @@ f) Regular las capacidades de la defensa nacional, permitir la entrada de tropas
 
     \item[n)] Las que deleguen potestades legislativas a las regiones autónomas en conformidad con la Constitución.
 
-    \item[\~{n})] Las que regulen la planificación territorial y urbanística y su ejecución.
+    \item[ñ)] Las que regulen la planificación territorial y urbanística y su ejecución.
 
     \item[o)] Las que regulen la protección del medioambiente.
 
@@ -2526,6 +2529,7 @@ Las leyes referidas a la organización, el funcionamiento y los procedimientos d
 
 ## Capítulo VIII - Poder Ejecutivo
 
+
 #### Artículo 279
 
 1. El gobierno y la administración del Estado corresponden a la Presidenta o al Presidente de la República, quien ejerce la jefatura de Estado y la jefatura de Gobierno.
@@ -2621,7 +2625,7 @@ Son atribuciones de quien ejerce la Presidencia de la República:
 
 \item[n)] Conceder indultos particulares, salvo en crímenes de guerra y de lesa humanidad.
 
-\item[\~{n})] Velar por la recaudación de las rentas públicas y decretar su inversión con arreglo a la ley. La Presidenta o el Presidente de la República, con la firma de todas las ministras y los ministros de Estado, podrá decretar pagos no autorizados por ley, para atender necesidades impostergables derivadas de calamidades públicas, agresión exterior, conmoción interior, grave daño o peligro para la seguridad del país o el agotamiento de los recursos destinados a mantener servicios que no puedan paralizarse sin serio perjuicio para el país. El total de los giros que se hagan con estos objetos no podrá exceder anualmente del dos por ciento (2\%) del monto de los gastos que autorice la Ley de Presupuestos. Se podrá contratar empleados con cargo a esta misma ley, pero sin que el ítem respectivo pueda ser incrementado ni disminuido mediante traspasos. Las ministras y los ministros de Estado o funcionarios que autoricen o den curso a gastos que contravengan lo dispuesto en esta letra serán responsables, solidaria y personalmente, de su reintegro, y culpables del delito de malversación de caudales públicos.
+\item[ñ)] Velar por la recaudación de las rentas públicas y decretar su inversión con arreglo a la ley. La Presidenta o el Presidente de la República, con la firma de todas las ministras y los ministros de Estado, podrá decretar pagos no autorizados por ley, para atender necesidades impostergables derivadas de calamidades públicas, agresión exterior, conmoción interior, grave daño o peligro para la seguridad del país o el agotamiento de los recursos destinados a mantener servicios que no puedan paralizarse sin serio perjuicio para el país. El total de los giros que se hagan con estos objetos no podrá exceder anualmente del dos por ciento (2\%) del monto de los gastos que autorice la Ley de Presupuestos. Se podrá contratar empleados con cargo a esta misma ley, pero sin que el ítem respectivo pueda ser incrementado ni disminuido mediante traspasos. Las ministras y los ministros de Estado o funcionarios que autoricen o den curso a gastos que contravengan lo dispuesto en esta letra serán responsables, solidaria y personalmente, de su reintegro, y culpables del delito de malversación de caudales públicos.
 
 \item[o)] Convocar referendos, plebiscitos y consultas en los casos previstos en esta Constitución.
 
@@ -2793,6 +2797,7 @@ La designación de quienes representen a los ministerios y servicios públicos c
 5. Las medidas que se adopten durante los estados de excepción no podrán, bajo ninguna circunstancia, prolongarse más allá de su vigencia.
 
 #### Artículo 304
+
 1. La ley regulará los estados de excepción, su declaración y la aplicación de las medidas legales y administrativas que procediera adoptar bajo ellos, en todo lo no regulado por esta Constitución. Dicha ley no podrá afectar las competencias y el funcionamiento de los órganos constitucionales, ni los derechos ni las inmunidades de sus respectivos titulares.
 
 2. Asimismo, esta ley regulará el modo en el que la Presidenta o el Presidente de la República y las autoridades que este encomiende rendirán cuenta detallada, veraz y oportuna al Congreso de Diputadas y Diputados de las medidas adoptadas y de los planes para la superación de la situación de excepción, así como de los hechos de gravedad que hubieran surgido con ocasión del estado de excepción constitucional. La omisión de este deber de rendición de cuentas se considerará una infracción a la Constitución.

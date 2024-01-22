@@ -38,6 +38,7 @@ Luis Rojas Gallardo
 
 \newpage
 
+
 ## CAPITULO I FUNDAMENTOS DEL ORDEN CONSTITUCIONAL
 
 
@@ -63,7 +64,7 @@ Luis Rojas Gallardo
 
 1. Chile adopta para su gobierno la república democrática, con separación de poderes y régimen presidencial. La soberanía reside en el pueblo y se ejerce por este a través de elecciones periódicas, referendos, plebiscitos, mecanismos de participación y también de las autoridades que esta Constitución establece. Ningún individuo o grupo puede atribuirse su ejercicio.
 
-2. La ley asegurará el acceso igualitario de mujeres y hombres a los mandatos electorales y cargos electivos y promoverá su participación en condiciones de igualdad en los distintos ámbitos de la vida nacional. El Estado garantizará el ejercicio de la participación política de las  mujeres.
+2. La ley asegurará el acceso igualitario de mujeres y hombres a los mandatos electorales y cargos electivos y promoverá su participación en condiciones de igualdad en los distintos ámbitos de la vida nacional. El Estado garantizará el ejercicio de la participación política de las mujeres.
 
 #### Artículo 5
 
@@ -1135,7 +1136,7 @@ Solo son materias de ley:
 
 \item[n)] Las que modifiquen la forma o características de los emblemas nacionales.
 
-\item[\~{n})] Las que regulen honores públicos a los grandes servidores.
+\item[ñ)] Las que regulen honores públicos a los grandes servidores.
 
 \item[o)] Las que fijen las fuerzas de aire, mar y tierra que han de mantenerse en pie en tiempo de paz o de guerra, y las normas para permitir la entrada de tropas extranjeras en el territorio de la República, como, asimismo, la salida de tropas nacionales fuera de él.
 
@@ -1418,7 +1419,7 @@ Son atribuciones especiales del Presidente de la República:
 
 \item[n)] Conducir las relaciones políticas con otras naciones y organizaciones internacionales, y llevar a cabo las negociaciones; concluir, firmar y ratificar los tratados que estime convenientes para los intereses del país, los que deberán ser sometidos a la aprobación del Congreso conforme a lo prescrito en el artículo 61, requiriendo también, y en todo caso, la aprobación del Congreso para denunciar, retirar o terminar de común acuerdo un tratado internacional que ya haya sido aprobado por este. Las discusiones y deliberaciones sobre estos objetos podrán ser declaradas reservadas o secretas si el Presidente de la República así lo exigiere.
 
-\item[\~{n})] Disponer de las fuerzas de aire, mar y tierra, organizarlas y distribuirlas de acuerdo con las necesidades de la seguridad de la Nación.
+\item[ñ)] Disponer de las fuerzas de aire, mar y tierra, organizarlas y distribuirlas de acuerdo con las necesidades de la seguridad de la Nación.
 
 \item[o)] Conducir la defensa nacional y asumir, en caso de guerra, la jefatura suprema de las Fuerzas Armadas.
 
@@ -1966,7 +1967,7 @@ Los jueces cesarán en sus funciones al cumplir setenta y cinco años de edad; o
 2. La autonomía operativa establecida en el inciso 1 quedará sujeta a los principios de probidad y transparencia, y a la fiscalización en la forma que establezca la ley institucional, la que podrá determinar otras formas de auditorías internas y externas.
 
 3. El Consejo Directivo estará integrado por:
-    
+
     a) Un ministro de la Corte Suprema, designado por esta, quien lo presidirá.
 
     b) Un ministro de Corte de Apelaciones, elegido por sus integrantes.
@@ -2117,7 +2118,7 @@ Son atribuciones de la Corte Constitucional:
 
 \item[n)] Declarar la inconstitucionalidad de los partidos políticos, de los movimientos u otras formas de organización cuyos objetivos, actos o conductas no respeten los principios básicos del régimen democrático, como asimismo aquellos que hagan uso de la violencia, la propugnen o inciten a ella. La Corte Constitucional podrá apreciar en conciencia los hechos.
 
-\item[\~{n})] Resolver las contiendas de competencia que pudieren suscitarse entre las autoridades nacionales, regionales, provinciales y comunales. La cuestión podrá ser deducida por cualquiera de las autoridades en conflicto.
+\item[ñ)] Resolver las contiendas de competencia que pudieren suscitarse entre las autoridades nacionales, regionales, provinciales y comunales. La cuestión podrá ser deducida por cualquiera de las autoridades en conflicto.
 
 \item[o)] Resolver los conflictos de competencia que se susciten entre las autoridades políticas o administrativas y los tribunales de justicia, que no correspondan al Senado. La cuestión podrá ser deducida por cualquiera de las autoridades o tribunales en conflicto.
 \end{itemize}

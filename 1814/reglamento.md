@@ -7,43 +7,57 @@ fontfamilyoptions: sfdefault
 
 # El Reglamento para el Gobierno Provisorio
 
+
 #### Artículo Primero.
+
 Las críticas circunstancias del día obligaron a concentrar el Poder Ejecutivo en un individuo, con el título de Director Supremo, por residir en él las absolutas facultades que ha tenido la Junta de Gobierno en su instalación de 18 de Septiembre de 1810.
 
 #### Artículo 2.º
+
 Por tanto, sus facultades son amplísimas e ilimitadas, a excepción de tratados de paz, declaraciones de guerra, nuevos establecimientos de comercio y pechos o contribuciones públicas generales, en que necesariamente deberá consultarse y acordarse con el Senado.
 
 #### Artículo 3.º
+
 Su tratamiento será el de Excelencia, y usará para distintivo una banda de color encarnado con flecos de oro, según acordó la Junta de Corporaciones.
 
 #### Artículo 4.º
+
 La escolta y honores deberán ser de un Capitán General, sin que, por motivo alguno, pueda dejar de usar de ellos, por ceder en desdoro de la alta dignidad y empleo que se le ha conferido.
 
 #### Artículo 5.º
+
 La duración será de 18 meses, y concluido este término, la Municipalidad, que para entonces deberá estar dirigida por el pueblo, uniéndose al Senado, acordará sobre su continuación o nueva elección.
 
 #### Artículo 6.º
+
 Ésta deberá hacerse por aquella autoridad en que se hallare concentrado el poder y representación del pueblo.
 
 #### Artículo 7.º
+
 En caso de ausencia o enfermedad, sucederá el Gobernador-Intendente de provincia, y lo mismo por su fallecimiento, mientras se procede a nuevas elecciones, que no deberán demorar más de tres días después de publicada su muerte.
 
 #### Artículo 8.º
+
 Concluido el término de su gobierno, quedará sujeto a residencia, y el juez de ella será elegido por el Congreso, si está convocado o próximo a convocarse, y de no, por las corporaciones.
 
 #### Artículo 9.º
+
 Por ahora, atendidas las circunstancias del erario, solo gozará el sueldo de cuatro mil pesos, que se le enterarán sin descuento con cese de otro por razón de empleo o grado, y con calidad de aumentarlo a proporción de la dignidad y distinción del empleo.
 
 #### Artículo 10.
+
 El Intendente de Provincia despachará, como hasta ahora, con su asesor, que será también Auditor de Guerra. Su duración, la del Supremo Director; el sueldo, dos mil pesos; uno y otro con la misma calidad; su asiento en Cabildo, presidiéndolo. El Excelentísimo señor Director despachará con sus tres secretarios de gobierno, hacienda y guerra, elegidos en Junta de Corporaciones.
 
 #### Artículo 11.
+
 La duración de estos empleos como la del Asesor y Auditor de Guerra, será de cinco años, al menos que por algún justo motivo deban ser removidos, sin que haya inconveniente para reelegirlos según sus méritos.
 
 #### Artículo 12.
+
 El sueldo de éstos será por ahora de un mil doscientos pesos, sin descuento alguno; y en el caso que la patria pague del fondo público alguno de estos empleados por otro motivo, se le enterará aquella cantidad sobre el sueldo que goce.
 
 #### Artículo 13.
+
 El asiento en funciones públicas será el de huéspedes en Cabildo, entre las justicias ordinarias.
 
 ### Del Senado Consultivo

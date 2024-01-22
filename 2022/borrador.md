@@ -7,6 +7,7 @@ fontfamilyoptions: sfdefault
 ---
 
 * Este documento es un consolidado que reúne las normas aprobadas por el Pleno de la Convención Constitucional, ordenadas por comisión. La relación de números de los artículos obedece a lo dispuesto en los respectivos informes y no es el orden definitivo, ya que ese proceso deberá ser realizado por la Comisión de Armonización.
+
 * Este documento se actualizará periódicamente.
 
 # CONSOLIDADO NORMAS APROBADAS PARA LA PROPUESTA CONSTITUCIONAL POR EL PLENO DE LA CONVENCIÓN
@@ -78,8 +79,11 @@ El Congreso está integrado por un número no inferior a 155 miembros electos en
 Son atribuciones exclusivas del Congreso de Diputadas y Diputados:
 
 a) Fiscalizar los actos del Gobierno. El Congreso tendrá la facultad de solicitar información relativa al contenido y fundamentos de los actos de gobierno;
+
 c) Declarar, cuando la Presidenta o Presidente presente la renuncia a su cargo, si los motivos que la originan son o no fundados y, en consecuencia, admitirla o desecharla;
+
 d) Otorgar su acuerdo para que la Presidenta o Presidente de la República pueda ausentarse del país por más de treinta días o a contar desde el tercer domingo de noviembre del año anterior a aquel en que deba cesar en el cargo el que esté en funciones, y
+
 e) Las otras que establezca la Constitución.
 
 #### 10.- Artículo 8.-
@@ -87,8 +91,11 @@ e) Las otras que establezca la Constitución.
 El Congreso de Diputadas y Diputados tendrá por función fiscalizar los actos del Gobierno. Para ejercer esta atribución puede:
 
 a) Adoptar acuerdos o sugerir observaciones, los que se transmitirán por escrito a la o el Presidente de la República. Dentro de los treinta días contados desde su comunicación, la o el Presidente deberá dar respuesta fundada por medio de la o el Ministro de Estado que corresponda.
-b) Solicitar antecedentes a la o el Presidente de la República, con el patrocinio de un cuarto de sus miembros. La o el Presidente deberá contestar fundadamente por medio del Ministro o Ministra de Estado que corresponda dentro de los tres días desde su comunicación.\
-En ningún caso estos actos afectarán la responsabilidad política de las y los Ministros de Estado.
+
+b) Solicitar antecedentes a la o el Presidente de la República, con el patrocinio de un cuarto de sus miembros. La o el Presidente deberá contestar fundadamente por medio del Ministro o Ministra de Estado que corresponda dentro de los tres días desde su comunicación.
+
+    En ningún caso estos actos afectarán la responsabilidad política de las y los Ministros de Estado.
+
 c) Crear comisiones especiales investigadoras a petición de a lo menos dos quintos de las diputadas y diputados en ejercicio, con el objeto de reunir informaciones relativas a determinados actos del Gobierno. Las comisiones investigadoras, a petición de un tercio de sus miembros, podrán despachar citaciones y solicitar antecedentes. Toda persona que sea citada por estas comisiones estará obligada a comparecer y a suministrar los antecedentes y las informaciones que se le soliciten. No obstante, una misma comisión investigadora no podrá citar más de tres veces a la misma persona, sin previo acuerdo de la mayoría de sus integrantes.
 
 ### De la Cámara de las Regiones
@@ -114,9 +121,13 @@ La Cámara de las Regiones no podrá fiscalizar los actos del Gobierno ni de las
 Es atribución exclusiva del Congreso de las Diputadas y Diputados declarar si han o no lugar las acusaciones que no menos de diez ni más de veinte de sus integrantes formulen en contra de:
 
 a) La Presidenta o Presidente de la República, por actos de su administración que hayan comprometido gravemente el honor o la seguridad de la Nación, o infringido abiertamente la Constitución o las leyes. Esta acusación podrá interponerse mientras la Presidenta o Presidente esté en funciones y en los seis meses siguientes a su expiración en el cargo. Durante este último tiempo no podrá ausentarse de la República sin acuerdo del Congreso de las Diputadas y Diputados;
+
 b) Las Ministras y Ministros de Estado, por haber comprometido gravemente el honor o la seguridad de la Nación, por infringir la Constitución o las leyes o haber dejado éstas sin ejecución, y por los delitos de traición, concusión, malversación de fondos públicos y soborno;
+
 c) Las juezas y jueces de las Cortes de Apelaciones y la Corte Suprema, y de la o el Contralor General de la República, por notable abandono de sus deberes;
+
 d) Las y los generales o almirantes de las instituciones pertenecientes a las Fuerzas Armadas, del General Director de Carabineros de Chile y del Director General de la Policía de Investigaciones de Chile, por haber comprometido gravemente el honor o la seguridad de la Nación;
+
 e) Las y los gobernadores regionales y de la autoridad en los territorios especiales e indígenas, por infracción de la Constitución y por los delitos de traición, sedición, malversación de fondos públicos y concusión.
 
 La acusación se tramitará en conformidad a la Ley de Organización, Funcionamiento y Procedimientos del Poder Legislativo.
@@ -162,16 +173,27 @@ Se entenderá que una diputada, diputado o representante regional tiene su resid
 No pueden ser candidatos a diputadas o diputados ni a representante regional:
 
 1. La Presidenta o Presidente de la República o quien lo sustituya en el ejercicio de la Presidencia al tiempo de la elección;
+
 2. Las y los Ministros de Estado y las y los Subsecretarios;
+
 3. Las autoridades regionales y comunales de elección popular;
+
 4. Las y los Consejeros del Banco Central y del Consejo Electoral;
+
 5. Las y los directivos de los órganos autónomos;
+
 6. Las y los que ejerzan jurisdicción en los Sistemas de Justicia;
+
 7. Las y los miembros del Tribunal Calificador de Elecciones y de los tribunales electorales;
+
 8. La o el Contralor General de la República;
+
 9. La o el Fiscal Nacional, fiscales regionales o fiscales adjuntos del Ministerio Público;
+
 10. Los funcionarios o funcionarias en servicio activo de las policías;
+
 11. Las personas naturales o administradores de personas jurídicas que celebren o caucionen contratos con el Estado, y
+
 12. Las y los militares en servicio activo.
 
 Las inhabilidades establecidas en este artículo serán aplicables a quienes hubieren tenido las calidades o cargos antes mencionados dentro del año inmediatamente anterior a la elección, excepto respecto de las personas mencionadas en el número 11, las que no deberán reunir esas condiciones al momento de inscribir su candidatura y de las indicadas en el número 9, 10 y 12, respecto de las cuales el plazo de la inhabilidad será de los dos años inmediatamente anteriores a la elección.
@@ -219,9 +241,13 @@ Desde el momento en que se declare, por resolución firme, haber lugar a formaci
 Cesará en el cargo la diputada, diputado o representante regional:
 
 b) Que se ausentare del país por más de treinta días sin permiso de la corporación respectiva o, en receso de ésta, de su Mesa Directiva;
+
 c) Que, durante su ejercicio, celebrare o caucionare contratos con el Estado, o actuare como procuradora o procurador o agente en gestiones particulares de carácter administrativo, en la provisión de empleos públicos, consejerías, funciones o comisiones de similar naturaleza. Esta inhabilidad tendrá lugar sea que la diputada, diputado o representante regional actúe por sí o por interpósita persona, natural o jurídica;
+
 d) Que, durante su ejercicio, actúe como abogada o abogado o mandataria o mandatario en cualquier clase de juicio, que ejercite cualquier influencia ante las autoridades administrativas o judiciales en favor o representación del empleador o de las y los trabajadores en negociaciones o conflictos laborales, sean del sector público o privado, o que intervenga en ellos ante cualquiera de las partes;
+
 e) Que haya infringido gravemente las normas sobre transparencia, límites y control del gasto electoral, desde la fecha que lo declare por sentencia firme el Tribunal Calificador de Elecciones, a requerimiento del Consejo Directivo del Servicio Electoral. Una ley señalará los casos en que existe una infracción grave.
+
 f) Que, durante su ejercicio, pierda algún requisito general de elegibilidad, o incurra en una inhabilidad de las establecidas en el artículo 14.
 
 Las diputadas, diputados y representantes regionales podrán renunciar a sus cargos cuando les afecte una enfermedad grave, debidamente acreditada, que les impida desempeñarlos, y así lo califique el tribunal que realice el control de constitucionalidad.
@@ -233,23 +259,38 @@ Las diputadas, diputados y representantes regionales podrán renunciar a sus car
 Sólo en virtud de una ley se puede:
 
 \begin{itemize}
-\tightlist
 \item[a.] Crear, modificar y suprimir tributos de cualquier clase o naturaleza y los beneficios tributarios aplicables a éstos, determinar su progresión, exenciones y proporcionalidad, sin perjuicio de las excepciones que establezca esta Constitución;
+
 \item[b.] Autorizar la contratación de empréstitos y otras operaciones que puedan comprometer el crédito y la responsabilidad financiera del Estado, sus organismos y municipalidades, sin perjuicio de lo consagrado respecto de las entidades territoriales y de lo establecido en la letra siguiente. Esta disposición no se aplicará al Banco Central;
+
 \item[c.] Establecer las condiciones y reglas conforme a las cuales las universidades y las empresas del Estado y aquellas en que éste tenga participación puedan contratar empréstitos, los que en ningún caso podrán efectuarse con el Estado, sus organismos y empresas;
+
 \item[d.] Instituir las normas sobre enajenación de bienes del Estado, los gobiernos regionales o de las municipalidades y sobre su arrendamiento, títulos habilitantes para su uso o explotación, y concesión;
+
 \item[e.] Disponer, organizar y distribuir las Fuerzas Armadas para su desarrollo y empleo conjunto, así como permitir la entrada de tropas extranjeras en el territorio de la República, como, asimismo, la salida de tropas nacionales fuera de él;
+
 \item[f.] Establecer o modificar la división político o administrativa del país;
+
 \item[g.] Señalar el valor, tipo y denominación de las monedas, y el sistema de pesos y medidas;
+
 \item[h.] Conceder indultos generales y amnistías, salvo en crímenes de lesa humanidad;
+
 \item[i.] Establecer el sistema de determinación de las remuneraciones de la Presidenta o Presidente de la República y las Ministras o Ministros de Estado, de las diputadas y diputados, las gobernadoras y gobernadores y de las y los representantes regionales;
+
 \item[k.] Singularizar la ciudad en que debe residir la Presidenta o el Presidente de la República, celebrar sus sesiones el Congreso de Diputadas y Diputados y la Cámara de las Regiones y funcionar la Corte Suprema;
+
 \item[l.] Autorizar la declaración de guerra, a propuesta de la Presidenta o Presidente de la República;
+
 \item[m.] Fijar las bases de los procedimientos que rigen los actos de la administración pública;
+
 \item[n.] Establecer la creación y modificación de servicios públicos y empleos públicos, sean fiscales, semifiscales, autónomos o de las empresas del Estado, y determinar sus funciones y atribuciones;
-\item[\~{n}.] Establecer el régimen jurídico aplicable en materia laboral, sindical, de la huelga y la negociación colectiva en sus diversas manifestaciones, previsional y de seguridad social;
+
+\item[ñ.] Establecer el régimen jurídico aplicable en materia laboral, sindical, de la huelga y la negociación colectiva en sus diversas manifestaciones, previsional y de seguridad social;
+
 \item[o.] Crear loterías y apuestas;
+
 \item[p.] Regular aquellas materias que la Constitución señale como leyes de concurrencia presidencial necesaria, y
+
 \item[q.] Regular las demás materias que la Constitución exija que sean establecidas por una ley.
 \end{itemize}
 
@@ -265,8 +306,7 @@ La Presidenta o Presidente deberá informar mensualmente al Congreso sobre los r
 
 #### 29.- Artículo 25.-
 
-La Presidenta o Presidente de la República podrá solicitar autorización al
-Congreso de Diputadas y Diputados para dictar decretos con fuerza de ley durante un plazo no superior a un año sobre materias que correspondan al dominio de la ley.
+La Presidenta o Presidente de la República podrá solicitar autorización al Congreso de Diputadas y Diputados para dictar decretos con fuerza de ley durante un plazo no superior a un año sobre materias que correspondan al dominio de la ley.
 
 Esta autorización no podrá extenderse a derechos fundamentales, nacionalidad, ciudadanía, elecciones y plebiscitos.
 
@@ -287,10 +327,15 @@ La ley delegatoria de potestades que corresponda a leyes de acuerdo regional es 
 Son leyes de concurrencia presidencial necesaria:
 
 a. Las que irroguen directamente gastos al Estado;
+
 b. Las leyes relacionadas con la administración presupuestaria del Estado, incluyendo las modificaciones de la Ley de Presupuestos;
+
 c. Las que alteren la división política o administrativa del país;
+
 d. Las que impongan, supriman, reduzcan o condonen tributos de cualquier clase o naturaleza, establezcan exenciones o modifiquen las existentes, y determinen su forma, proporcionalidad o progresión;
+
 e. Las que contraten o autoricen a contratar empréstitos o celebrar cualquier otra clase de operaciones que puedan comprometer la responsabilidad patrimonial del Estado, de las entidades semifiscales, autónomas y condonar, reducir o modificar obligaciones, intereses u otras cargas financieras de cualquier naturaleza establecidas en favor del Fisco o de los organismos o entidades referidos, sin perjuicio de lo dispuesto en el artículo 22, letra c, y
+
 f. Las que dispongan, organicen y distribuyan las Fuerzas Armadas para su desarrollo y empleo conjunto.
 
 #### 31.- Artículo 27.-
@@ -490,26 +535,45 @@ Si la vacancia se produjere faltando dos años o más para la siguiente elecció
 Serán atribuciones de la Presidenta o Presidente de la República:
 
 1. Cumplir y hacer cumplir esta Constitución, las leyes y los tratados internacionales, de acuerdo con sus competencias y atribuciones;
+
 2. Dirigir la administración del Estado;
+
 3. Nombrar y remover a las Ministras y Ministros de Estado, a las Subsecretarias y Subsecretarios y a las demás funcionarias y funcionarios que corresponda, de acuerdo con esta Constitución y la ley. Estos funcionarios serán de exclusiva confianza del Presidente de la República y se mantendrán en sus puestos mientras cuenten con ella;
+
 4. Conducir las relaciones exteriores, suscribir y ratificar los tratados, convenios o acuerdos internacionales, nombrar y remover a Embajadoras y Embajadores y jefas y jefes de misiones diplomáticas;
+
 5. Declarar los estados de excepción constitucional en los casos y formas que se señalan en esta Constitución y la ley;
+
 6. Concurrir a la formación de las leyes, conforme a lo que establece esta Constitución, y promulgarlas;
+
 7. Dictar decretos con fuerza de ley, previa delegación del Congreso de Diputadas y Diputados, conforme a lo que se establece en esta Constitución;
+
 8. Ejercer la potestad reglamentaria de conformidad con esta Constitución y la ley;
+
 9. Ejercer permanentemente la jefatura suprema de las Fuerzas Armadas, disponerlas, organizarlas y distribuirlas para su desarrollo y empleo conjunto;
+
 10. Designar al Jefe del Estado Mayor Conjunto, a los Comandantes en Jefe de las Fuerzas Armadas y disponer los nombramientos, ascensos y retiros de los oficiales de las Fuerzas Armadas;
+
 11. Remover al Jefe del Estado Mayor Conjunto y a los Comandantes en Jefe de las Fuerzas Armadas;
+
 12. Ejercer la jefatura máxima de las fuerzas de seguridad pública y designar y remover a los integrantes del alto mando policial;
+
 13. Nombrar a la Contralora o Contralor General conforme a lo dispuesto en esta Constitución;
+
 14. Participar en los nombramientos de las demás autoridades en conformidad con lo establecido en esta Constitución;
+
 15. Designar y remover funcionarias y funcionarios de su exclusiva confianza, de conformidad con lo que establece la ley;
+
 16. Conceder indultos particulares, salvo en crímenes de guerra y de lesa humanidad;
+
 17. Velar por la recaudación de las rentas públicas y decretar su inversión con arreglo a la ley.
 
     La Presidenta o Presidente de la República, con la firma de todas las y los Ministros de Estado, podrá decretar pagos no autorizados por ley, para atender necesidades impostergables derivadas de calamidades públicas, agresión exterior, conmoción interior, grave daño o peligro para la seguridad del país o el agotamiento de los recursos destinados a mantener servicios que no puedan paralizarse sin serio perjuicio para el país. El total de los giros que se hagan con estos objetos no podrá exceder anualmente del dos por ciento (2%) del monto de los gastos que autorice la Ley de Presupuestos. Se podrá contratar empleados con cargo a esta misma ley, pero sin que el ítem respectivo pueda ser incrementado ni disminuido mediante traspasos. Las y los Ministros de Estado o funcionarios que autoricen o den curso a gastos que contravengan lo dispuesto en este numeral serán responsables, solidaria y personalmente de su reintegro, y culpables del delito de malversación de caudales públicos;
+
 18. Convocar referendos, plebiscitos y consultas en los casos previstos en esta Constitución;
+
 19. Presentar anualmente al Congreso de Diputadas y Diputados el proyecto de ley de presupuestos, y
+
 20. Pedir, indicando los motivos, que se cite a sesión especial al Congreso de Diputadas y Diputados y a la Cámara de las Regiones. En tal caso, la sesión deberá celebrarse a la brevedad posible.
 
 #### 57.- Artículo 49.-
@@ -1009,9 +1073,11 @@ En el Congreso y en los órganos representativos a nivel regional y local se deb
 Son chilenas y chilenos, aquellas personas que:
 
 1. Hayan nacido en el territorio de Chile, con excepción de las hijas e hijos de personas extranjeras que se encuentren en Chile en servicio de su Gobierno, quienes podrán optar por la nacionalidad chilena.
+
 2. Sean hijas o hijos de padre o madre chilenos, nacidos en territorio extranjero.
 
-<!-- -->
+<!-- 3 -->
+
 4. Obtuvieren especial gracia de nacionalización por ley.
 
 No se exigirá renuncia a la nacionalidad anterior para obtener la carta de nacionalización chilena.
@@ -1045,7 +1111,9 @@ Las y los extranjeros avecindados en Chile por más de cinco años, y que cumpla
 La nacionalidad chilena se pierde, exclusivamente:
 
 1. Por renuncia voluntaria manifestada ante autoridad chilena competente. Esta renuncia sólo producirá efectos si la persona, previamente, se ha nacionalizado en país extranjero;
+
 2. Por cancelación de la carta de nacionalización, siempre que la persona no se convirtiera en apátrida, salvo que se hubiera obtenido por declaración falsa o por fraude. Esto último no será aplicable a niños, niñas y adolescentes;
+
 3. Por ley que revoque la nacionalización concedida por gracia.
 
 En el caso del número 1, la nacionalidad podrá recuperarse en conformidad al número 3 del artículo 1. En los restantes casos, sólo podrán ser rehabilitados por ley.
@@ -1273,30 +1341,51 @@ El Gobernador o Gobernadora Regional y las jefaturas de los servicios públicos 
 Son competencias de la Región autónoma:
 
 1. La organización del Gobierno Regional, en conformidad con la Constitución y su Estatuto.
+
 2. La organización político-administrativa y financiera de la Región autónoma, en función de la responsabilidad y eficiencia económica, con arreglo a la Constitución y las leyes.
+
 3. Fomentar el desarrollo social, productivo y económico de la Región autónoma en el ámbito de sus competencias, en coordinación con las políticas, planes y programas nacionales.
+
 4. Participar en acciones de cooperación internacional, dentro de los marcos establecidos por los tratados y los convenios vigentes, en conformidad a los procedimientos establecidos en la Constitución y las leyes.
+
 5. El desarrollo de la investigación, tecnología y las ciencias en materias correspondientes a la competencia regional.
+
 6. La conservación, preservación, protección y restauración de la naturaleza, del equilibrio ecológico y el uso racional del agua y los demás elementos naturales de su territorio.
+
 7. Aprobar, mediando procesos de participación ciudadana, los planes de descontaminación ambientales de la región autónoma.
+
 8. El fomento y la protección de las culturas, las artes, el patrimonio histórico, inmaterial arqueológico, lingüístico y arquitectónico; y la formación artística en su territorio.
+
 9. La planificación, ordenamiento territorial y manejo integrado de cuencas.
+
 10. La política regional de vivienda, urbanismo, salud, transporte y educación en coordinación con las políticas, planes y programas nacionales, respetando la universalidad de los derechos garantizados por esta Constitución.
+
 11. Las obras públicas de interés ejecutadas en el territorio de la región autónoma.
+
 12. La planificación e implementación de la conectividad física y digital.
+
 13. La promoción y fomento del deporte, el ocio y la recreación.
 
-<!-- -->
+<!-- 14 -->
+
 15. La regulación y administración de los bosques, las reservas y los parques de las áreas silvestres protegidas y cualquier otro predio fiscal que se considere necesario para el cuidado de los servicios ecosistémicos que se otorgan a las comunidades, en el ámbito de sus competencias.
+
 16. La promoción y ordenación del turismo en el ámbito territorial de la región autónoma, en coordinación con la Comuna Autónoma.
+
 17. Coordinar y delegar las competencias constitucionales compartidas con las demás entidades territoriales.
+
 18. Establecer contribuciones y tasas dentro de su territorio previa autorización por ley.
+
 19. La creación de empresas públicas regionales por parte de los órganos de la Región Autónoma competentes, en conformidad a los procedimientos regulados en la Constitución y la ley.
+
 20. Establecer una política permanente de desarrollo sostenible y armónico con la naturaleza.
+
 21. Ejercer autónomamente la administración y coordinación de todos los servicios públicos de su dependencia.
+
 22. Promover la participación popular en asuntos de interés regional.
 
-<!-- -->
+<!-- 23 -->
+
 24. Las demás competencias que determine la Constitución y ley nacional.
 
 El ejercicio de estas competencias por la Región Autónoma no excluye la concurrencia y desarrollo coordinado con otros órganos del Estado, conforme a la Constitución y la ley.
@@ -1312,11 +1401,17 @@ El Consejo de Gobernaciones, presidido por el Presidente de la República y conf
 Son facultades del Consejo de Gobernaciones:
 
 a) La coordinación, la complementación y la colaboración en la ejecución de políticas públicas en las Regiones;
+
 b) La coordinación económica y presupuestaria entre el Estado y las Regiones Autónomas;
+
 c) Debatir sobre las actuaciones conjuntas de carácter estratégico, que afecten a los ámbitos competenciales estatal y regional, así como velar por el respeto de las autonomías de las entidades territoriales;
+
 d) Velar por la correcta aplicación de los principios de equidad, solidaridad y justicia territorial, y de los mecanismos de compensación económica interterritorial, en conformidad con la Constitución y la ley.
+
 e) Convocar encuentros sectoriales entre entidades territoriales.
+
 f) Acordar la creación de comisiones o grupos de trabajo para el estudio de asuntos de interés común.
+
 g) Las demás que establezcan la Constitución y la ley.
 
 #### 170.- Artículo 30.- De los Ministerios y Servicios Públicos con presencia en la Región.
@@ -1334,17 +1429,29 @@ El Estado tendrá facultades supletorias de carácter transitorio, cuando las en
 Son atribuciones de la Asamblea Regional, en conformidad a la Constitución, la ley y el Estatuto Regional:
 
 1. Fiscalizar los actos del Gobierno Regional de acuerdo con el procedimiento establecido en el Estatuto Regional.
+
 2. Fiscalizar los actos de la administración regional, para lo cual podrá requerir información de autoridades o jefaturas que desempeñen sus funciones en la Región Autónoma, citar a funcionarios públicos o autoridades regionales y crear comisiones especiales.
+
 3. Solicitar al Gobernador o Gobernadora Regional rendir cuenta sobre su participación en el Consejo de Gobernaciones.
+
 4. Aprobar, modificar o rechazar el Presupuesto Regional, el Plan de Desarrollo Regional y los Planes de Ordenamiento Territorial.
+
 5. Aprobar, modificar o rechazar el Plan Regional de manejo integrado de cuencas.
+
 6. Dictar su reglamento interno de funcionamiento.
+
 7. Aprobar, a propuesta del Gobernador o Gobernadora Regional y previa ratificación del Consejo Territorial, la creación de empresas públicas regionales o la participación en empresas regionales.
+
 8. Concurrir, en conjunto con el Gobernador Regional, en el ejercicio de la potestad reglamentaria, en la forma prescrita por la Constitución y las leyes.
+
 9. Ejercer la potestad reglamentaria de ejecución de ley cuando esta lo encomiende y dictar los demás reglamentos en materias de competencia de la región autónoma.
+
 10. Dictar las normas regionales que hagan aplicables las leyes de acuerdo regional.
+
 11. Iniciar el trámite legislativo ante el Consejo Territorial en materias de interés regional.
+
 12. Solicitar al Congreso la transferencia de la potestad legislativa en materias de interés de la Región Autónoma respectiva, en conformidad a la ley.
+
 13. Las demás atribuciones que determine la Constitución y la ley.
 
 #### 172.- Artículo 35.- De las atribuciones exclusivas del Gobierno Regional. 
@@ -1352,24 +1459,37 @@ Son atribuciones de la Asamblea Regional, en conformidad a la Constitución, la 
 Son atribuciones exclusivas de los Gobiernos Regionales las siguientes:
 
 1. Preparar y presentar ante la Asamblea Regional el Plan de Desarrollo Regional, en conformidad al Estatuto Regional.
+
 2. Preparar y presentar ante la Asamblea Regional el proyecto de Presupuesto Regional, en conformidad a esta Constitución y el Estatuto Regional.
+
 3. Administrar y ejecutar el Presupuesto Regional, realizar actos y contratos en los que tenga interés, ejercer competencias fiscales propias conforme a la ley, y elaborar la planificación presupuestaria sobre la destinación y uso del presupuesto regional.
+
 4. Preparar y presentar ante la Asamblea Regional el plan regional de ordenamiento territorial, los planes de desarrollo urbano de las áreas metropolitanas y los planes de manejo integrado de cuencas, en conformidad al Estatuto Regional y la ley.
+
 5. Organizar, administrar, supervigilar y fiscalizar los servicios públicos de la Región Autónoma y coordinarse con el Gobierno respecto de aquellos que detenten un carácter nacional y que funcionen en la Región.
+
 6. Ejercer la potestad reglamentaria en todas aquellas materias que se encuentren dentro del ámbito de sus competencias, en conformidad a la Constitución, la ley y el Estatuto Regional.
 
-<!-- -->
+<!-- 7 -->
+
 8. Adoptar e implementar políticas públicas que fomenten y promocionen el desarrollo social, productivo, económico y cultural de la región autónoma, especialmente en ámbitos de competencia de la región autónoma.
+
 9. Proponer a la Asamblea Regional la creación de empresas públicas regionales o la participación en empresas regionales para la gestión de servicios de su competencia, según lo dispuesto en la Constitución, la ley y el Estatuto Regional.
 
-<!-- -->
+<!-- 10 11 -->
+
 12. Celebrar y ejecutar convenios con los Gobiernos de otras regiones autónomas para efectos de implementar programas y políticas públicas interregionales, así como toda otra forma de asociatividad territorial.
+
 13. Celebrar y ejecutar acciones de cooperación internacional, dentro de los marcos establecidos por los tratados y convenios que el país celebre al efecto y en conformidad a los procedimientos regulados en la ley.
 
-<!-- -->
+<!-- 14 15 16 -->
+
 17. Promover la innovación, la competitividad y la inversión en la respectiva región autónoma.
+
 18. Convocar a referéndum y plebiscitos regionales en virtud de lo previsto en la Constitución, el Estatuto Regional y la ley.
+
 19. Establecer sistemas de gestión de crisis entre los órganos que tienen asiento en la Región Autónoma, que incluyan, a lo menos, su preparación, prevención, administración y manejo.
+
 20. Las demás atribuciones que señalen la Constitución, el Estatuto Regional y las leyes.
 
 *********
@@ -1469,30 +1589,51 @@ La comuna autónoma cuenta con todas las potestades y competencias de autogobier
 Son competencias esenciales de la comuna autónoma:
 
 1. El desarrollo estratégico de la comuna mediante el plan de desarrollo comunal.
+
 2. La prestación de los servicios públicos que determine la ley.
+
 3. Construir las obras que demande el progreso local en el marco de sus atribuciones.
+
 4. La planificación del territorio mediante el plan regulador comunal acordado de forma participativa con la comunidad de su respectivo territorio.
+
 5. Garantizar la participación popular y el fortalecimiento de la democracia.
+
 6. El fomento del comercio local.
+
 7. El desarrollo sostenible e integral de la comuna.
+
 8. La conservación, custodia y resguardo de los patrimonios culturales y naturales.
+
 9. Fomento y protección a las culturas, las artes y los patrimonios culturales y naturales, así como la investigación y la formación artística en sus territorios.
+
 10. Proteger los ecosistemas comunales y los derechos de la naturaleza.
 
-<!-- -->
+<!-- 11 -->
+
 12. Desarrollar, con el nivel regional y central, actividades y servicios en materias de educación, salud, vivienda, turismo, recreación, deporte y las demás que establezca la ley.
+
 13. Ejercer funciones de gobierno y administración dentro de la comuna y en el ámbito de sus competencias.
+
 14. Fomentar las actividades productivas.
+
 15. La creación, organización y administración de los servicios públicos municipales en el ámbito de sus funciones, conforme a la Constitución y la ley.
+
 16. La dictación de normas generales y obligatorias en materias de carácter comunal, con arreglo a la Constitución y las leyes.
 
-<!-- -->
+<!-- 17 -->
+
 18. El fomento de la reintegración y reinserción de las personas en situación de calle que así lo requieran, mediante la planificación, coordinación y ejecución de programas al efecto.
+
 19. Ejercer las acciones pertinentes en resguardo de la Naturaleza y sus derechos reconocidos por esta Constitución y la ley.
+
 20. La ejecución de los mecanismos y acciones de protección ambiental en la forma que determine la Constitución, la ley, los instrumentos de gestión ambiental y normas afines.
+
 21. Las demás competencias que determinen la Constitución y la ley. Las leyes deberán reconocer las diferencias existentes entre los distintos tipos de comunas y municipalidades, velando por la equidad, inclusión y cohesión territorial.
+
 * (Número nuevo). Gestionar la reducción de riesgos frente a desastres.
+
 * (Número nuevo). Desarrollar el aseo y ornato de la comuna.
+
 * (Número nuevo). La promoción de la Seguridad ciudadana.
 
 Las Comunas Autónomas, a través de sus órganos de gobierno y administración, tendrán competencias preeminentes sobre las Regiones Autónomas y el Estado, en relación a las funciones de gobierno local que puedan ser cumplidas de modo adecuado y eficaz, sin perjuicio de una necesaria coordinación para su ejercicio y la distribución de competencias establecida en esta Constitución y las leyes.
@@ -1596,15 +1737,23 @@ Las entidades territoriales mencionadas en el artículo 5° de esta Constitució
 Las entidades territoriales, de conformidad a la Constitución y las leyes, tendrán las siguientes fuentes de ingresos:
 
 1. Los recursos asignados por la Ley de Presupuestos del Estado.
+
 2. Los impuestos en favor de la entidad territorial
+
 3. La distribución de los impuestos establecida en la Ley de Presupuestos.
+
 4. Las tasas y contribuciones.
+
 5. La distribución de los fondos solidarios.
+
 6. La transferencia fiscal interterritorial.
 
-<!-- -->
+<!-- 7 -->
+
 8. La administración y aprovechamiento de su patrimonio.
+
 9. Las donaciones, herencias y legados que reciban conforme a la ley.
+
 10. Otras que determine la Constitución y la ley.
 
 #### 205.- Artículo 10.- Distribución de las potestades tributarias.
@@ -1636,10 +1785,15 @@ Este principio se aplicará también respecto de todas las competencias o potest
 Los gobiernos regionales y locales podrán emitir deuda en conformidad a lo que disponga la ley, general o especial, la que establecerá al menos las siguientes regulaciones:
 
 a) La prohibición de destinar los fondos recaudados mediante emisión de deuda o empréstitos al financiamiento de gasto corriente.
+
 b) Los mecanismos que garanticen que la deuda sea íntegra y debidamente servida por el deudor.
+
 c) La prohibición del establecimiento de garantías o cauciones del fisco.
+
 d) El establecimiento de límites máximos de endeudamiento como porcentaje del presupuesto anual del gobierno regional y municipal respectivo y la obligación de mantener una clasificación de riesgo actualizada.
+
 e) Restricciones en períodos electorales.
+
 f) Estos recursos no podrán ser destinados a remuneraciones ni a gasto corriente.
 
 #### 210.- Artículo 6.- No discrecionalidad en la distribución de ingresos fiscales.
@@ -1789,8 +1943,11 @@ Estas facultades serán ejercidas por el Gobernador o Gobernadora Regional, prev
 Son atribuciones de la Asamblea Regional, en conformidad a la Constitución, la ley y el Estatuto Regional:
 
 1. Pronunciarse sobre la convocatoria a consultas o plebiscitos regionales.
+
 2. Administrar sus bienes y patrimonio propio.
+
 3. Aprobar, rechazar o modificar la inversión de los recursos de los fondos solidarios que se creen y otros recursos públicos que disponga la ley.
+
 4. Pronunciarse en conjunto con los órganos competentes respecto de los procedimientos de evaluación ambiental.
 
 #### 235.- Artículo 51.- Ordenamiento Territorial.
@@ -2042,8 +2199,11 @@ El Estado garantiza el derecho a la memoria desde un enfoque que considere su re
 #### 271.- Artículo 4.- Derecho a la vivienda.
 
 1. Toda persona tiene el derecho a una vivienda digna y adecuada, que permita el libre desarrollo de una vida personal, familiar y comunitaria.
+
 2. El Estado deberá tomar todas las medidas necesarias para asegurar el goce universal y oportuno de este derecho, contemplando, a lo menos la habitabilidad, el espacio y equipamiento suficiente, doméstico y comunitario, para la producción y reproducción de la vida, la disponibilidad de servicios, la asequibilidad, la accesibilidad, la ubicación apropiada, la seguridad de la tenencia y la pertinencia cultural de las viviendas, de conformidad a la ley.
+
 3. El Estado podrá participar en el diseño, construcción, rehabilitación, conservación e innovación de la vivienda.
+
 4. El Estado considerará particularmente en el diseño de las políticas de vivienda a personas con bajos ingresos económicos o pertenecientes a grupos especialmente vulnerados en sus derechos.
 
 El Estado garantizará la creación de viviendas de acogida en casos de violencia de género y otras formas de vulneración de derechos, según determine la ley.
@@ -2759,15 +2919,25 @@ En el ejercicio de sus atribuciones debe considerar el principio de no discrimin
 Son atribuciones del Consejo de la Justicia:
 
 a) Nombrar, previo concurso público y por resolución motivada, todas las juezas, jueces, funcionarias y funcionarios del Sistema Nacional de Justicia.
+
 b) Adoptar las medidas disciplinarias de juezas, jueces, funcionarias y funcionarios del Sistema Nacional de Justicia, incluida su remoción, conforme a lo dispuesto en esta Constitución y la ley.
+
 c) Efectuar una revisión integral de la gestión de todos los tribunales del sistema nacional de justicia. En ningún caso incluirá las resoluciones judiciales.
+
 d) Evaluar y calificar, periódicamente, el desempeño de juezas, jueces, funcionarias y funcionarios del Sistema Nacional de Justicia.
+
 e) Decidir sobre promociones, traslados, permutas y cese de funciones de integrantes del sistema nacional de justicia.
+
 f) Definir las necesidades presupuestarias, ejecutar y gestionar los recursos para el adecuado funcionamiento del Sistema Nacional de Justicia.
+
 g) Pronunciarse sobre cualquier modificación legal en la organización y atribuciones del sistema nacional de justicia. El Congreso deberá oficiar al Consejo, el que deberá responder dentro treinta días contados desde su recepción.
+
 h) Proponer la creación, modificación o supresión de tribunales a la autoridad competente.
+
 i) Velar por la habilitación, formación y continuo perfeccionamiento de quienes integran el sistema nacional de justicia. Para estos efectos, la Academia Judicial estará sometida a la dirección del Consejo.
+
 j) Dictar instrucciones relativas a la organización y gestión administrativa de los tribunales. Estas instrucciones podrán tener un alcance nacional, regional o local.
+
 k) Las demás que encomiende esta Constitución y las leyes.
 
 #### 378.- Artículo 29.- Composición del Consejo de la Justicia.
@@ -2775,8 +2945,11 @@ k) Las demás que encomiende esta Constitución y las leyes.
 El Consejo de la Justicia se compone por diecisiete integrantes, conforme a la siguiente integración:
 
 a) Ocho integrantes serán juezas o jueces titulares elegidos por sus pares.
+
 b) Dos integrantes serán funcionarios o profesionales del Sistema Nacional de Justicia elegidos por sus pares.
+
 c) Dos integrantes elegidos por los pueblos indígenas en la forma que determine la Constitución y la ley.
+
 d) Cinco integrantes elegidos por el Congreso, previa determinación de las ternas correspondientes por concurso público, a cargo del Consejo de Alta Dirección Pública.
 
 Las y los integrantes señalados en la letra c) deberán ser personas de comprobada idoneidad para el ejercicio del cargo y que se hayan destacado en la función pública o social.
@@ -2888,12 +3061,19 @@ La o el Fiscal Nacional será nombrado por la mayoría de las y los integrantes 
 Corresponderá al Fiscal Nacional:
 
 a) Dirigir las sesiones ordinarias y extraordinarias del Comité del Ministerio Público.
+
 b) Representar a la institución ante los demás órganos del Estado.
+
 c) Impulsar la ejecución de la política de persecución penal en el país.
+
 d) Determinar la política de gestión profesional de las y los funcionarios del Ministerio Público.
+
 e) Presidir el Comité del Ministerio Público.
+
 f) Designar a los fiscales regionales, a partir de una terna elaborada por la Asamblea Regional respectiva.
+
 g) Designar a los fiscales adjuntos, a partir de una terna elaborada por el Comité del Ministerio Público.
+
 h) Las demás atribuciones que establezca la Constitución y la ley.
 
 #### 390.- Artículo 7°.- De los requisitos para el cargo de Fiscal Nacional.
@@ -2905,10 +3085,15 @@ La o el Fiscal Nacional debe tener a lo menos quince años de título de abogado
 Son atribuciones del Comité del Ministerio Público las siguientes:
 
 a) Asesorar al Fiscal Nacional en la dirección del organismo, velando por el cumplimiento de sus objetivos.
+
 b) Evaluar y calificar permanentemente el desempeño de las y los funcionarios del Ministerio Público.
+
 c) Ejercer la potestad disciplinaria respecto de las y los funcionarios del Ministerio Público, en conformidad a la ley.
+
 d) Designar al Director Ejecutivo Nacional.
+
 e) Proponer al Fiscal Nacional las ternas para el nombramiento de los fiscales adjuntos.
+
 f) Las demás atribuciones que establezca la Constitución y la ley.
 
 #### 392.-Artículo 10.- Del Comité del Ministerio Público.
@@ -2958,16 +3143,27 @@ La Constitución asegura la asistencia y ajustes de procedimientos necesarios y 
 Toda persona tiene derecho a las siguientes garantías procesales penales mínimas:
 
 a) A que toda actuación de la investigación o procedimiento que le prive, restrinja o perturbe el ejercicio de los derechos que asegura la Constitución, requiere previa autorización judicial.
+
 b) A conocer los antecedentes de la investigación seguida en su contra, salvo las excepciones que la ley señale.
+
 c) A que se presuma su inocencia mientras no exista una sentencia condenatoria firme dictada en su contra.
+
 d) A que no se presuma de derecho la responsabilidad penal.
+
 e) A ser informada, sin demora y en forma detallada, de sus derechos y causa de la investigación seguida en su contra.
+
 f) A guardar silencio ni a ser obligada a declarar contra sí misma o reconocer su responsabilidad. No podrán ser obligados a declarar en contra del imputado sus ascendientes, descendientes, cónyuge, conviviente civil y demás personas que señale la ley.
+
 g) A que su libertad sea la regla general. Las medidas cautelares personales son excepcionales, temporales y proporcionales, debiendo la ley regular los casos de procedencia y requisitos.
+
 h) A no ser sometida a un nuevo procedimiento, investigación o persecución penal por el mismo hecho respecto del cual haya sido condenada, absuelta o sobreseída definitivamente por sentencia ejecutoriada.
+
 i) A ser sancionada de forma proporcional a la infracción cometida.
+
 j) A que no se le imponga la pena de confiscación de bienes, sin perjuicio del comiso en los casos establecidos por las leyes.
+
 k) A que no se le imponga como pena la pérdida de los derechos previsionales.
+
 l) A que la detención o la internación de una o un adolescente se utilice sólo de forma excepcional, durante el período más breve que proceda y conforme a lo establecido en esta Constitución, la ley y los tratados internacionales de derechos humanos.
 
 #### 400.- Artículo 16.- Del principio de legalidad de los delitos y las penas.
@@ -3039,13 +3235,21 @@ La ley determinará las atribuciones, organización, funcionamiento y procedimie
 La Defensoría del Pueblo tendrá las siguientes atribuciones:
 
 1. Fiscalizar a los órganos del Estado en el cumplimiento de sus obligaciones en materia de derechos humanos.
+
 2. Formular recomendaciones en las materias de su competencia.
+
 3. Realizar acciones de seguimiento y monitoreo respecto de las recomendaciones formuladas por los organismos internacionales en materia de derechos humanos y de las sentencias dictadas contra el Estado de Chile por tribunales internacionales de derechos humanos.
+
 4. Tramitar y hacer seguimiento de los reclamos sobre vulneraciones de derechos humanos, y derivar en su caso.
+
 5. Deducir acciones y recursos que esta Constitución y las leyes establecen, cuando se identifiquen patrones de violación de derechos humanos.
+
 6. Interponer acciones constitucionales y legales ante los tribunales de justicia respecto de hechos que revistan carácter de crímenes de genocidio, de lesa humanidad o de guerra, tortura, desaparición forzada de personas, trata de personas y demás que establezca la ley.
+
 7. Custodiar y preservar los antecedentes reunidos por comisiones de verdad, justicia, reparación y garantías de no repetición.
+
 8. Recomendar la presentación de proyectos de ley en materias de su competencia.
+
 9. Las demás que le encomiende la Constitución y la ley.
 
 Todo órgano deberá colaborar con los requerimientos de la Defensoría del Pueblo, pudiendo acceder a la información necesaria, y constituirse en dependencias de los órganos objeto de fiscalización, en conformidad a la ley.
@@ -3325,7 +3529,9 @@ Las juezas y jueces de la Corte Constitucional durarán nueve años en sus cargo
 Su designación se efectuará en base a criterios técnicos y de mérito profesional de la siguiente manera:
 
 a) Cuatro integrantes elegidos por la mayoría de las y los integrantes del Congreso de Diputadas y Diputados y de la Cámara de las Regiones en sesión conjunta.
+
 b) Tres integrantes elegidos por la o el Presidente de la República.
+
 c) Cuatro integrantes elegidos por el Consejo de la Justicia, a partir de concursos públicos. En caso de ser designados juezas o jueces del Sistema Nacional de Justicia, quedarán suspendidos de sus cargos judiciales de origen en tanto se extienda su función en la Corte Constitucional.
 
 Las y los postulantes al cargo de jueza o juez de la Corte Constitucional deberán ser abogadas o abogados, con más de quince años de ejercicio profesional, con reconocida y comprobada competencia e idoneidad profesional o académica y, preferentemente, de distintas especialidades del Derecho.
@@ -3355,17 +3561,23 @@ La Corte Constitucional resolverá los conflictos de competencia entre el Congre
 La Corte Constitucional tendrá las siguientes atribuciones, ejerciéndolas conforme a los principios referidos en el artículo [65]:
 
 1. Conocer y resolver la inaplicabilidad de un precepto legal cuyos efectos sean contrarios a la Constitución.
+
 2. Conocer y resolver sobre la inconstitucionalidad de un precepto legal.
+
 3. Conocer y resolver sobre la inconstitucionalidad de uno o más preceptos de estatutos regionales, de autonomías territoriales indígenas y de cualquier otra entidad territorial.
+
 4. Conocer y resolver los reclamos en caso que la Presidenta o el Presidente de la República no promulgue una ley cuando deba hacerlo o promulgue un texto diverso del que constitucionalmente corresponda. Igual atribución tendrá respecto de la promulgación de la normativa regional.
+
 5. Conocer y resolver sobre la constitucionalidad de un decreto o resolución de la o el Presidente de la República que la Contraloría General de la República haya representado por estimarlo inconstitucional, cuando sea requerido por la o el Presidente en conformidad al artículo [47].
 
 5 bis. Conocer y resolver sobre la constitucionalidad de los reglamentos y decretos de la o el Presidente de la República, dictados en ejercicio de la potestad reglamentaria en aquellas materias que no están comprendidas en el artículo [22].
 
 6. Resolver los conflictos de competencia o de atribuciones que se susciten entre las entidades territoriales autónomas, con cualquier otro órgano del Estado, o entre éstos, a solicitud de cualquiera de los antes mencionados.
+
 7. Resolver los conflictos de competencia que se susciten entre las autoridades políticas o administrativas y los tribunales de justicia.
 
-<!-- -->
+<!-- 8 -->
+
 9. Las demás previstas en esta Constitución.
 
 Tratándose del número 1, el tribunal de una gestión pendiente, de oficio o previa petición de parte, podrá plantear una cuestión de constitucionalidad respecto de un precepto legal decisorio para la resolución de dicho asunto. El pronunciamiento del juez en esta materia no lo inhabilitará para seguir conociendo el caso concreto. No procederá esta solicitud si el asunto está sometido al conocimiento de la Corte Suprema. La Corte Constitucional decidirá la cuestión de inaplicabilidad por mayoría de sus integrantes.
@@ -3565,9 +3777,13 @@ La ley regulará el ejercicio de este derecho, con pleno respeto a la libertad d
 La Constitución asegura a todas las personas y comunidades:
 
 1. El derecho a participar libremente en la vida cultural y artística y a gozar de sus diversas expresiones, bienes, servicios e institucionalidad.
+
 2. El derecho a la identidad cultural, a conocer y educarse en las diversas culturas, así como a expresarse en el idioma o lengua propios.
+
 3. La libertad de crear y difundir las culturas y las artes, así como el derecho a disfrutar de sus beneficios. Se prohíbe toda forma de censura previa.
+
 4. El derecho al uso de espacios públicos para desarrollar expresiones y manifestaciones culturales y artísticas, sin más limitaciones que las establecidas en esta Constitución y las leyes.
+
 5. La igualdad ante la ley y no discriminación arbitraria de las diversas cosmovisiones que componen la interculturalidad del país, promoviendo su interrelación armónica y el respeto de todas las expresiones simbólicas, culturales y patrimoniales, sean estas tangibles o intangibles.
 
 Estos derechos deben ejercerse con pleno respeto a la diversidad cultural, los derechos humanos y de la naturaleza.

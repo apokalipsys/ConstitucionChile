@@ -7,6 +7,7 @@ fontfamilyoptions: sfdefault
 
 # Reglamento Para el Arreglo de la Autoridad Ejecutiva Provisoria de Chile
 
+
 El Congreso Representativo del Reino de Chile, convencido íntimamente, no sólo de la necesidad de dividir los poderes, sino de la importancia de fijar los límites de cada uno sin confundir ni comprometer sus objetos, se cree en la crisis de acreditar a la faz de la tierra su desprendimiento, sin aventurar en tan angustiada premura la obra de la meditación más profunda: quiere desde el primer momento consagrarse sólo a altos fines de su congregación; pero no está en sus alcances una abdicación tan absoluta antes de constituir la forma sólida de gobierno en los tres poderes, cuyo deslinde es el paso prolijo y más espinoso en todo Estado. Por tanto, ha resuelto delegar interinamente el conocimiento de negocios y trasgresiones particulares de la ley, a un cuerpo colegiado que se instalará con el título de Autoridad Ejecutiva provisoria de Chile bajo las declaraciones siguientes, y que progresivamente se fueren dictando.
 
 
@@ -38,7 +39,6 @@ El Congreso Representativo del Reino de Chile, convencido íntimamente, no sólo
 
 14. Las recusaciones de estos Vocales se arreglarán a la ley que detalla las de los Oidores.
 
-
 15. La Autoridad Ejecutiva librará sobre el tesoro público todos los gastos ordinarios y extraordinarios que, siendo ejecutivos, no excedan de dos mil pesos, acordando los mayores con el Congreso que, por los sagrados objetos a que lo liga su representación, debe empeñarlo con preferencia.
 
 16. Los Vocales nombrados al Despacho Ejecutivo jurarán en el Congreso fidelidad a los grandes objetos que éste proclama y sostiene, y la pureza de sus operaciones, de las que son responsables al reino por las resultas de la residencia que se les tomará, al arbitrio de sus representantes en el tiempo y diputación que deleguen.
@@ -50,4 +50,8 @@ El Congreso Representativo del Reino de Chile, convencido íntimamente, no sólo
 19. Su duración es pendiente de la Constitución del caso; y no formada ésta en el perentorio término de un año, expirará en él La comisión.
 
 
-Tendrálo así entendido la Autoridad Ejecutiva para su puntual cumplimiento, y lo hará publicar y circular para que llegue a noticia de todos.- Santiago de Chile y 8 de agosto de 1811.- Manuel Pérez Cotapos, Presidente del Alto Congreso.- Doctor Juan Cerdan, Vicepresidente.- Agustín de Urrejola.--José Antonio Soto y Aguilar.- Domingo Díaz de Salcedo.- Luis Urréjola.- Doctor Juan Infante.- El Conde de Quinta Alegre.- Manuel Fernández.- -Agustín de Eyzaguirre.- Doctor Gabriel José de Tocornal, -Marcos Gallo.- Mateo Vergara- Francisco Ruiz de Tagle.- José Nicolás de la Cerda.- Doctor Juan José de Echeverría.- Fernando Errázuriz.- Juan José Goycolea.- Doctor Joaquín de Echeverría.- Estanislao Portales. -Javier Errázuriz.- José Miguel Infante, Diputado Secretario.
+Tendrálo así entendido la Autoridad Ejecutiva para su puntual cumplimiento, y lo hará publicar y circular para que llegue a noticia de todos.-
+
+Santiago de Chile y 8 de agosto de 1811.-
+
+Manuel Pérez Cotapos, Presidente del Alto Congreso.- Doctor Juan Cerdan, Vicepresidente.- Agustín de Urrejola.--José Antonio Soto y Aguilar.- Domingo Díaz de Salcedo.- Luis Urréjola.- Doctor Juan Infante.- El Conde de Quinta Alegre.- Manuel Fernández.- -Agustín de Eyzaguirre.- Doctor Gabriel José de Tocornal, -Marcos Gallo.- Mateo Vergara- Francisco Ruiz de Tagle.- José Nicolás de la Cerda.- Doctor Juan José de Echeverría.- Fernando Errázuriz.- Juan José Goycolea.- Doctor Joaquín de Echeverría.- Estanislao Portales. -Javier Errázuriz.- José Miguel Infante, Diputado Secretario.

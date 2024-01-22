@@ -1,0 +1,171 @@
+1976.09.18: Decreto Ley 1552: Acta Constitucional N° 3 @DL1552
+            Decreto Ley 1551: Acta Constitucional N° 2 Bases esenciales de la Institucionalidad Chilena @DL1551
+1976.02.27: Decreto Ley 1167: Consolida la nacionalización de la Gran Minería del Cobre y da normas para la administración de las empresas nacionalizadas @DL1167
+1974.12.27: Decreto Ley 821: Agrega Disposición Transitoria que indica a la Constitución Política del Estado @DL821
+1974.10.24: Decreto Ley 710: Aprueba transacción que indica @DL710
+1974.07.24: Decreto Ley 601: Aprueba transacción que indica @DL601
+1973.12.10: Decreto Ley 175: Modifica el Artículo 6° de la Constitución Política del Estado @DL175
+1973.12.06: Decreto Ley 170: Reforma la Constitución Política del Estado @DL170
+1973.11.29: Decreto Ley 155: Suplemento al Presupuesto 1973 @DL155
+1973.11.10: Decreto Ley 119 : Disuelve el Tribunal Constitucional @DL119
+1971.10.25: Decreto 1333 DFL 1333: Fija texto de la Constitución Política del Estado @DFL1333
+1971.07.16: Ley 17450: Reforma la Constitución Política del Estado @17450
+1971.03.31: Ley 17420: Reforma la Constitución Política del Estado @17420
+1971.01.09: Ley 17398: Modifica la Constitución Política del Estado @17398
+1970.05.06: Decreto 519 DFL 519: Constitución Política del Estado @DFL519
+1970.01.23: Ley 17284: Modifica la Constitución Política del Estado @17284
+1967.10.02: Ley 16672: Modifica la Constitución Política del Estado @16672
+1967.01.20: Ley 16615: Modifica la Constitución Política del Estado @16615
+1963.10.08: Ley 15295: Modifica el número 10 del artículo 10° de la Constitución Política del Estado @15295
+1959.03.02: Ley 13296: Modifica el inciso 2° y agrega inciso final al artículo 102°, y agrega disposición transitoria a continuación de la décima de la Constitución Política del Estado @13296
+1957.09.30: Ley 12548: Modifica el número 3° del artículo 5° y los números 1° y 2° del artículo 6° y agrega inciso final al mismo artículo de la Constitución Política del Estado @12548
+1943.11.23: Ley 7727: Reforma constitucional limita la iniciativa parlamentaria en lo relativo a gastos públicos @7727
+1925.09.18: Texto Original - de 18-SEP-1925 a 22-NOV-1943 @C1925
+
+---
+references:
+  - id: C1925
+    type: book
+    title: Constitución Política de la República de Chile
+    URL: https://obtienearchivo.bcn.cl/obtienearchivo?id=documentos/10221.1/17659/1/Constituci%C3%B3n%20pol%C3%ADtica%20de%20la%20Rep%C3%BAblica%20de%20Chile.%20promulgada%20el%2018%20de%20septiembre%20de%201925.pdf
+    issued: 1925-09-18
+    language: es-CL
+  - id: C1925b
+    type: webpage
+    title: Ley S/N
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=131386
+    issued: 1925-09-18
+    language: es-CL
+  - id: 7727
+    type: webpage
+    title: Ley 7727
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=25609
+    issued: 1943-11-23
+    language: es-CL
+  - id: 12548
+    type: webpage
+    title: Ley 12548
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=27164
+    issued: 1957-09-30
+    language: es-CL
+  - id: 13296
+    type: webpage
+    title: Ley 13296
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=27395
+    issued: 1959-03-02
+    language: es-CL
+  - id: 15295
+    type: webpage
+    title: Ley 15295
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=28150
+    issued: 1963-10-08
+    language: es-CL
+  - id: 16615
+    type: webpage
+    title: Ley 16615
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=130884
+    issued: 1967-01-20
+    language: es-CL
+  - id: 16672
+    type: webpage
+    title: Ley 16672
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=130887
+    issued: 1967-10-02
+    language: es-CL
+  - id: 17284
+    type: webpage
+    title: Ley 17284
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=28888
+    issued: 1970-01-23
+    language: es-CL
+  - id: DFL519
+    type: webpage
+    title: Decreto 519 DFL 519 06-MAY-1970 MINISTERIO DE JUSTICIA
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=241091
+    issued: 1970-05-06
+    language: es-CL
+  - id: 17398
+    type: webpage
+    title: Ley 17398
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=28981
+    issued: 1971-01-09
+    language: es-CL
+  - id: 17420
+    type: webpage
+    title: Ley 17420
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=29001
+    issued: 1971-03-31
+    language: es-CL
+  - id: 17450
+    type: webpage
+    title: Ley 17450
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=29026
+    issued: 1971-07-16
+    language: es-CL
+  - id: DFL1333
+    type: webpage
+    title: Decreto 1333 DFL 1333 25-OCT-1971 MINISTERIO DE JUSTICIA
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=241203
+    issued: 1971-10-25
+    language: es-CL
+  - id: DL119
+    type: webpage
+    title: Decreto Ley 119 10-NOV-1973 MINISTERIO DE JUSTICIA
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=5781
+    issued: 1973-11-10
+    language: es-CL
+  - id: DL155
+    type: webpage
+    title: Decreto Ley 155 29-NOV-1973 MINISTERIO DE HACIENDA
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=5818
+    issued: 1973-11-29
+    language: es-CL
+  - id: DL170
+    type: webpage
+    title: Decreto Ley 170 06-DIC-1973 MINISTERIO DE JUSTICIA, SUBSECRETARIA DE JUSTICIA
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=133451
+    issued: 1973-12-06
+    language: es-CL
+  - id: DL175
+    type: webpage
+    title: Decreto Ley 175 10-DIC-1973 MINISTERIO DEL INTERIOR
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=5834
+    issued: 1973-12-10
+    language: es-CL
+  - id: DL601
+    type: webpage
+    title: Decreto Ley 601 24-JUL-1974 MINISTERIO DEL INTERIOR
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=133270
+    issued: 1974-07-24
+    language: es-CL
+  - id: DL710
+    type: webpage
+    title: Decreto Ley 710 24-OCT-1974 MINISTERIO DEL INTERIOR
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=133271
+    issued: 1974-10-24
+    language: es-CL
+  - id: DL821
+    type: webpage
+    title: Decreto Ley 821 27-DIC-1974 MINISTERIO DEL INTERIOR
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=133272
+    issued: 1974-12-27
+    language: es-CL
+  - id: DL1167
+    type: webpage
+    title: Decreto Ley 1167 27-FEB-1976 MINISTERIO DEL INTERIOR, SUBSECRETARIA DEL INTERIOR
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=133452
+    issued: 1976-02-27
+    language: es-CL
+  - id: DL1551
+    type: webpage
+    title: Decreto Ley 1551 13-SEP-1976 MINISTERIO DE JUSTICIA
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=6655
+    issued: 1976-09-13
+    language: es-CL
+  - id: DL1552
+    type: webpage
+    title: Decreto Ley 1552 13-SEP-1976 MINISTERIO DE JUSTICIA
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=6656
+    issued: 1976-09-13
+    language: es-CL
+---
