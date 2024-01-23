@@ -106,185 +106,49 @@ Los partidos políticos tendrán libre acceso a los medios de difusión y comuni
 
 #### Art. 10.-
 
-Asimismo, la Constitución asegura a todos los habitantes de la República:
+Las iglesias, las confesiones e instituciones religiosas de cualquier culto, tendrán los derechos que otorgan y reconocen, con respecto a los bienes, las leyes actualmente en vigor; pero quedarán sometidas, dentro de las garantías de esta Constitución, al derecho común para el ejercicio del dominio de sus bienes futuros.
 
-1. La igualdad ante la ley. En Chile no hay clase privilegiada.
-
-    En Chile no hay esclavos, y el que pise su territorio, queda libre. No puede hacerse este tráfico por chilenos. El extranjero que lo hiciere, no puede habitar en Chile, ni nacionalizarse en la República;
-
-2. La manifestación de todas las creencias, la libertad de conciencia y el ejercicio libre de todos los cultos que no se opongan a la moral, a las buenas costumbres o al orden público, pudiendo, por tanto, las respectivas confesiones religiosas erigir y conservar templos y sus dependencias con las condiciones de seguridad e higiene fijadas por las leyes y ordenanzas.
-
-    Las iglesias, las confesiones e instituciones religiosas de cualquier culto, tendrán los derechos que otorgan y reconocen, con respecto a los bienes, las leyes actualmente en vigor; pero quedarán sometidas, dentro de las garantías de esta Constitución, al derecho común para el ejercicio del dominio de sus bienes futuros.
-
-    Los templos y sus dependencias, destinados al servicio de un culto, estarán exentos de contribuciones;
-
-3. La libertad de emitir, sin censura previa, sus opiniones, de palabra o por escrito, por medio de la prensa, la radio, la televisión o en cualquiera otra forma, sin perjuicio de responder de los delitos y abusos que se cometan en el ejercicio de esta libertad, en la forma y casos determinados por la ley. No podrá ser constitutivo de delito o abuso sustentar y difundir cualquiera idea política.
-
-    Toda persona natural o jurídica ofendida o aludida por alguna información, tiene derecho a que su aclaración o rectificación sea gratuitamente difundida, en las condiciones que la ley determine, por el órgano de publicidad en que esa información hubiere sido emitida.
-
-    Todas las corrientes de opinión tendrán derecho a utilizar, en las condiciones de igualdad que determine la ley, los medios de difusión y comunicación social de propiedad o uso de particulares.
-
-    Toda persona natural o jurídica, especialmente las universidades y los partidos políticos tendrán el derecho de organizar, fundar y mantener diarios, revistas, periódicos y estaciones transmisoras de radio, en las condiciones que establezca la ley. Sólo por ley podrá modificarse el régimen de propiedad y de funcionamiento de esos medios de comunicación. La expropiación de los mismos podrá únicamente realizarse por ley aprobada, en cada Cámara, con el voto conforme de la mayoría de sus miembros en ejercicio.
-
-    La importación y comercialización de libros, impresos y revistas serán libres, sin perjuicio de las reglamentaciones y gravámenes que la ley imponga. Se prohíbe discriminar arbitrariamente entre las empresas propietarias de editoriales, diarios, periódicos, revistas, radiodifusoras y estaciones de televisión en lo relativo a venta o suministro en cualquier forma de papel, tinta, maquinaria u otros elementos de trabajo, o respecto de las autorizaciones o permisos que fueren necesarios para efectuar tales adquisiciones, dentro o fuera del país.
-
-    Sólo el Estado y las Universidades tendrán el derecho de establecer y mantener estaciones de televisión, cumpliendo con los requisitos que la ley señale.
-
-    Queda garantizada la circulación, remisión y transmisión, por cualquier medio, de escritos, impresos y noticias, que no se opongan a la moral y a las buenas costumbres. Sólo en virtud de una ley, dictada en los casos previstos en el artículo 44, Nº 12, podrá restringirse el ejercicio de esta libertad;
-
-4. El derecho de reunirse sin permiso previo y sin armas. En las plazas, calles y demás lugares de uso público, las reuniones se regirán por las disposiciones generales que la ley establezca;
-
-5. El derecho de asociarse sin permiso previo y en conformidad a la ley;
-
-6. El derecho de presentar peticiones a la autoridad constituida, sobre cualquier asunto de interés público o privado, sin otra limitación que la de proceder en términos respetuosos y convenientes;
-
-7. La libertad de enseñanza.
-
-    La educación básica es obligatoria.
-
-    La educación es una función primordial del Estado, que se cumple a través de un sistema nacional del cual forman parte las instituciones oficiales de enseñanza y las privadas que colaboren en su realización, ajustándose a los planes y programas establecidos por las autoridades educacionales.
-
-    La organización administrativa y la designación del personal de las instituciones privadas de enseñanza serán determinadas por los particulares que las establezcan, con sujeción a las normas legales.
-
-    Sólo la educación privada gratuita y que no persiga fines de lucro recibirá del Estado una contribución económica que garantice su financiamiento, de acuerdo a las normas que establezca la ley.
-
-    La educación que se imparta a través del sistema nacional será democrática y pluralista y no tendrá orientación partidaria oficial. Su modificación se realizará también en forma democrática, previa libre discusión en los organismos competentes de composición pluralista.
-
-    Habrá una Superintendencia de Educación Pública, bajo la autoridad del Gobierno, cuyo Consejo estará integrado por representantes de todos los sectores vinculados al sistema nacional de educación. La representación de estos sectores deberá ser generada democráticamente.
-
-    La Superintendencia de Educación tendrá a su cargo la inspección de la enseñanza nacional.
-
-    Los organismos técnicos competentes harán la selección de los textos de estudio sobre la base de concursos públicos a los cuales tendrán acceso todos los educadores idóneos, cualquiera que sea su ideología. Habrá facilidades equitativas para editar y difundir esos textos escolares, y los establecimientos educacionales tendrán libertad para elegir los que prefieran.
-
-    Las Universidades estatales y las particulares reconocidas por el Estado son personas jurídicas dotadas de autonomía académica, administrativa y económica. Corresponde al Estado proveer a su adecuado financiamiento para que puedan cumplir sus funciones plenamente, de acuerdo a los requerimientos educacionales, científicos y culturales del país.
-
-    El acceso a las Universidades dependerá exclusivamente de la idoneidad de los postulantes, quienes deberán ser egresados de la enseñanza media o tener estudios equivalentes, que les permitan cumplir las exigencias objetivas del tipo académico. El ingreso y promoción de profesores e investigadores a la carrera académica se hará tomando en cuenta su capacidad y aptitudes.
-
-    El personal académico es libre para desarrollar las materias conforme a sus ideas, dentro del deber de ofrecer a sus alumnos la información necesaria sobre las doctrinas y principios diversos y discrepantes.
-
-    Los estudiantes universitarios tienen derecho a expresar sus propias ideas y a escoger, en cuanto sea posible, la enseñanza y tuición de los profesores que prefieran;
-
-8. La admisión a todos los empleos y funciones públicas, sin otras condiciones que las que impongan las leyes;
-
-9. La igual repartición de los impuestos y contribuciones, en proporción de los haberes o en la progresión o forma que fije la ley; y la igual repartición de las demás cargas públicas.
-
-    Sólo por ley pueden imponerse contribuciones directas o indirectas, y, sin su especial autorización, es prohibido a toda autoridad del Estado y a todo individuo imponerlas, aunque sea bajo pretexto precario, en forma voluntaria, o de cualquier otra clase.
-
-    No puede exigirse ninguna especie de servicio personal, o de contribución, sino en virtud de un decreto de autoridad competente, fundado en la ley que autoriza aquella exacción.
-
-    Ningún cuerpo armado puede hacer requisiciones, ni exigir clase alguna de auxilios, sino por medio de las autoridades civiles y por decreto de éstas.
-
-    Una ley particular determinará el método de reclutas y reemplazos para las fuerzas de mar y tierra.
-
-    Todos los chilenos en estado de cargar armas deberán hallarse inscriptos en los registros militares, si no están especialmente exceptuados por la ley;
-
-10. El derecho de propiedad en sus diversas especies.
-
-    La ley establecerá el modo de adquirir la propiedad, de usar, gozar y disponer de ella y las limitaciones y obligaciones que permitan asegurar su función social y hacerla accesible a todos. La función social de la propiedad comprende cuanto exijan los intereses generales del Estado, la utilidad y la salubridad pública, el mejor aprovechamiento de las fuentes y energías productivas en el servicio de la colectividad y la elevación de las condiciones de vida del común de los habitantes.
-
-    Cuando el interés de la comunidad nacional lo exija, la ley podrá nacionalizar o reservar al Estado el dominio exclusivo de recursos naturales, bienes de producción u otros, que declare de importancia preeminente para la vida económica, social o cultural del país. Propenderá, asimismo, a la conveniente distribución de la propiedad y a la constitución de la propiedad familiar.
-
-    El Estado tiene el dominio absoluto, exclusivo, inalienable e imprescriptible de todas las minas, las covaderas, las arenas metalíferas, los salares, los depósitos de carbón e hidrocarburos y demás sustancias fósiles, con excepción de las arcillas superficiales.
-
-    La ley determinará qué sustancias de aquellas a que se refiere el inciso anterior, entre las cuales no podrán considerarse los hidrocarburos líquidos y gaseosos, podrán ser objeto de concesiones de exploración o de explotación, la forma y resguardos del otorgamiento y disfrute de dichas concesiones, la materia sobre que recaerán, los derechos y obligaciones a que darán origen y la actividad que los concesionarios deberán desarrollar en interés de la colectividad para merecer amparo y garantías legales. La concesión estará sujeta a extinción en caso de no cumplirse los requisitos fijados en la ley para mantenerla.
-
-    La ley asegurará la protección de los derechos del concesionario y en especial de sus facultades de defenderlos frente a terceros y de usar, gozar y disponer de ellos por acto entre vivos o por causa de muerte, sin perjuicio de lo establecido en el inciso anterior. En aquellas cuestiones sobre otorgamiento, ejercicio o extinción de las concesiones que la ley entregue a la resolución de la autoridad administrativa, entre las cuales no podrán estar las que se refieren a la fijación de los requisitos de amparo, habrá siempre lugar a reclamo ante los tribunales ordinarios de justicia.
-
-    Nadie puede ser privado de su propiedad sino en virtud de la ley general o especial que autorice la expropiación por causa de utilidad pública o de interés social, calificada por el legislador. El expropiado tendrá siempre derecho a indemnización cuyo monto y condiciones de pago se determinarán equitativamente tomando en consideración los intereses de la colectividad y de los expropiados. La ley determinará las normas para fijar la indemnización, el tribunal que conozca de las reclamaciones sobre su monto, el que en todo caso fallará conforme a derecho, la forma de extinguir esta obligación, y las oportunidades y modo en que el expropiador tomará posesión material del bien expropiado.
-
-    Cuando se trate de expropiación de predios rústicos, la indemnización será equivalente al avalúo vigente para los efectos de la contribución territorial, más el valor de las mejoras que no estuvieren comprendidas en dicho avalúo, y podrá pagarse con una parte al contado y el saldo en cuotas en un plazo no superior, a treinta años, todo ello en la forma y condiciones que la ley determine.
-
-    Cuando se trate de nacionalización de actividades o empresas mineras que la ley califique como Gran Minería, la nacionalización podrá comprender a ellas mismas, a derechos en ellas o a la totalidad o parte de sus bienes. La nacionalización podrá también extenderse a bienes de terceros, de cualquier clase, directa y necesariamente destinados a la normal explotación de dichas actividades o empresas. El monto de la indeminización o indemnizaciones, según los casos, podrá determinarse sobre la base del costo original de dichos bienes, deducidas las amortizaciones, depreciaciones, castigos y desvalorización por obsolescencia. También podrá deducirse del monto de la indemnización el todo o parte de las rentabilizadas excesivas que hubieren obtenido las empresas nacionalizadas. La indemnización será pagada en dinero, a menos que el afectado acepte otra forma de pago, en un plazo no superior a treinta años y en las condiciones que la ley determine. El Estado podrá tomar posesión material de los bienes comprendidos en la nacionalización inmediatamente después que ésta entre en vigencia. El afectado sólo podrá hacer valer en contra del Estado, en cuanto se relacione con la nacionalización, el derecho a la indemnización regulada en la forma antes indicada. La ley podrá determinar que los socios o accionistas de las empresas nacionalizadas no tendrán otros derechos que hacer valer, sea en contra del Estado, sea recíprocamente entre ellos, que el de percibir la cuota o parte proporcional que les corresponda dentro de la indemnización que reciban las respectivas empresas. Asimismo, la ley podrá, en cuanto atañe al Estado, determinar qué terceros, exceptuados los trabajadores de la actividad o empresa nacionalizada, pueden hacer valer sus derechos sólo sobre la indemnización.
-
-    La ley podrá reservar al dominio nacional de uso público todas las aguas existentes en el territorio nacional y expropiar, para incorporarlas a dicho dominio, las que sean de propiedad particular. En este caso, los dueños de las aguas expropiadas continuarán usándolas en calidad de concesionarios de un derecho de aprovechamiento y sólo tendrán derecho a la indemnización cuando, por la extinción total o parcial de ese derecho, sean efectivamente privados del agua suficiente para satisfacer, mediante un uso racional y beneficioso, las mismas necesidades que satisfacían con anterioridad a la extinción.
-
-    La pequeña propiedad rústica trabajada por su dueño y la vivienda habitada por su propietario no podrán ser expropiadas sin previo pago de la indemnización;
-
-    En los casos en que el Estado o sus organismos hayan celebrado o celebren con la debida autorización o aprobación de la ley, contratos o convenciones de cualquier clase en que se comprometan a mantener en favor de particulares determinados regímenes legales de excepción o tratamientos administrativos especiales, éstos podrán ser modificados o extinguidos por la ley cuando lo exija el interés nacional.
-
-    En casos calificados, cuando se produzca como consecuencia de la aplicación del inciso anterior, un perjuicio directo, actual y efectivo, la ley podrá disponer una compensación a los afectados.
-
-11. La propiedad exclusiva de todo descubrimiento o producción, por el tiempo que concediere la ley. Si ésta exigiere su expropiación, se dará al autor o inventor la indemnización competente;
-
-12. La inviolabilidad del hogar.
-
-    La casa de toda persona que habite el territorio chileno sólo puede ser allanada por un motivo especial determinado por la ley, y en virtud de orden de autoridad competente;
-
-13. La inviolabilidad de la correspondencia epistolar y telegráfica y de las comunicaciones telefónicas. No podrán abrirse, ni interceptarse, ni registrarse los papeles o efectos públicos, sino en los casos expresamente señalados por la ley;
-
-14. La libertad de trabajo y su protección. Toda persona tiene derecho al trabajo, a la libre elección de éste, a una remuneración suficiente que asegure a ella y su familia un bienestar acorde con la dignidad humana y a una justa participación en los beneficios que de su actividad provengan.
-
-    El derecho a sindicarse en el orden de sus actividades o en la respectiva industria o faena, y el derecho de huelga, todo ello en conformidad a la ley.
-
-    Los sindicatos y las federaciones y confederaciones sindicales, gozarán de personalidad jurídica por el sólo hecho de registrar sus estatutos y actas constitutivas en la forma y condiciones que determine la ley.
-
-    Los sindicatos son libres para cumplir sus propios fines.
-
-    Ninguna clase de trabajo o industria puede ser prohibida, a menos que se oponga a las buenas costumbres, a la seguridad o a la salud públicas, o que lo exija el interés nacional y una ley lo declare así;
-
-15. La libertad de permanecer en cualquier punto de la República, trasladarse de uno a otro, o entrar y salir de su territorio, a condición de que se guarden las normas establecidas en la ley y salvo siempre el perjuicio de tercero, sin que nadie pueda ser detenido, preso, desterrado o extrañado, sino en la forma determinada por las leyes;
-
-16. El derecho a la seguridad social.
-
-    El Estado adoptará todas las medidas que tiendan a la satisfacción de los derechos sociales, económicos y culturales necesarios para el libre desenvolvimiento de la personalidad y de la dignidad humanas, para la protección integral de la colectividad y para propender a una equitativa redistribución de la renta nacional.
-
-    La ley deberá cubrir, especialmente, los riesgos de pérdida, suspensión o disminución involuntaria de la capacidad del trabajo individual, muerte del jefe de familia o de cesantía involuntaria, así como el derecho a la atención médica, preventiva, curativa y de rehabilitación en caso de accidente, enfermedad o maternidad y el derecho a prestaciones familiares a los jefes de hogares.
-
-    El Estado mantendrá un seguro social de accidentes para asegurar el riesgo profesional de los trabajadores.
-
-    Es deber del Estado velar por la salud pública y el bienestar higiénico del país. Deberá destinarse cada año una cantidad de dinero suficiente para mantener un servicio nacional de salud, y
-
-17. El derecho a participar activamente en la vida social, cultural, cívica, política y económica con el objeto de lograr el pleno desarrollo de la persona humana y su incorporación efectiva a la comunidad nacional. El Estado deberá remover los obstáculos que limiten, en el hecho, la libertad e igualdad de las personas y grupos, y garantizará y promoverá su acceso a todos los niveles de la educación y la cultura y a los servicios necesarios para conseguir esos objetivos, a través de los sistemas e instituciones que señale la ley.
-
-    Las Juntas de Vecinos, Centros de Madres, Sindicatos, Cooperativas y demás organizaciones sociales mediante las cuales el pueblo participa en la solución de sus problemas y colabora en la gestión de los servicios del Estado y de las Municipalidades, serán personas jurídicas dotadas de independencia y libertad para el desempeño de las funciones que por la ley les correspondan y para generar democráticamente sus organismos directivos y representantes, a través del voto libre y secreto de todos sus miembros.
-
-    En ningún caso esas instituciones podrán arrogarse el nombre o representación del pueblo, ni intentar ejercer poderes propios de las autoridades del Estado.
+Los templos y sus dependencias, destinados al servicio de un culto, estarán exentos de contribuciones;
 
 #### Art. 11.-
 
-Nadie puede ser condenado, si no es juzgado legalmente y en virtud de una ley promulgada antes del hecho sobre que recae el juicio.
+DEROGADO
 
 #### Art. 12.-
 
-Nadie puede ser juzgado por comisiones especiales, si no por el tribunal que le señale la ley y que se halle establecido con anterioridad por ésta.
+DEROGADO
 
 #### Art. 13.-
 
-Nadie puede ser detenido si no por orden de funcionario público expresamente facultado por la ley y después de que dicha orden le sea intimada en forma legal, a menos de ser sorprendido en delito flagrante y, en este caso, para el único objeto de ser conducido ante juez competente.
+DEROGADO
 
 #### Art. 14.-
 
-Nadie puede ser detenido, sujeto a prisión preventiva o preso sino en su casa o en lugares públicos destinados a este objeto.
-
-Los encargados de las prisiones no pueden recibir en ellas a nadie en calidad de detenido, procesado o preso, sin copiar en su registro la orden correspondiente, emanada de autoridad que tenga facultad legal. Pueden, sin embargo, recibir en el recinto de la prisión, en clase de detenidos, a los que fueren conducidos con el objeto de ser presentados al juez competente; pero con la obligación de dar cuenta a éste dentro de las veinticuatro horas.
+DEROGADO
 
 #### Art. 15.-
 
-Si la autoridad hiciere detener a alguna persona, deberá, dentro de las cuarenta y ocho horas siguientes, dar aviso al juez competente, poniendo a su disposición al detenido.
+DEROGADO
 
 #### Art. 16.-
 
-Todo individuo que se hallare detenido, procesado o preso, con infracción de lo dispuesto en los artículos anteriores, podrá ocurrir por sí o por cualquiera a su nombre, a la magistratura que señale la ley, en demanda de que se guarden las formalidades legales. Esta magistratura podrá decretar que el individuo sea traído a su presencia y su decreto será precisamente obedecido por todos los encargados de las cárceles o lugares de detención. Instruida de los antecedentes, decretará su libertad inmediata o hará que se reparen los defectos legales o pondrá al individuo a disposición del juez competente, procediendo en todo breve y, sumariamente, corrigiendo por sí esos defectos o dando cuenta a quien corresponda para que los corrija.
+DEROGADO
 
 #### Art. 17.-
 
-Ninguna incomunicación puede impedir que el funcionario encargado de la casa de detención visite al detenido, procesado o preso que se encuentre en ella.
-
-Este funcionario está obligado, siempre que el detenido le requiera, a transmitir al juez competente la copia del decreto de detención; o a reclamar para que se le dé dicha copia, o a dar él mismo un certificado de hallarse detenido aquel individuo, si al tiempo de su detención, si hubiere omitido este requisito.
+DEROGADO
 
 #### Art. 18.-
 
-En las causas criminales no se podrá obligar al inculpado a que declare bajo juramente sobre hecho propio; así como tampoco a sus ascendientes, descendientes, cónyuge y parientes, hasta el tercer grado de consanguinidad y segundo de afinidad inclusive.
-
-No podrá aplicarse tormento, ni imponerse, en caso alguno, la pena de confiscación de bienes, sin perjuicio del comiso en los casos establecidos por las leyes.
+DEROGADO
 
 #### Art. 19.-
 
-Afianzada suficientemente la persona o el saneamiento de la acción, en la forma que según la naturaleza de los casos determine la ley, no debe ser detenido, ni sujeto a prisión preventiva, el que no sea responsable de un delito a que la ley señale pena aflictiva.
+DEROGADO
 
 #### Art. 20.-
 
-Todo individuo en favor de quien se dictare sentencia absolutoria o se sobreseyere definitivamente, tendrá derecho a indemnización, en la forma que determine la ley, por los perjuicios efectivos o meramente morales que hubiere sufrido injustamente.
+DEROGADO
 
 #### Art. 21.-
 

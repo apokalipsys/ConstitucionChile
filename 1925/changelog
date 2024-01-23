@@ -1,4 +1,5 @@
-1976.09.18: Decreto Ley 1551: Acta Constitucional N° 2 Bases esenciales de la Institucionalidad Chilena @DL1551
+1976.09.18: Decreto Ley 1552: Acta Constitucional N° 3 @DL1552
+            Decreto Ley 1551: Acta Constitucional N° 2 Bases esenciales de la Institucionalidad Chilena @DL1551
 1976.02.27: Decreto Ley 1167: Consolida la nacionalización de la Gran Minería del Cobre y da normas para la administración de las empresas nacionalizadas @DL1167
 1974.12.27: Decreto Ley 821: Agrega Disposición Transitoria que indica a la Constitución Política del Estado @DL821
 1974.10.24: Decreto Ley 710: Aprueba transacción que indica @DL710
@@ -159,6 +160,12 @@ references:
     type: webpage
     title: Decreto Ley 1551 13-SEP-1976 MINISTERIO DE JUSTICIA
     URL: https://www.bcn.cl/leychile/navegar?idNorma=6655
+    issued: 1976-09-13
+    language: es-CL
+  - id: DL1552
+    type: webpage
+    title: Decreto Ley 1552 13-SEP-1976 MINISTERIO DE JUSTICIA
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=6656
     issued: 1976-09-13
     language: es-CL
 ---
