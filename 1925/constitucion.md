@@ -1,7 +1,7 @@
 ---
 title: Constitución Política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 10 de noviembre de 1973
+date: Texto actualizado a 29 de noviembre de 1973
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -1319,11 +1319,7 @@ k) Mientras se dicte por ley un nuevo Estatuto de los Trabajadores del Cobre, é
 
     Al dictar un nuevo Estatuto, el legislador, en caso alguno, podrá suprimir, disminuir o suspender los derechos o beneficios económicos, sociales, sindicales o cualesquiera otros que actualmente disfruten los trabajadores de las empresas de la Gran Minería del Cobre, sea que estos se hayan establecido por aplicación de disposiciones legales, actas de avenimiento, contratos colectivos, fallos arbitrales o por cualquiera otra forma. Deberá consultar, igualmente, la participación de los trabajadores en la gestión de las empresas u organismos que se hagan cargo de las faenas productoras.
 
-l) Lo dispuesto en los artículos 23 y 26 a 53 de la Ley Nº 16.624, de 15 de Mayo de 1967 y sus modificaciones posteriores, quedará vigente y se aplicará sobre las utilidades o excedentes que se produzcan en la explotación de los bienes nacionalizados con las modificaciones que contempla el inciso siguiente.
-
-    Los fondos a que se refiere el inciso final del artículo 27 de la Ley Nº 16.624, exceptuándose aquéllos correspondientes a las Municipalidades, los distribuirá la Corporación de Fomento de la Producción de manera que beneficien a las provincias de Tarapacá y Antofagasta en la proporción de las producciones de la Gran Minería del Cobre ubicadas en su territorio, correspondiendo a la provincia de Tarapacá un 30% del cual un 9% beneficiará al departamento de Arica y el saldo a la provincia de Antofagasta; a las provincias de Atacama, Aconcagua y O'Higgins, la proporción de las producciones de cobre ubicadas en sus respectivos territorios, y a la de Colchagua, el porcentaje establecido en el artículo 40 de la Ley Nº 17.318. Destínase a la provincia de Coquimbo el 10% de los ingresos a que se refiere el inciso final del artículo 51 de la Ley Nº 16.624 y sus modificaciones posteriores. De las utilidades o excedentes que se produzcan en la explotación de los bienes nacionalizados y no distribuidos en conformidad a esta disposición, se destinará el porcentaje que determine el Presidente de la República a la investigación, prevención, diagnóstico y tratamiento de los accidentes y enfermedades profesionales mineras, así como a la rehabilitación de los trabajadores afectados. La ley establecerá las normas que harán posible la inversión de estos recursos.
-
-    Los fondos a que se refiere esta disposición serán consultados anualmente en la Ley de Presupuestos de la Nación y su inversión corresponderá al rendimiento efectivo de la ley y los saldos no invertidos al 31 de Diciembre de cada año no ingresarán a las rentas generales de la Nación.
+l) DEROGADO
 
 #### DECIMOCTAVA:
 
