@@ -1,7 +1,7 @@
 ---
 title: Constitución Política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 6 de diciembre de 1973
+date: Texto actualizado a 10 de diciembre de 1973
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -59,6 +59,8 @@ La nacionalidad chilena se pierde:
     No podrá cancelarse la carta de nacionalización otorgada en favor de personas que desempeñen cargos de elección popular, y
 
 3. Por prestación de servicios durante una guerra, a enemigos de Chile o de sus aliados.
+
+4. Por atentar gravemente desde el extranjero contra los intereses esenciales del Estado durante las situaciones de excepción previstas en el artículo 72, número 17 de esta Constitución Política.
 
 Los que hubieren perdido la nacionalidad chilena por cualquiera de las causales establecidas en este artículo, sólo podrán ser rehabilitados por ley.
 
