@@ -1,3 +1,4 @@
+1976.02.27: Decreto Ley 1167: Consolida la nacionalización de la Gran Minería del Cobre y da normas para la administración de las empresas nacionalizadas @DL1167
 1974.12.27: Decreto Ley 821: Agrega Disposición Transitoria que indica a la Constitución Política del Estado @DL821
 1974.10.24: Decreto Ley 710: Aprueba transacción que indica @DL710
 1974.07.24: Decreto Ley 601: Aprueba transacción que indica @DL601
@@ -146,5 +147,11 @@ references:
     title: Decreto Ley 821 27-DIC-1974 MINISTERIO DEL INTERIOR
     URL: https://www.bcn.cl/leychile/navegar?idNorma=133272
     issued: 1974-12-27
+    language: es-CL
+  - id: DL1167
+    type: webpage
+    title: Decreto Ley 1167 27-FEB-1976 MINISTERIO DEL INTERIOR, SUBSECRETARIA DEL INTERIOR
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=133452
+    issued: 1976-02-27
     language: es-CL
 ---
