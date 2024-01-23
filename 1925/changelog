@@ -1,3 +1,4 @@
+1974.10.24: Decreto Ley 710: Aprueba transacción que indica @DL710
 1974.07.24: Decreto Ley 601: Aprueba transacción que indica @DL601
 1973.12.10: Decreto Ley 175: Modifica el Artículo 6° de la Constitución Política del Estado @DL175
 1973.12.06: Decreto Ley 170: Reforma la Constitución Política del Estado @DL170
@@ -132,5 +133,11 @@ references:
     title: Decreto Ley 601 24-JUL-1974 MINISTERIO DEL INTERIOR
     URL: https://www.bcn.cl/leychile/navegar?idNorma=133270
     issued: 1974-07-24
+    language: es-CL
+  - id: DL710
+    type: webpage
+    title: Decreto Ley 710 24-OCT-1974 MINISTERIO DEL INTERIOR
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=133271
+    issued: 1974-10-24
     language: es-CL
 ---

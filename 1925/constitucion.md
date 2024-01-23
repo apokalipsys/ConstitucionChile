@@ -1,7 +1,7 @@
 ---
 title: Constitución Política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 24 de julio de 1974
+date: Texto actualizado a 24 de octubre de 1974
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -1338,3 +1338,9 @@ La ley deberá contemplar los derechos preferentes que deban corresponder al des
 Apruébase en todos sus términos el Contrato de Transacción celebrado por el Estado de Chile, la Corporación del Cobre y las compañías "Chile Exploration Company", "Andes Copper Mining Company" y "The Anaconda Company", que consta del documento suscrito por las partes con fecha 22 de Julio de 1974 y que obra en poder del señor Contralor General de la República, mediante el cual se solucionan y se pone término a todas las controversias, dificultades, litigios, reclamaciones y demás cuestiones entre las partes, presentes o futuras, en Chile y en el extranjero, derivadas o relacionadas con la nacionalización de las empresas que pertenecieron a las disueltas sociedades "Compañía de Cobre Chuquicamata S. A." y "Compañía de Cobre Salvador S. A.", todo ello de acuerdo con las estipulaciones que en ese documento se consignan.
 
 A fin de llevar a efecto la transacción mencionada, no regirán las limitaciones, restricciones o requisitos vigentes o que pudieren entenderse establecidos por las leyes para efectuar los pagos, constituir las garantías, asumir las obligaciones, suscribir los documentos y efectuar las declaraciones que en dicho Contrato se contienen.
+
+#### Artículo veinte transitorio.-
+
+Apruébase en todos sus términos el Contrato de Transacción celebrado por el Estado de Chile, la Corporación del Cobre, la sociedad colectiva del Estado denominada Sociedad Minera El Teniente, y las sociedades Braden Copper Company, Kennecott Copper Corporation y Kennecott Sales Corporation, que consta del documento suscrito por las partes con fecha 22 de Octubre de 1974 y que obra en poder del señor Contralor General de la República, mediante el cual se solucionan y se pone término a todas las controversias, dificultades, litigios, reclamaciones y demás cuestiones entre las partes, presentes o futuras, en Chile y en el extranjero, derivadas o relacionadas con la nacionalización de la empresa que perteneció a la disuelta sociedad minera mixta denominada Sociedad Minera El Teniente S.A., todo ello de acuerdo con las estipulaciones que en ese documento se consignan.
+
+A fin de llevar a efecto la transacción mencionada, no regirán las limitaciones, restricciones o requisitos vigentes o que pudieran entenderse establecidos por las leyes para efectuar los pagos, constituir las garantías, asumir las obligaciones, suscribir los documentos y efectuar las declaraciones que en dicho contrato se contienen.
