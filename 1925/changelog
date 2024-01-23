@@ -1,3 +1,4 @@
+1974.12.27: Decreto Ley 821: Agrega Disposición Transitoria que indica a la Constitución Política del Estado @DL821
 1974.10.24: Decreto Ley 710: Aprueba transacción que indica @DL710
 1974.07.24: Decreto Ley 601: Aprueba transacción que indica @DL601
 1973.12.10: Decreto Ley 175: Modifica el Artículo 6° de la Constitución Política del Estado @DL175
@@ -139,5 +140,11 @@ references:
     title: Decreto Ley 710 24-OCT-1974 MINISTERIO DEL INTERIOR
     URL: https://www.bcn.cl/leychile/navegar?idNorma=133271
     issued: 1974-10-24
+    language: es-CL
+  - id: DL821
+    type: webpage
+    title: Decreto Ley 821 27-DIC-1974 MINISTERIO DEL INTERIOR
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=133272
+    issued: 1974-12-27
     language: es-CL
 ---
