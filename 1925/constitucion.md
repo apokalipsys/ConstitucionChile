@@ -1,7 +1,7 @@
 ---
 title: Constitución Política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 29 de noviembre de 1973
+date: Texto actualizado a 6 de diciembre de 1973
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -907,7 +907,13 @@ Los jueces, sean temporales o perpetuos, sólo podrán ser depuestos de sus dest
 
 No obstante, el Presidente de la República, a propuesta o con acuerdo de la Corte Suprema, podrá autorizar permutas, u ordenar el traslado de los jueces a otro cargo de igual categoría.
 
-En todo caso, la Corte Suprema, por requerimiento del Presidente de la República, a solicitud de parte interesada, o de oficio, podrá declarar que los jueces no han tenido buen comportamiento, y, previo informe del inculpado y de la Corte de Apelaciones respectiva, acordar su remoción, por las dos terceras partes de sus miembros. Estos acuerdos se comunicarán al Presidente de la República para su cumplimiento.
+En todo caso, la Corte Suprema, por requerimiento del Presidente de la República, a solicitud de parte interesada, o de oficio, podrá declarar que los jueces no han tenido buen comportamiento, y, previo informe del inculpado y de la Corte de Apelaciones respectiva, acordar su remoción, por las dos terceras partes de sus miembros.
+
+Anualmente se practicará una calificación de todo el personal del Poder Judicial, en la forma que determine la ley.
+
+Para acordar la remoción del personal que goce de inamovilidad y que sea mal calificado, la Corte Suprema requerirá del acuerdo de la mayoría de sus miembros en ejercicio.
+
+Los acuerdos que adopte la Corte Suprema se comunicarán al Presidente de la República para su cumplimiento.
 
 #### Art. 86.-
 

@@ -1,3 +1,4 @@
+1973.12.06: Decreto Ley 170: Reforma la Constitución Política del Estado @DL170
 1973.11.29: Decreto Ley 155: Suplemento al Presupuesto 1973 @DL155
 1973.11.10: Decreto Ley 119 : Disuelve el Tribunal Constitucional @DL119
 1971.10.25: Decreto 1333 DFL 1333: Fija texto de la Constitución Política del Estado @DFL1333
@@ -111,5 +112,11 @@ references:
     title: Decreto Ley 155 29-NOV-1973 MINISTERIO DE HACIENDA
     URL: https://www.bcn.cl/leychile/navegar?idNorma=5818
     issued: 1973-11-29
+    language: es-CL
+  - id: DL170
+    type: webpage
+    title: Decreto Ley 170 06-DIC-1973 MINISTERIO DE JUSTICIA, SUBSECRETARIA DE JUSTICIA
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=133451
+    issued: 1973-12-06
     language: es-CL
 ---
