@@ -1,7 +1,7 @@
 ---
 title: Constitución Política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 27 de febrero de 1976
+date: Texto actualizado a 18 de septiembre de 1976
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -14,19 +14,19 @@ fontfamilyoptions: sfdefault
 
 #### Art.1.-
 
-El Estado de Chile es unitario. Su Gobierno es republicano y democrático representativo.
+DEROGADO
 
 #### Art. 2.-
 
-La Soberanía reside esencialmente en la Nación, la cual delega su ejercicio en las autoridades que esta Constitución establece.
+DEROGADO
 
 #### Art. 3.-
 
-Ninguna persona o reunión de personas pueden tomar el título o representación del pueblo, arrogarse sus derechos, ni hacer peticiones en su nombre. La infracción de este artículo es sedición.
+DEROGADO
 
 #### Art. 4.-
 
-Ninguna magistratura, ninguna persona, ni reunión de personas pueden atribuirse, ni aún a pretexto de circunstancias extraordinarias, otra autoridad o derechos que los que expresamente se les hayan conferido por las leyes. Todo acto en contravención a este artículo es nulo.
+DEROGADO
 
 
 ## Capítulo II Nacionalidad y Ciudadanía
