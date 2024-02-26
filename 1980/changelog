@@ -1,3 +1,4 @@
+2026.04.02: Ley 21644: Modifica la Carta Fundamental, para crear la Fiscalía Supraterritorial, especializada en crimen organizado y delitos de alta complejidad, al interior del Ministerio Público @21644
 2026.01.01: Las modificaciones a los artículos 14 y 15 de esta Constitución, introducidas por el artículo único de la ley de reforma constitucional en materia de derecho de sufragio de personas extranjeras, comenzarán a regir desde el año 2026.
 2025.10.07: Ley 21773: Modifica la Carta Fundamental en materia de derecho de sufragio de personas extranjeras
 2024.01.19: Ley 21654: Modifica la Carta Fundamental en materia de prórrogas sucesivas del Estado de Excepción Constitucional de Emergencia, en las condiciones que indica @21654
@@ -512,5 +513,11 @@ references:
     title: Ley 21773
     URL: https://www.bcn.cl/leychile/navegar?idNorma=1217272
     issued: 2025-10-07
+    language: es-CL
+  - id: 21644
+    type: webpage
+    title: Ley 21644
+    URL: https://www.bcn.cl/leychile/navegar?idNorma=1200723
+    issued: 2024-02-02
     language: es-CL
 ---
