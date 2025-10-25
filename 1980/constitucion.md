@@ -1,7 +1,7 @@
 ---
 title: Constitución política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 7 de octubre de 2025
+date: Texto actualizado a 1 de enero de 2026
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -128,7 +128,7 @@ Tratándose de los chilenos a que se refieren los números 2º y 4º del artícu
 
 #### Artículo 14.-
 
-Los extranjeros avecindados en Chile por más de cinco años, y que cumplan con los requisitos señalados en el inciso primero del artículo 13, podrán ejercer el derecho de sufragio en los casos y formas que determine la ley.
+Los extranjeros avecindados en Chile por más de diez años ininterrumpidos, y que cumplan con los requisitos señalados en el inciso primero del artículo 13, podrán ejercer el derecho de sufragio en los casos y formas que determine la ley. Para estos efectos, los extranjeros sólo se considerarán avecindados a partir del momento en que obtengan un permiso de residencia definitiva. Con todo, durante el período de avecindamiento, no deberán registrar salidas del país por más de noventa días en cualquier período de doce meses.
 
 Los nacionalizados en conformidad al Nº 3º del artículo 10, tendrán opción a cargos públicos de elección popular sólo después de cinco años de estar en posesión de sus cartas de nacionalización.
 
@@ -136,7 +136,7 @@ Los nacionalizados en conformidad al Nº 3º del artículo 10, tendrán opción 
 
 En las votaciones populares, el sufragio será personal, igualitario y secreto.
 
-El sufragio será obligatorio para los electores en todas las elecciones y plebiscitos, salvo en las elecciones primarias. Una ley orgánica constitucional fijará las multas o sanciones que se aplicarán por el incumplimiento de este deber, los electores que estarán exentos de ellas y el procedimiento para su determinación.
+El sufragio será obligatorio en todas las elecciones y plebiscitos, salvo en las elecciones primarias. Una ley orgánica constitucional fijará las multas o sanciones que se aplicarán por el incumplimiento de este deber, los que estarán exentos de ellas y el procedimiento para su determinación.
 
 Sólo podrá convocarse a votación popular para las elecciones y plebiscitos expresamente previstos en esta Constitución.
 
