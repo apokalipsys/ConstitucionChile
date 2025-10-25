@@ -1,7 +1,7 @@
 ---
 title: Constitución política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 19 de enero de 2024
+date: Texto actualizado a 7 de octubre de 2025
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -2944,3 +2944,7 @@ Facúltase al Presidente de la República para que, en el plazo de tres meses co
 Dichas disposiciones sólo podrán otorgar a las Fuerzas Armadas atribuciones para el control de identidad y registro en las áreas de las zonas fronterizas delimitadas por el correspondiente decreto supremo, así como la detención para el solo efecto de poner a las personas a disposición de las policías. Asimismo, podrán facultar a las Fuerzas Armadas para la colaboración con la autoridad contralora para efectos de lo establecido en el artículo 166 de la ley N° 21.325, de Migración y Extranjería.
 
 Estos preceptos regirán mientras no se publique la ley a la que se refiere el párrafo final del numeral 21° del artículo 32. El respectivo Mensaje deberá ser enviado por el Presidente de la República al Congreso Nacional dentro de un plazo de seis meses contado desde la publicación de esta reforma.
+
+#### QUINCUAGÉSIMA CUARTA.
+
+Las modificaciones a los artículos 14 y 15 de esta Constitución, introducidas por el artículo único de la ley de reforma constitucional en materia de derecho de sufragio de personas extranjeras, comenzarán a regir desde el año 2026. Previo a su entrada en vigencia, una ley establecerá multas para ciudadanos por incumplimiento del deber de sufragio.
