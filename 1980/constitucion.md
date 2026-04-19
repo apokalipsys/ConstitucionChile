@@ -1,7 +1,7 @@
 ---
 title: Constitución política de la República de Chile
 subtitle: República de Chile
-date: Texto actualizado a 19 de enero de 2024
+date: Texto actualizado a 2 de abril de 2026
 mainfont: gobCL
 fontfamilyoptions: sfdefault
 ---
@@ -128,7 +128,7 @@ Tratándose de los chilenos a que se refieren los números 2º y 4º del artícu
 
 #### Artículo 14.-
 
-Los extranjeros avecindados en Chile por más de cinco años, y que cumplan con los requisitos señalados en el inciso primero del artículo 13, podrán ejercer el derecho de sufragio en los casos y formas que determine la ley.
+Los extranjeros avecindados en Chile por más de diez años ininterrumpidos, y que cumplan con los requisitos señalados en el inciso primero del artículo 13, podrán ejercer el derecho de sufragio en los casos y formas que determine la ley. Para estos efectos, los extranjeros sólo se considerarán avecindados a partir del momento en que obtengan un permiso de residencia definitiva. Con todo, durante el período de avecindamiento, no deberán registrar salidas del país por más de noventa días en cualquier período de doce meses.
 
 Los nacionalizados en conformidad al Nº 3º del artículo 10, tendrán opción a cargos públicos de elección popular sólo después de cinco años de estar en posesión de sus cartas de nacionalización.
 
@@ -136,7 +136,7 @@ Los nacionalizados en conformidad al Nº 3º del artículo 10, tendrán opción 
 
 En las votaciones populares, el sufragio será personal, igualitario y secreto.
 
-El sufragio será obligatorio para los electores en todas las elecciones y plebiscitos, salvo en las elecciones primarias. Una ley orgánica constitucional fijará las multas o sanciones que se aplicarán por el incumplimiento de este deber, los electores que estarán exentos de ellas y el procedimiento para su determinación.
+El sufragio será obligatorio en todas las elecciones y plebiscitos, salvo en las elecciones primarias. Una ley orgánica constitucional fijará las multas o sanciones que se aplicarán por el incumplimiento de este deber, los que estarán exentos de ellas y el procedimiento para su determinación.
 
 Sólo podrá convocarse a votación popular para las elecciones y plebiscitos expresamente previstos en esta Constitución.
 
@@ -910,7 +910,7 @@ No pueden ser candidatos a diputados ni a senadores:
 
 8) Las personas naturales y los gerentes o administradores de personas jurídicas que celebren o caucionen contratos con el Estado;
 
-9) El Fiscal Nacional, los fiscales regionales y los fiscales adjuntos del Ministerio Público, y
+9) El Fiscal Nacional, los fiscales regionales, el Fiscal Jefe de la Fiscalía Supraterritorial, especializada en crimen organizado y delitos de alta complejidad, y los fiscales adjuntos del Ministerio Público, y
 
 10) Los Comandantes en Jefe del Ejército, de la Armada y de la Fuerza Aérea, el General Director de Carabineros, el Director General de la Policía de Investigaciones y los oficiales pertenecientes a las Fuerzas Armadas y a las Fuerzas de Orden y Seguridad Pública.
 
@@ -1220,7 +1220,7 @@ El ejercicio de la acción penal pública, y la dirección de las investigacione
 
 #### Artículo 84.-
 
-Una ley orgánica constitucional determinará la organización y atribuciones del Ministerio Público, señalará las calidades y requisitos que deberán tener y cumplir los fiscales para su nombramiento y las causales de remoción de los fiscales adjuntos, en lo no contemplado en la Constitución. Las personas que sean designadas fiscales no podrán tener impedimento alguno que las inhabilite para desempeñar el cargo de juez. Los fiscales regionales y adjuntos cesarán en su cargo al cumplir 75 años de edad.
+Una ley orgánica constitucional determinará la organización y atribuciones del Ministerio Público, señalará las calidades y requisitos que deberán tener y cumplir los fiscales para su nombramiento y las causales de remoción de los fiscales adjuntos, en lo no contemplado en la Constitución. Las personas que sean designadas fiscales no podrán tener impedimento alguno que las inhabilite para desempeñar el cargo de juez. Los fiscales regionales, el Fiscal Jefe de la Fiscalía Supraterritorial, especializada en crimen organizado y delitos de alta complejidad, y los fiscales adjuntos cesarán en su cargo al cumplir 75 años de edad.
 
 La ley orgánica constitucional establecerá el grado de independencia y autonomía y la responsabilidad que tendrán los fiscales en la dirección de la investigación y en el ejercicio de la acción penal pública, en los casos que tengan a su cargo.
 
@@ -1240,6 +1240,16 @@ Los fiscales regionales serán nombrados por el Fiscal Nacional, a propuesta en 
 
 Los fiscales regionales deberán tener a lo menos cinco años de título de abogado, haber cumplido 30 años de edad y poseer las demás calidades necesarias para ser ciudadano con derecho a sufragio; durarán ocho años en el ejercicio de sus funciones y no podrán ser designados como fiscales regionales por el período siguiente, lo que no obsta a que puedan ser nombrados en otro cargo del Ministerio Público.
 
+#### Artículo 86 bis.-
+
+Existirá una Fiscalía Supraterritorial, especializada en crimen organizado y delitos de alta complejidad, que desempeñará sus funciones respecto a ilícitos en los cuales existan antecedentes de la intervención de asociaciones delictivas o criminales, y cuando los hechos requieran una dirección supraterritorial o transnacional de la investigación. Estará a cargo de un Fiscal Jefe, al que corresponderá ejercer las funciones propias del Ministerio Público. Las contiendas de competencia que se susciten entre las Fiscalías Regionales y la Fiscalía Supraterritorial serán resueltas por el Fiscal Nacional.
+
+El Fiscal Jefe de la Fiscalía Supraterritorial deberá dar cumplimiento a las instrucciones particulares que imparta el Fiscal Nacional en las investigaciones de delitos de crimen organizado o de alta complejidad que estén a su cargo.
+
+El Fiscal Jefe de la Fiscalía Supraterritorial será designado por el Fiscal Nacional, será de su exclusiva confianza y se mantendrá en su cargo mientras cuente con ella, sin perjuicio de lo dispuesto en el inciso primero del artículo 84 y en el inciso tercero del artículo 89.
+
+El Fiscal Jefe de la Fiscalía Supraterritorial deberá tener a lo menos diez años de título de abogado, haber cumplido treinta y cinco años de edad, poseer las calidades necesarias para ser ciudadano con derecho a sufragio, y cumplir con las condiciones de conocimiento y experiencia en litigación en asuntos penales que serán determinados de acuerdo a la ley orgánica constitucional.
+
 #### Artículo 87.-
 
 La Corte Suprema y las Cortes de Apelaciones, en su caso, llamarán a concurso público de antecedentes para la integración de las quinas y ternas, las que serán acordadas por la mayoría absoluta de sus miembros en ejercicio, en pleno especialmente convocado al efecto. No podrán integrar las quinas y ternas los miembros activos o pensionados del Poder Judicial.
@@ -1248,7 +1258,7 @@ Las quinas y ternas se formarán en una misma y única votación en la cual cada
 
 #### Artículo 88.-
 
-Existirán fiscales adjuntos que serán designados por el Fiscal Nacional, a propuesta en terna del fiscal regional respectivo, la que deberá formarse previo concurso público, en conformidad a la ley orgánica constitucional. Deberán tener el título de abogado y poseer las demás calidades necesarias para ser ciudadano con derecho a sufragio.
+Existirán fiscales adjuntos que serán designados por el Fiscal Nacional, a propuesta en terna del fiscal regional respectivo o del Fiscal Jefe de la Fiscalía Supraterritorial, según corresponda, la que deberá formarse previo concurso público, en conformidad a la ley orgánica constitucional. Deberán tener el título de abogado y poseer las demás calidades necesarias para ser ciudadano con derecho a sufragio.
 
 #### Artículo 89.-
 
@@ -1256,9 +1266,13 @@ El Fiscal Nacional y los fiscales regionales sólo podrán ser removidos por la 
 
 La remoción de los fiscales regionales también podrá ser solicitada por el Fiscal Nacional.
 
+Al Fiscal Jefe de la Fiscalía Supraterritorial, especializada en crimen organizado y delitos de alta complejidad, le será aplicable lo dispuesto en el inciso primero, además de la remoción por parte del Fiscal Nacional.
+
+Tratándose de la remoción de los fiscales regionales, el Fiscal Nacional podrá solicitarla, además de las causales de este artículo, por el incumplimiento, de manera grave y reiterada, de las instrucciones generales que hubiere dictado dicho Fiscal Nacional para la debida tramitación de las causas.
+
 #### Artículo 90.-
 
-Se aplicará al Fiscal Nacional, a los fiscales regionales y a los fiscales adjuntos lo establecido en el artículo 81.
+Se aplicará al Fiscal Nacional, a los fiscales regionales, al Fiscal Jefe de la Fiscalía Supraterritorial y a los fiscales adjuntos lo establecido en el artículo 81.
 
 #### Artículo 91.-
 
@@ -2944,3 +2958,7 @@ Facúltase al Presidente de la República para que, en el plazo de tres meses co
 Dichas disposiciones sólo podrán otorgar a las Fuerzas Armadas atribuciones para el control de identidad y registro en las áreas de las zonas fronterizas delimitadas por el correspondiente decreto supremo, así como la detención para el solo efecto de poner a las personas a disposición de las policías. Asimismo, podrán facultar a las Fuerzas Armadas para la colaboración con la autoridad contralora para efectos de lo establecido en el artículo 166 de la ley N° 21.325, de Migración y Extranjería.
 
 Estos preceptos regirán mientras no se publique la ley a la que se refiere el párrafo final del numeral 21° del artículo 32. El respectivo Mensaje deberá ser enviado por el Presidente de la República al Congreso Nacional dentro de un plazo de seis meses contado desde la publicación de esta reforma.
+
+#### QUINCUAGÉSIMA CUARTA.
+
+Las modificaciones a los artículos 14 y 15 de esta Constitución, introducidas por el artículo único de la ley de reforma constitucional en materia de derecho de sufragio de personas extranjeras, comenzarán a regir desde el año 2026. Previo a su entrada en vigencia, una ley establecerá multas para ciudadanos por incumplimiento del deber de sufragio.
